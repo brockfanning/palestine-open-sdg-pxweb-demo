@@ -22,7 +22,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },

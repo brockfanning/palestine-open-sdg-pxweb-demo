@@ -1,19 +1,19 @@
 Year,SEX,AGE,Value
-2020,Male,All age ranges or no breakdown by age,77.0
+2020,Male,'',77.0
 2020,Male,under 15 years old,76.5
 2020,Male,15 to 24 years old,77.4
 2020,Male,25 to 34 years old,77.9
 2020,Male,35 to 44 years old,73.6
 2020,Male,65 years old and over,83.4
-2020,Female,All age ranges or no breakdown by age,77.2
+2020,Female,'',77.2
 2020,Female,under 15 years old,76.2
 2020,Female,15 to 24 years old,77.0
 2020,Female,25 to 34 years old,78.2
 2020,Female,35 to 44 years old,75.7
 2020,Female,65 years old and over,83.5
-2020,Both sexes or no breakdown by sex,All age ranges or no breakdown by age,77.1
-2020,Both sexes or no breakdown by sex,under 15 years old,76.3
-2020,Both sexes or no breakdown by sex,15 to 24 years old,77.2
-2020,Both sexes or no breakdown by sex,25 to 34 years old,78.1
-2020,Both sexes or no breakdown by sex,35 to 44 years old,74.7
-2020,Both sexes or no breakdown by sex,65 years old and over,83.5
+2020,'','',77.1
+2020,'',under 15 years old,76.3
+2020,'',15 to 24 years old,77.2
+2020,'',25 to 34 years old,78.1
+2020,'',35 to 44 years old,74.7
+2020,'',65 years old and over,83.5

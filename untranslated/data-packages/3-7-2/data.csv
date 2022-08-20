@@ -14,18 +14,18 @@ Year,SEX,AREA,Value
 2010,Female,Palestine,67
 2014,Female,Palestine,48
 2019,Female,Palestine,43
-2004,Both sexes or no breakdown by sex,West Bank,65
-2006,Both sexes or no breakdown by sex,West Bank,55
-2010,Both sexes or no breakdown by sex,West Bank,59
-2014,Both sexes or no breakdown by sex,West Bank,35
-2019,Both sexes or no breakdown by sex,West Bank,39
-2004,Both sexes or no breakdown by sex,Gaza Strip,76
-2006,Both sexes or no breakdown by sex,Gaza Strip,67
-2010,Both sexes or no breakdown by sex,Gaza Strip,65
-2014,Both sexes or no breakdown by sex,Gaza Strip,66
-2019,Both sexes or no breakdown by sex,Gaza Strip,48
-2004,Both sexes or no breakdown by sex,Palestine,69
-2006,Both sexes or no breakdown by sex,Palestine,59
-2010,Both sexes or no breakdown by sex,Palestine,67
-2014,Both sexes or no breakdown by sex,Palestine,48
-2019,Both sexes or no breakdown by sex,Palestine,43
+2004,'',West Bank,65
+2006,'',West Bank,55
+2010,'',West Bank,59
+2014,'',West Bank,35
+2019,'',West Bank,39
+2004,'',Gaza Strip,76
+2006,'',Gaza Strip,67
+2010,'',Gaza Strip,65
+2014,'',Gaza Strip,66
+2019,'',Gaza Strip,48
+2004,'',Palestine,69
+2006,'',Palestine,59
+2010,'',Palestine,67
+2014,'',Palestine,48
+2019,'',Palestine,43

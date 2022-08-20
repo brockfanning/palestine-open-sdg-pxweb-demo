@@ -8,12 +8,12 @@ Year,SEX,AREA,Value
 2005,Female,Palestine,31.9
 2011,Female,Palestine,31.6
 2019,Female,Palestine,27.0
-2005,Both sexes or no breakdown by sex,West Bank,34.7
-2011,Both sexes or no breakdown by sex,West Bank,29.9
-2019,Both sexes or no breakdown by sex,West Bank,
-2005,Both sexes or no breakdown by sex,Gaza Strip,27.3
-2011,Both sexes or no breakdown by sex,Gaza Strip,51.0
-2019,Both sexes or no breakdown by sex,Gaza Strip,
-2005,Both sexes or no breakdown by sex,Palestine,31.9
-2011,Both sexes or no breakdown by sex,Palestine,37.0
-2019,Both sexes or no breakdown by sex,Palestine,
+2005,'',West Bank,34.7
+2011,'',West Bank,29.9
+2019,'',West Bank,
+2005,'',Gaza Strip,27.3
+2011,'',Gaza Strip,51.0
+2019,'',Gaza Strip,
+2005,'',Palestine,31.9
+2011,'',Palestine,37.0
+2019,'',Palestine,

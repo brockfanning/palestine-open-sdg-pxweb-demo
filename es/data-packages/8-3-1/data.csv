@@ -53,30 +53,30 @@ Year,SEX,AREA,Value
 2015,Female,Palestine,43.8
 2016,Female,Palestine,44.1
 2017,Female,Palestine,42.9
-2009,Both sexes or no breakdown by sex,West Bank,61.4
-2010,Both sexes or no breakdown by sex,West Bank,56.1
-2011,Both sexes or no breakdown by sex,West Bank,52.0
-2012,Both sexes or no breakdown by sex,West Bank,52.7
-2013,Both sexes or no breakdown by sex,West Bank,54.0
-2014,Both sexes or no breakdown by sex,West Bank,54.5
-2015,Both sexes or no breakdown by sex,West Bank,70.1
-2016,Both sexes or no breakdown by sex,West Bank,70.2
-2017,Both sexes or no breakdown by sex,West Bank,71.0
-2009,Both sexes or no breakdown by sex,Gaza Strip,37.2
-2010,Both sexes or no breakdown by sex,Gaza Strip,40.4
-2011,Both sexes or no breakdown by sex,Gaza Strip,45.8
-2012,Both sexes or no breakdown by sex,Gaza Strip,46.9
-2013,Both sexes or no breakdown by sex,Gaza Strip,46.9
-2014,Both sexes or no breakdown by sex,Gaza Strip,42.4
-2015,Both sexes or no breakdown by sex,Gaza Strip,47.1
-2016,Both sexes or no breakdown by sex,Gaza Strip,50.6
-2017,Both sexes or no breakdown by sex,Gaza Strip,51.3
-2009,Both sexes or no breakdown by sex,Palestine,54.6
-2010,Both sexes or no breakdown by sex,Palestine,51.8
-2011,Both sexes or no breakdown by sex,Palestine,50.1
-2012,Both sexes or no breakdown by sex,Palestine,50.8
-2013,Both sexes or no breakdown by sex,Palestine,51.7
-2014,Both sexes or no breakdown by sex,Palestine,51.0
-2015,Both sexes or no breakdown by sex,Palestine,63.1
-2016,Both sexes or no breakdown by sex,Palestine,64.1
-2017,Both sexes or no breakdown by sex,Palestine,65.1
+2009,'',West Bank,61.4
+2010,'',West Bank,56.1
+2011,'',West Bank,52.0
+2012,'',West Bank,52.7
+2013,'',West Bank,54.0
+2014,'',West Bank,54.5
+2015,'',West Bank,70.1
+2016,'',West Bank,70.2
+2017,'',West Bank,71.0
+2009,'',Gaza Strip,37.2
+2010,'',Gaza Strip,40.4
+2011,'',Gaza Strip,45.8
+2012,'',Gaza Strip,46.9
+2013,'',Gaza Strip,46.9
+2014,'',Gaza Strip,42.4
+2015,'',Gaza Strip,47.1
+2016,'',Gaza Strip,50.6
+2017,'',Gaza Strip,51.3
+2009,'',Palestine,54.6
+2010,'',Palestine,51.8
+2011,'',Palestine,50.1
+2012,'',Palestine,50.8
+2013,'',Palestine,51.7
+2014,'',Palestine,51.0
+2015,'',Palestine,63.1
+2016,'',Palestine,64.1
+2017,'',Palestine,65.1

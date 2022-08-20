@@ -129,68 +129,68 @@ Year,SEX,AREA,Value
 2016,Female,Nablus,
 2017,Female,Nablus,
 2018,Female,Nablus,
-2006,Both sexes or no breakdown by sex,Palestine,2739.9
-2007,Both sexes or no breakdown by sex,Palestine,2710.7
-2008,Both sexes or no breakdown by sex,Palestine,2620.3
-2009,Both sexes or no breakdown by sex,Palestine,3026.6
-2010,Both sexes or no breakdown by sex,Palestine,3276.5
-2011,Both sexes or no breakdown by sex,Palestine,3226.3
-2012,Both sexes or no breakdown by sex,Palestine,3380.6
-2013,Both sexes or no breakdown by sex,Palestine,3612.0
-2014,Both sexes or no breakdown by sex,Palestine,4614.9
-2015,Both sexes or no breakdown by sex,Palestine,4496.1
-2016,Both sexes or no breakdown by sex,Palestine,4645.5
-2017,Both sexes or no breakdown by sex,Palestine,4777.2
-2018,Both sexes or no breakdown by sex,Palestine,4527.7
-2006,Both sexes or no breakdown by sex,Jenin,3026.6
-2007,Both sexes or no breakdown by sex,Jenin,3026.6
-2008,Both sexes or no breakdown by sex,Jenin,3026.6
-2009,Both sexes or no breakdown by sex,Jenin,3026.6
-2010,Both sexes or no breakdown by sex,Jenin,3026.6
-2011,Both sexes or no breakdown by sex,Jenin,3026.6
-2012,Both sexes or no breakdown by sex,Jenin,3026.6
-2013,Both sexes or no breakdown by sex,Jenin,3026.6
-2014,Both sexes or no breakdown by sex,Jenin,3026.6
-2015,Both sexes or no breakdown by sex,Jenin,3026.6
-2016,Both sexes or no breakdown by sex,Jenin,3026.6
-2017,Both sexes or no breakdown by sex,Jenin,3026.6
-2018,Both sexes or no breakdown by sex,Jenin,3026.6
-2006,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2007,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2008,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2009,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2010,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2011,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2012,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2013,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2014,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2015,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2016,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2017,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2018,Both sexes or no breakdown by sex,Tubas & Northern Valleys,3380.6
-2006,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2007,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2008,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2009,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2010,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2011,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2012,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2013,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2014,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2015,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2016,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2017,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2018,Both sexes or no breakdown by sex,Tulkarm,4496.1
-2006,Both sexes or no breakdown by sex,Nablus,4527.7
-2007,Both sexes or no breakdown by sex,Nablus,4527.7
-2008,Both sexes or no breakdown by sex,Nablus,4527.7
-2009,Both sexes or no breakdown by sex,Nablus,4527.7
-2010,Both sexes or no breakdown by sex,Nablus,4527.7
-2011,Both sexes or no breakdown by sex,Nablus,4527.7
-2012,Both sexes or no breakdown by sex,Nablus,4527.7
-2013,Both sexes or no breakdown by sex,Nablus,4527.7
-2014,Both sexes or no breakdown by sex,Nablus,4527.7
-2015,Both sexes or no breakdown by sex,Nablus,4527.7
-2016,Both sexes or no breakdown by sex,Nablus,4527.7
-2017,Both sexes or no breakdown by sex,Nablus,4527.7
-2018,Both sexes or no breakdown by sex,Nablus,4527.7
+2006,'',Palestine,2739.9
+2007,'',Palestine,2710.7
+2008,'',Palestine,2620.3
+2009,'',Palestine,3026.6
+2010,'',Palestine,3276.5
+2011,'',Palestine,3226.3
+2012,'',Palestine,3380.6
+2013,'',Palestine,3612.0
+2014,'',Palestine,4614.9
+2015,'',Palestine,4496.1
+2016,'',Palestine,4645.5
+2017,'',Palestine,4777.2
+2018,'',Palestine,4527.7
+2006,'',Jenin,3026.6
+2007,'',Jenin,3026.6
+2008,'',Jenin,3026.6
+2009,'',Jenin,3026.6
+2010,'',Jenin,3026.6
+2011,'',Jenin,3026.6
+2012,'',Jenin,3026.6
+2013,'',Jenin,3026.6
+2014,'',Jenin,3026.6
+2015,'',Jenin,3026.6
+2016,'',Jenin,3026.6
+2017,'',Jenin,3026.6
+2018,'',Jenin,3026.6
+2006,'',Tubas & Northern Valleys,3380.6
+2007,'',Tubas & Northern Valleys,3380.6
+2008,'',Tubas & Northern Valleys,3380.6
+2009,'',Tubas & Northern Valleys,3380.6
+2010,'',Tubas & Northern Valleys,3380.6
+2011,'',Tubas & Northern Valleys,3380.6
+2012,'',Tubas & Northern Valleys,3380.6
+2013,'',Tubas & Northern Valleys,3380.6
+2014,'',Tubas & Northern Valleys,3380.6
+2015,'',Tubas & Northern Valleys,3380.6
+2016,'',Tubas & Northern Valleys,3380.6
+2017,'',Tubas & Northern Valleys,3380.6
+2018,'',Tubas & Northern Valleys,3380.6
+2006,'',Tulkarm,4496.1
+2007,'',Tulkarm,4496.1
+2008,'',Tulkarm,4496.1
+2009,'',Tulkarm,4496.1
+2010,'',Tulkarm,4496.1
+2011,'',Tulkarm,4496.1
+2012,'',Tulkarm,4496.1
+2013,'',Tulkarm,4496.1
+2014,'',Tulkarm,4496.1
+2015,'',Tulkarm,4496.1
+2016,'',Tulkarm,4496.1
+2017,'',Tulkarm,4496.1
+2018,'',Tulkarm,4496.1
+2006,'',Nablus,4527.7
+2007,'',Nablus,4527.7
+2008,'',Nablus,4527.7
+2009,'',Nablus,4527.7
+2010,'',Nablus,4527.7
+2011,'',Nablus,4527.7
+2012,'',Nablus,4527.7
+2013,'',Nablus,4527.7
+2014,'',Nablus,4527.7
+2015,'',Nablus,4527.7
+2016,'',Nablus,4527.7
+2017,'',Nablus,4527.7
+2018,'',Nablus,4527.7

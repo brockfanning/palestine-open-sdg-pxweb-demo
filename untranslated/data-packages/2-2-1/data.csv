@@ -59,33 +59,33 @@ Year,SEX,AREA,Value
 2015,Female,Palestine,
 2016,Female,Palestine,
 2019,Female,Palestine,8.8
-2000,Both sexes or no breakdown by sex,West Bank,7.0
-2001,Both sexes or no breakdown by sex,West Bank,7.9
-2002,Both sexes or no breakdown by sex,West Bank,7.7
-2006,Both sexes or no breakdown by sex,West Bank,7.9
-2007,Both sexes or no breakdown by sex,West Bank,7.9
-2008,Both sexes or no breakdown by sex,West Bank,7.7
-2014,Both sexes or no breakdown by sex,West Bank,7.7
-2015,Both sexes or no breakdown by sex,West Bank,7.9
-2016,Both sexes or no breakdown by sex,West Bank,7.7
-2019,Both sexes or no breakdown by sex,West Bank,8.5
-2000,Both sexes or no breakdown by sex,Gaza Strip,8.3
-2001,Both sexes or no breakdown by sex,Gaza Strip,
-2002,Both sexes or no breakdown by sex,Gaza Strip,
-2006,Both sexes or no breakdown by sex,Gaza Strip,13.2
-2007,Both sexes or no breakdown by sex,Gaza Strip,
-2008,Both sexes or no breakdown by sex,Gaza Strip,
-2014,Both sexes or no breakdown by sex,Gaza Strip,7.1
-2015,Both sexes or no breakdown by sex,Gaza Strip,
-2016,Both sexes or no breakdown by sex,Gaza Strip,
-2019,Both sexes or no breakdown by sex,Gaza Strip,9.0
-2000,Both sexes or no breakdown by sex,Palestine,7.5
-2001,Both sexes or no breakdown by sex,Palestine,10.2
-2002,Both sexes or no breakdown by sex,Palestine,7.4
-2006,Both sexes or no breakdown by sex,Palestine,10.2
-2007,Both sexes or no breakdown by sex,Palestine,10.2
-2008,Both sexes or no breakdown by sex,Palestine,7.4
-2014,Both sexes or no breakdown by sex,Palestine,7.4
-2015,Both sexes or no breakdown by sex,Palestine,10.2
-2016,Both sexes or no breakdown by sex,Palestine,7.4
-2019,Both sexes or no breakdown by sex,Palestine,8.7
+2000,'',West Bank,7.0
+2001,'',West Bank,7.9
+2002,'',West Bank,7.7
+2006,'',West Bank,7.9
+2007,'',West Bank,7.9
+2008,'',West Bank,7.7
+2014,'',West Bank,7.7
+2015,'',West Bank,7.9
+2016,'',West Bank,7.7
+2019,'',West Bank,8.5
+2000,'',Gaza Strip,8.3
+2001,'',Gaza Strip,
+2002,'',Gaza Strip,
+2006,'',Gaza Strip,13.2
+2007,'',Gaza Strip,
+2008,'',Gaza Strip,
+2014,'',Gaza Strip,7.1
+2015,'',Gaza Strip,
+2016,'',Gaza Strip,
+2019,'',Gaza Strip,9.0
+2000,'',Palestine,7.5
+2001,'',Palestine,10.2
+2002,'',Palestine,7.4
+2006,'',Palestine,10.2
+2007,'',Palestine,10.2
+2008,'',Palestine,7.4
+2014,'',Palestine,7.4
+2015,'',Palestine,10.2
+2016,'',Palestine,7.4
+2019,'',Palestine,8.7

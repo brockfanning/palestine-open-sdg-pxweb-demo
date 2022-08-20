@@ -8,6 +8,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -22,7 +25,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -33,7 +36,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
+                "''",
                 "under 15 years old",
                 "15 to 24 years old",
                 "25 to 34 years old",

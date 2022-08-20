@@ -24,7 +24,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -171,6 +171,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -185,7 +188,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -221,6 +224,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -235,7 +241,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -393,6 +399,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -407,7 +416,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -591,6 +600,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -605,7 +617,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -628,6 +640,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -642,7 +657,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -702,6 +717,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -715,7 +733,7 @@
             "constraints": {
               "enum": [
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -751,6 +769,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -764,7 +785,7 @@
             "constraints": {
               "enum": [
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -824,6 +845,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -838,7 +862,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -874,6 +898,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -886,7 +913,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -902,7 +929,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -986,6 +1013,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1000,7 +1030,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1036,6 +1066,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1050,7 +1083,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1086,6 +1119,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1100,7 +1136,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1136,6 +1172,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1149,7 +1188,7 @@
             "constraints": {
               "enum": [
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1185,6 +1224,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1210,7 +1252,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
+                "''",
                 "15 to 19 years old",
                 "20 to 29 years old",
                 "30 to 39 years old",
@@ -1328,6 +1370,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1342,7 +1387,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1392,7 +1437,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1442,7 +1487,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1518,6 +1563,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1530,7 +1578,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -1585,6 +1633,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1597,7 +1648,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -1652,6 +1703,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1664,7 +1718,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -1812,6 +1866,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1826,7 +1883,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1862,6 +1919,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1876,7 +1936,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -1900,7 +1960,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total or no breakdown by Occupation",
+                "''",
                 "Technicians and associate professionals",
                 "Service and sales workers",
                 "Skilled agricultural, forestry and fishery workers",
@@ -1944,7 +2004,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2007,7 +2067,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2043,6 +2103,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -2057,7 +2120,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2081,7 +2144,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
+                "''",
                 "10 to 14 years old",
                 "10 to 17 years old",
                 "15 to 17 years old",
@@ -2229,6 +2292,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -2243,7 +2309,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2391,7 +2457,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2693,6 +2759,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -2707,7 +2776,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2718,7 +2787,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
+                "''",
                 "under 15 years old",
                 "15 to 24 years old",
                 "25 to 34 years old",
@@ -2842,6 +2911,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -2856,7 +2928,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2917,6 +2989,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -2930,7 +3005,7 @@
             "constraints": {
               "enum": [
                 "Male",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -2979,7 +3054,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3078,6 +3153,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3092,7 +3170,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3297,6 +3375,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3311,7 +3392,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3408,6 +3489,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3422,7 +3506,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3458,6 +3542,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3470,7 +3557,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -3486,7 +3573,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3573,7 +3660,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3609,6 +3696,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3621,7 +3711,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -3637,7 +3727,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3734,6 +3824,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3748,7 +3841,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3784,6 +3877,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3796,7 +3892,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -3812,7 +3908,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3848,6 +3944,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3862,7 +3961,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -3922,6 +4021,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3936,7 +4038,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },
@@ -4034,7 +4136,7 @@
               "enum": [
                 "Male",
                 "Female",
-                "Both sexes or no breakdown by sex",
+                "''",
                 ""
               ]
             },

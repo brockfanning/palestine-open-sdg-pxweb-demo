@@ -8,6 +8,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -31,7 +34,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All age ranges or no breakdown by age",
+                "''",
                 "15 to 19 years old",
                 "20 to 29 years old",
                 "30 to 39 years old",

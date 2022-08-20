@@ -47,27 +47,27 @@ Year,SEX,AREA,Value
 2017,Female,Palestine,21.0
 2018,Female,Palestine,21.0
 2019,Female,Palestine,20.1
-2000,Both sexes or no breakdown by sex,West Bank,
-2004,Both sexes or no breakdown by sex,West Bank,
-2005,Both sexes or no breakdown by sex,West Bank,
-2012,Both sexes or no breakdown by sex,West Bank,21.0
-2013,Both sexes or no breakdown by sex,West Bank,21.0
-2017,Both sexes or no breakdown by sex,West Bank,
-2018,Both sexes or no breakdown by sex,West Bank,21.1
-2019,Both sexes or no breakdown by sex,West Bank,21.1
-2000,Both sexes or no breakdown by sex,Gaza Strip,
-2004,Both sexes or no breakdown by sex,Gaza Strip,
-2005,Both sexes or no breakdown by sex,Gaza Strip,
-2012,Both sexes or no breakdown by sex,Gaza Strip,
-2013,Both sexes or no breakdown by sex,Gaza Strip,
-2017,Both sexes or no breakdown by sex,Gaza Strip,21.0
-2018,Both sexes or no breakdown by sex,Gaza Strip,0.0
-2019,Both sexes or no breakdown by sex,Gaza Strip,0.0
-2000,Both sexes or no breakdown by sex,Palestine,1.4
-2004,Both sexes or no breakdown by sex,Palestine,13.7
-2005,Both sexes or no breakdown by sex,Palestine,13.7
-2012,Both sexes or no breakdown by sex,Palestine,21.0
-2013,Both sexes or no breakdown by sex,Palestine,21.0
-2017,Both sexes or no breakdown by sex,Palestine,21.0
-2018,Both sexes or no breakdown by sex,Palestine,21.0
-2019,Both sexes or no breakdown by sex,Palestine,20.1
+2000,'',West Bank,
+2004,'',West Bank,
+2005,'',West Bank,
+2012,'',West Bank,21.0
+2013,'',West Bank,21.0
+2017,'',West Bank,
+2018,'',West Bank,21.1
+2019,'',West Bank,21.1
+2000,'',Gaza Strip,
+2004,'',Gaza Strip,
+2005,'',Gaza Strip,
+2012,'',Gaza Strip,
+2013,'',Gaza Strip,
+2017,'',Gaza Strip,21.0
+2018,'',Gaza Strip,0.0
+2019,'',Gaza Strip,0.0
+2000,'',Palestine,1.4
+2004,'',Palestine,13.7
+2005,'',Palestine,13.7
+2012,'',Palestine,21.0
+2013,'',Palestine,21.0
+2017,'',Palestine,21.0
+2018,'',Palestine,21.0
+2019,'',Palestine,20.1

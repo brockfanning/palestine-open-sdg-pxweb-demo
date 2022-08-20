@@ -35,21 +35,21 @@ Year,SEX,AREA,Value
 2010,Female,Palestine,1.9
 2019,Female,Palestine,7.3
 2020,Female,Palestine,6.9
-2000,Both sexes or no breakdown by sex,West Bank,26.8
-2004,Both sexes or no breakdown by sex,West Bank,24.8
-2006,Both sexes or no breakdown by sex,West Bank,25.4
-2010,Both sexes or no breakdown by sex,West Bank,23.7
-2019,Both sexes or no breakdown by sex,West Bank,36.2
-2020,Both sexes or no breakdown by sex,West Bank,31.0
-2000,Both sexes or no breakdown by sex,Gaza Strip,21.3
-2004,Both sexes or no breakdown by sex,Gaza Strip,17.5
-2006,Both sexes or no breakdown by sex,Gaza Strip,17.2
-2010,Both sexes or no breakdown by sex,Gaza Strip,12.1
-2019,Both sexes or no breakdown by sex,Gaza Strip,18.3
-2020,Both sexes or no breakdown by sex,Gaza Strip,13.3
-2000,Both sexes or no breakdown by sex,Palestine,24.9
-2004,Both sexes or no breakdown by sex,Palestine,22.3
-2006,Both sexes or no breakdown by sex,Palestine,22.5
-2010,Both sexes or no breakdown by sex,Palestine,19.4
-2019,Both sexes or no breakdown by sex,Palestine,29.5
-2020,Both sexes or no breakdown by sex,Palestine,24.3
+2000,'',West Bank,26.8
+2004,'',West Bank,24.8
+2006,'',West Bank,25.4
+2010,'',West Bank,23.7
+2019,'',West Bank,36.2
+2020,'',West Bank,31.0
+2000,'',Gaza Strip,21.3
+2004,'',Gaza Strip,17.5
+2006,'',Gaza Strip,17.2
+2010,'',Gaza Strip,12.1
+2019,'',Gaza Strip,18.3
+2020,'',Gaza Strip,13.3
+2000,'',Palestine,24.9
+2004,'',Palestine,22.3
+2006,'',Palestine,22.5
+2010,'',Palestine,19.4
+2019,'',Palestine,29.5
+2020,'',Palestine,24.3
