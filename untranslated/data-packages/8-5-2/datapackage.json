@@ -12,7 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Both sexes or no breakdown by sex",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jenin",
+                "Tubas & Northern Valleys",
+                "Tulkarm",
+                "Nablus",
+                "Qalqiliya",
+                "Salfit",
+                "Ramallah & Al-Bireh",
+                "Jericho & AL Aghwar",
+                "Jerusalem",
+                "Bethlehem",
+                "Hebron",
+                "North Gaza",
+                "Gaza",
+                "Dier Al-Balah",
+                "Khan Yunis",
+                "Rafah",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

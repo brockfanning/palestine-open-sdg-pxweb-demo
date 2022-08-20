@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Both sexes or no breakdown by sex",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Palestine",
+                "Jenin",
+                "Tubas & Northern Valleys",
+                "Tulkarm",
+                ""
+              ]
+            },
+            "title": "AREA"
           },
           {
             "name": "Value",

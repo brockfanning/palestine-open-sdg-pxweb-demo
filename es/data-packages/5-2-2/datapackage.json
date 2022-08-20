@@ -12,8 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West Bank",
+                "Gaza Strip",
+                "Palestine",
+                ""
+              ]
+            },
+            "title": "AREA"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All age ranges or no breakdown by age",
+                "15 to 19 years old",
+                "20 to 29 years old",
+                "30 to 39 years old",
+                "40 to 49 years old",
+                "50 to 59 years old",
+                "60 to 64 years old",
+                ""
+              ]
+            },
+            "title": "AGE"
           },
           {
             "name": "Value",

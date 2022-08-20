@@ -1,1 +1,10 @@
-Year,Value
+Year,SEX,AREA,Value
+2019,Male,West Bank,
+2019,Male,Gaza Strip,
+2019,Male,Palestine,91.8
+2019,Female,West Bank,
+2019,Female,Gaza Strip,
+2019,Female,Palestine,93.9
+2019,Both sexes or no breakdown by sex,West Bank,91.0
+2019,Both sexes or no breakdown by sex,Gaza Strip,95.2
+2019,Both sexes or no breakdown by sex,Palestine,92.8

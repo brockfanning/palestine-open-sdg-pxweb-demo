@@ -12,7 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Urban",
+                "Rural",
+                "Camp",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West Bank",
+                "Gaza Strip",
+                "Palestine",
+                "Jenin",
+                "Tubas & Northern Valleys",
+                "Tulkarm",
+                "Nablus",
+                "Qalqiliya",
+                "Salfit",
+                "Ramallah & Al-Bireh",
+                "Jericho & AL Aghwar",
+                "Jerusalem",
+                "Bethlehem",
+                "Hebron",
+                "North Gaza",
+                "Gaza",
+                "Dier Al-Balah",
+                "Khan Yunis",
+                "Rafah",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

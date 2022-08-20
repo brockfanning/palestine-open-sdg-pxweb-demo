@@ -1,1 +1,25 @@
-Year,Value
+Year,SEX,AREA,Value
+2000,Male,West Bank,102.0
+2001,Male,West Bank,203.0
+2017,Male,West Bank,
+2018,Male,West Bank,
+2019,Male,West Bank,
+2020,Male,West Bank,
+2000,Male,Palestine,
+2001,Male,Palestine,
+2017,Male,Palestine,
+2018,Male,Palestine,
+2019,Male,Palestine,
+2020,Male,Palestine,
+2000,Both sexes or no breakdown by sex,West Bank,
+2001,Both sexes or no breakdown by sex,West Bank,
+2017,Both sexes or no breakdown by sex,West Bank,
+2018,Both sexes or no breakdown by sex,West Bank,
+2019,Both sexes or no breakdown by sex,West Bank,
+2020,Both sexes or no breakdown by sex,West Bank,
+2000,Both sexes or no breakdown by sex,Palestine,
+2001,Both sexes or no breakdown by sex,Palestine,
+2017,Both sexes or no breakdown by sex,Palestine,1.0
+2018,Both sexes or no breakdown by sex,Palestine,1.0
+2019,Both sexes or no breakdown by sex,Palestine,1.0
+2020,Both sexes or no breakdown by sex,Palestine,1.0

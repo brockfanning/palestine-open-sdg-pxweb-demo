@@ -1,1 +1,37 @@
-Year,Value
+Year,SEX,AREA,Value
+2015,Male,Palestine,20.71
+2016,Male,Palestine,20.71
+2017,Male,Palestine,20.71
+2018,Male,Palestine,20.71
+2019,Male,Palestine,20.71
+2020,Male,Palestine,20.71
+2015,Male,Jenin,20.93
+2016,Male,Jenin,20.93
+2017,Male,Jenin,20.93
+2018,Male,Jenin,20.93
+2019,Male,Jenin,20.93
+2020,Male,Jenin,20.93
+2015,Female,Palestine,20.46
+2016,Female,Palestine,20.46
+2017,Female,Palestine,20.46
+2018,Female,Palestine,20.46
+2019,Female,Palestine,20.46
+2020,Female,Palestine,20.46
+2015,Female,Jenin,20.93
+2016,Female,Jenin,20.93
+2017,Female,Jenin,20.93
+2018,Female,Jenin,20.93
+2019,Female,Jenin,20.93
+2020,Female,Jenin,20.93
+2015,Both sexes or no breakdown by sex,Palestine,20.13
+2016,Both sexes or no breakdown by sex,Palestine,20.46
+2017,Both sexes or no breakdown by sex,Palestine,20.71
+2018,Both sexes or no breakdown by sex,Palestine,20.93
+2019,Both sexes or no breakdown by sex,Palestine,20.93
+2020,Both sexes or no breakdown by sex,Palestine,20.93
+2015,Both sexes or no breakdown by sex,Jenin,20.93
+2016,Both sexes or no breakdown by sex,Jenin,20.93
+2017,Both sexes or no breakdown by sex,Jenin,20.93
+2018,Both sexes or no breakdown by sex,Jenin,20.93
+2019,Both sexes or no breakdown by sex,Jenin,20.93
+2020,Both sexes or no breakdown by sex,Jenin,20.93

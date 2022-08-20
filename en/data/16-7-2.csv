@@ -1,1 +1,73 @@
-Year,Value
+Year,URBANISATION,SEX,AREA,Value
+2018,Total,Male,West Bank,
+2021,Total,Male,West Bank,
+2018,Total,Male,Gaza Strip,
+2021,Total,Male,Gaza Strip,
+2018,Total,Male,Palestine,45.7
+2021,Total,Male,Palestine,36.4
+2018,Total,Female,West Bank,
+2021,Total,Female,West Bank,
+2018,Total,Female,Gaza Strip,
+2021,Total,Female,Gaza Strip,
+2018,Total,Female,Palestine,41.5
+2021,Total,Female,Palestine,30.5
+2018,Total,Both sexes or no breakdown by sex,West Bank,47.6
+2021,Total,Both sexes or no breakdown by sex,West Bank,34.6
+2018,Total,Both sexes or no breakdown by sex,Gaza Strip,38.1
+2021,Total,Both sexes or no breakdown by sex,Gaza Strip,32.0
+2018,Total,Both sexes or no breakdown by sex,Palestine,43.7
+2021,Total,Both sexes or no breakdown by sex,Palestine,33.5
+2018,Urban,Male,West Bank,
+2021,Urban,Male,West Bank,
+2018,Urban,Male,Gaza Strip,
+2021,Urban,Male,Gaza Strip,
+2018,Urban,Male,Palestine,
+2021,Urban,Male,Palestine,
+2018,Urban,Female,West Bank,
+2021,Urban,Female,West Bank,
+2018,Urban,Female,Gaza Strip,
+2021,Urban,Female,Gaza Strip,
+2018,Urban,Female,Palestine,
+2021,Urban,Female,Palestine,
+2018,Urban,Both sexes or no breakdown by sex,West Bank,
+2021,Urban,Both sexes or no breakdown by sex,West Bank,
+2018,Urban,Both sexes or no breakdown by sex,Gaza Strip,
+2021,Urban,Both sexes or no breakdown by sex,Gaza Strip,
+2018,Urban,Both sexes or no breakdown by sex,Palestine,42.2
+2021,Urban,Both sexes or no breakdown by sex,Palestine,32.9
+2018,Rural,Male,West Bank,
+2021,Rural,Male,West Bank,
+2018,Rural,Male,Gaza Strip,
+2021,Rural,Male,Gaza Strip,
+2018,Rural,Male,Palestine,
+2021,Rural,Male,Palestine,
+2018,Rural,Female,West Bank,
+2021,Rural,Female,West Bank,
+2018,Rural,Female,Gaza Strip,
+2021,Rural,Female,Gaza Strip,
+2018,Rural,Female,Palestine,
+2021,Rural,Female,Palestine,
+2018,Rural,Both sexes or no breakdown by sex,West Bank,
+2021,Rural,Both sexes or no breakdown by sex,West Bank,
+2018,Rural,Both sexes or no breakdown by sex,Gaza Strip,
+2021,Rural,Both sexes or no breakdown by sex,Gaza Strip,
+2018,Rural,Both sexes or no breakdown by sex,Palestine,50.7
+2021,Rural,Both sexes or no breakdown by sex,Palestine,36.0
+2018,Camp,Male,West Bank,
+2021,Camp,Male,West Bank,
+2018,Camp,Male,Gaza Strip,
+2021,Camp,Male,Gaza Strip,
+2018,Camp,Male,Palestine,
+2021,Camp,Male,Palestine,
+2018,Camp,Female,West Bank,
+2021,Camp,Female,West Bank,
+2018,Camp,Female,Gaza Strip,
+2021,Camp,Female,Gaza Strip,
+2018,Camp,Female,Palestine,
+2021,Camp,Female,Palestine,
+2018,Camp,Both sexes or no breakdown by sex,West Bank,
+2021,Camp,Both sexes or no breakdown by sex,West Bank,
+2018,Camp,Both sexes or no breakdown by sex,Gaza Strip,
+2021,Camp,Both sexes or no breakdown by sex,Gaza Strip,
+2018,Camp,Both sexes or no breakdown by sex,Palestine,46.2
+2021,Camp,Both sexes or no breakdown by sex,Palestine,35.1

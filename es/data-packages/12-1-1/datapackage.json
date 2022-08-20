@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Both sexes or no breakdown by sex",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West Bank",
+                "Palestine",
+                ""
+              ]
+            },
+            "title": "AREA"
           },
           {
             "name": "Value",

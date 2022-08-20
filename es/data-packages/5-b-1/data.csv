@@ -1,1 +1,457 @@
-Year,Value
+Year,SEX,AREA,Value
+2000,Male,West Bank,
+2004,Male,West Bank,
+2006,Male,West Bank,
+2009,Male,West Bank,
+2011,Male,West Bank,
+2014,Male,West Bank,
+2018,Male,West Bank,
+2019,Male,West Bank,
+2000,Male,Gaza Strip,
+2004,Male,Gaza Strip,
+2006,Male,Gaza Strip,
+2009,Male,Gaza Strip,
+2011,Male,Gaza Strip,
+2014,Male,Gaza Strip,
+2018,Male,Gaza Strip,
+2019,Male,Gaza Strip,
+2000,Male,Palestine,36.0
+2004,Male,Palestine,45.1
+2006,Male,Palestine,52.7
+2009,Male,Palestine,66.7
+2011,Male,Palestine,76.5
+2014,Male,Palestine,81.8
+2018,Male,Palestine,93.9
+2019,Male,Palestine,79.2
+2000,Male,Jenin,
+2004,Male,Jenin,
+2006,Male,Jenin,49.5
+2009,Male,Jenin,77.2
+2011,Male,Jenin,83.1
+2014,Male,Jenin,86.6
+2018,Male,Jenin,94.9
+2019,Male,Jenin,
+2000,Male,Tubas & Northern Valleys,
+2004,Male,Tubas & Northern Valleys,
+2006,Male,Tubas & Northern Valleys,63.4
+2009,Male,Tubas & Northern Valleys,60.2
+2011,Male,Tubas & Northern Valleys,71.5
+2014,Male,Tubas & Northern Valleys,86.9
+2018,Male,Tubas & Northern Valleys,96.2
+2019,Male,Tubas & Northern Valleys,
+2000,Male,Tulkarm,
+2004,Male,Tulkarm,
+2006,Male,Tulkarm,41.6
+2009,Male,Tulkarm,74.6
+2011,Male,Tulkarm,64.7
+2014,Male,Tulkarm,80.5
+2018,Male,Tulkarm,92.9
+2019,Male,Tulkarm,
+2000,Male,Nablus,
+2004,Male,Nablus,
+2006,Male,Nablus,60.9
+2009,Male,Nablus,71.6
+2011,Male,Nablus,73.9
+2014,Male,Nablus,84.4
+2018,Male,Nablus,98.0
+2019,Male,Nablus,
+2000,Male,Qalqiliya,
+2004,Male,Qalqiliya,
+2006,Male,Qalqiliya,74.6
+2009,Male,Qalqiliya,59.6
+2011,Male,Qalqiliya,93.2
+2014,Male,Qalqiliya,77.2
+2018,Male,Qalqiliya,97.8
+2019,Male,Qalqiliya,
+2000,Male,Salfit,
+2004,Male,Salfit,
+2006,Male,Salfit,74.9
+2009,Male,Salfit,60.0
+2011,Male,Salfit,74.8
+2014,Male,Salfit,93.4
+2018,Male,Salfit,95.7
+2019,Male,Salfit,
+2000,Male,Ramallah & Al-Bireh,
+2004,Male,Ramallah & Al-Bireh,
+2006,Male,Ramallah & Al-Bireh,56.3
+2009,Male,Ramallah & Al-Bireh,67.4
+2011,Male,Ramallah & Al-Bireh,85.6
+2014,Male,Ramallah & Al-Bireh,88.4
+2018,Male,Ramallah & Al-Bireh,98.2
+2019,Male,Ramallah & Al-Bireh,
+2000,Male,Jericho & AL Aghwar,
+2004,Male,Jericho & AL Aghwar,
+2006,Male,Jericho & AL Aghwar,62.0
+2009,Male,Jericho & AL Aghwar,81.0
+2011,Male,Jericho & AL Aghwar,88.0
+2014,Male,Jericho & AL Aghwar,93.3
+2018,Male,Jericho & AL Aghwar,98.8
+2019,Male,Jericho & AL Aghwar,
+2000,Male,Jerusalem,
+2004,Male,Jerusalem,
+2006,Male,Jerusalem,66.5
+2009,Male,Jerusalem,76.0
+2011,Male,Jerusalem,89.3
+2014,Male,Jerusalem,84.3
+2018,Male,Jerusalem,92.8
+2019,Male,Jerusalem,
+2000,Male,Bethlehem,
+2004,Male,Bethlehem,
+2006,Male,Bethlehem,41.9
+2009,Male,Bethlehem,70.3
+2011,Male,Bethlehem,75.7
+2014,Male,Bethlehem,83.6
+2018,Male,Bethlehem,96.7
+2019,Male,Bethlehem,
+2000,Male,Hebron,
+2004,Male,Hebron,
+2006,Male,Hebron,55.1
+2009,Male,Hebron,61.0
+2011,Male,Hebron,76.2
+2014,Male,Hebron,87.8
+2018,Male,Hebron,96.4
+2019,Male,Hebron,
+2000,Male,North Gaza,
+2004,Male,North Gaza,
+2006,Male,North Gaza,55.9
+2009,Male,North Gaza,63.1
+2011,Male,North Gaza,56.6
+2014,Male,North Gaza,76.9
+2018,Male,North Gaza,85.3
+2019,Male,North Gaza,
+2000,Male,Gaza,
+2004,Male,Gaza,
+2006,Male,Gaza,46.5
+2009,Male,Gaza,58.1
+2011,Male,Gaza,78.0
+2014,Male,Gaza,75.1
+2018,Male,Gaza,90.2
+2019,Male,Gaza,
+2000,Male,Dier Al-Balah,
+2004,Male,Dier Al-Balah,
+2006,Male,Dier Al-Balah,46.4
+2009,Male,Dier Al-Balah,74.6
+2011,Male,Dier Al-Balah,63.3
+2014,Male,Dier Al-Balah,71.7
+2018,Male,Dier Al-Balah,93.3
+2019,Male,Dier Al-Balah,
+2000,Male,Khan Yunis,
+2004,Male,Khan Yunis,
+2006,Male,Khan Yunis,39.3
+2009,Male,Khan Yunis,60.7
+2011,Male,Khan Yunis,77.3
+2014,Male,Khan Yunis,81.6
+2018,Male,Khan Yunis,92.2
+2019,Male,Khan Yunis,
+2000,Male,Rafah,
+2004,Male,Rafah,
+2006,Male,Rafah,40.0
+2009,Male,Rafah,61.3
+2011,Male,Rafah,77.5
+2014,Male,Rafah,76.9
+2018,Male,Rafah,90.7
+2019,Male,Rafah,
+2000,Female,West Bank,
+2004,Female,West Bank,
+2006,Female,West Bank,
+2009,Female,West Bank,
+2011,Female,West Bank,
+2014,Female,West Bank,
+2018,Female,West Bank,
+2019,Female,West Bank,
+2000,Female,Gaza Strip,
+2004,Female,Gaza Strip,
+2006,Female,Gaza Strip,
+2009,Female,Gaza Strip,
+2011,Female,Gaza Strip,
+2014,Female,Gaza Strip,
+2018,Female,Gaza Strip,
+2019,Female,Gaza Strip,
+2000,Female,Palestine,5.2
+2004,Female,Palestine,14.6
+2006,Female,Palestine,22.4
+2009,Female,Palestine,41.6
+2011,Female,Palestine,53.6
+2014,Female,Palestine,65.3
+2018,Female,Palestine,83.2
+2019,Female,Palestine,70.5
+2000,Female,Jenin,
+2004,Female,Jenin,
+2006,Female,Jenin,21.2
+2009,Female,Jenin,37.7
+2011,Female,Jenin,49.2
+2014,Female,Jenin,61.8
+2018,Female,Jenin,91.3
+2019,Female,Jenin,
+2000,Female,Tubas & Northern Valleys,
+2004,Female,Tubas & Northern Valleys,
+2006,Female,Tubas & Northern Valleys,14.3
+2009,Female,Tubas & Northern Valleys,52.2
+2011,Female,Tubas & Northern Valleys,37.1
+2014,Female,Tubas & Northern Valleys,54.2
+2018,Female,Tubas & Northern Valleys,74.5
+2019,Female,Tubas & Northern Valleys,
+2000,Female,Tulkarm,
+2004,Female,Tulkarm,
+2006,Female,Tulkarm,18.8
+2009,Female,Tulkarm,38.0
+2011,Female,Tulkarm,50.4
+2014,Female,Tulkarm,67.8
+2018,Female,Tulkarm,87.0
+2019,Female,Tulkarm,
+2000,Female,Nablus,
+2004,Female,Nablus,
+2006,Female,Nablus,24.9
+2009,Female,Nablus,48.2
+2011,Female,Nablus,68.4
+2014,Female,Nablus,72.6
+2018,Female,Nablus,92.2
+2019,Female,Nablus,
+2000,Female,Qalqiliya,
+2004,Female,Qalqiliya,
+2006,Female,Qalqiliya,56.1
+2009,Female,Qalqiliya,41.2
+2011,Female,Qalqiliya,56.8
+2014,Female,Qalqiliya,68.0
+2018,Female,Qalqiliya,86.2
+2019,Female,Qalqiliya,
+2000,Female,Salfit,
+2004,Female,Salfit,
+2006,Female,Salfit,22.6
+2009,Female,Salfit,47.2
+2011,Female,Salfit,47.8
+2014,Female,Salfit,65.8
+2018,Female,Salfit,86.9
+2019,Female,Salfit,
+2000,Female,Ramallah & Al-Bireh,
+2004,Female,Ramallah & Al-Bireh,
+2006,Female,Ramallah & Al-Bireh,24.3
+2009,Female,Ramallah & Al-Bireh,53.6
+2011,Female,Ramallah & Al-Bireh,75.6
+2014,Female,Ramallah & Al-Bireh,72.1
+2018,Female,Ramallah & Al-Bireh,88.2
+2019,Female,Ramallah & Al-Bireh,
+2000,Female,Jericho & AL Aghwar,
+2004,Female,Jericho & AL Aghwar,
+2006,Female,Jericho & AL Aghwar,13.0
+2009,Female,Jericho & AL Aghwar,67.4
+2011,Female,Jericho & AL Aghwar,46.5
+2014,Female,Jericho & AL Aghwar,86.2
+2018,Female,Jericho & AL Aghwar,90.3
+2019,Female,Jericho & AL Aghwar,
+2000,Female,Jerusalem,
+2004,Female,Jerusalem,
+2006,Female,Jerusalem,52.5
+2009,Female,Jerusalem,60.3
+2011,Female,Jerusalem,82.6
+2014,Female,Jerusalem,73.1
+2018,Female,Jerusalem,87.4
+2019,Female,Jerusalem,
+2000,Female,Bethlehem,
+2004,Female,Bethlehem,
+2006,Female,Bethlehem,23.5
+2009,Female,Bethlehem,30.8
+2011,Female,Bethlehem,58.5
+2014,Female,Bethlehem,76.6
+2018,Female,Bethlehem,82.2
+2019,Female,Bethlehem,
+2000,Female,Hebron,
+2004,Female,Hebron,
+2006,Female,Hebron,15.8
+2009,Female,Hebron,36.9
+2011,Female,Hebron,44.9
+2014,Female,Hebron,65.4
+2018,Female,Hebron,90.3
+2019,Female,Hebron,
+2000,Female,North Gaza,
+2004,Female,North Gaza,
+2006,Female,North Gaza,12.7
+2009,Female,North Gaza,44.8
+2011,Female,North Gaza,40.8
+2014,Female,North Gaza,54.1
+2018,Female,North Gaza,71.6
+2019,Female,North Gaza,
+2000,Female,Gaza,
+2004,Female,Gaza,
+2006,Female,Gaza,17.7
+2009,Female,Gaza,34.9
+2011,Female,Gaza,46.5
+2014,Female,Gaza,67.2
+2018,Female,Gaza,77.3
+2019,Female,Gaza,
+2000,Female,Dier Al-Balah,
+2004,Female,Dier Al-Balah,
+2006,Female,Dier Al-Balah,11.2
+2009,Female,Dier Al-Balah,35.1
+2011,Female,Dier Al-Balah,39.2
+2014,Female,Dier Al-Balah,55.8
+2018,Female,Dier Al-Balah,80.3
+2019,Female,Dier Al-Balah,
+2000,Female,Khan Yunis,
+2004,Female,Khan Yunis,
+2006,Female,Khan Yunis,9.8
+2009,Female,Khan Yunis,28.6
+2011,Female,Khan Yunis,40.9
+2014,Female,Khan Yunis,52.5
+2018,Female,Khan Yunis,71.5
+2019,Female,Khan Yunis,
+2000,Female,Rafah,
+2004,Female,Rafah,
+2006,Female,Rafah,13.9
+2009,Female,Rafah,33.3
+2011,Female,Rafah,48.8
+2014,Female,Rafah,54.1
+2018,Female,Rafah,67.9
+2019,Female,Rafah,
+2000,Both sexes or no breakdown by sex,West Bank,24.4
+2004,Both sexes or no breakdown by sex,West Bank,34.6
+2006,Both sexes or no breakdown by sex,West Bank,41.9
+2009,Both sexes or no breakdown by sex,West Bank,57.4
+2011,Both sexes or no breakdown by sex,West Bank,69.5
+2014,Both sexes or no breakdown by sex,West Bank,77.5
+2018,Both sexes or no breakdown by sex,West Bank,92.4
+2019,Both sexes or no breakdown by sex,West Bank,81.6
+2000,Both sexes or no breakdown by sex,Gaza Strip,13.0
+2004,Both sexes or no breakdown by sex,Gaza Strip,21.7
+2006,Both sexes or no breakdown by sex,Gaza Strip,30.1
+2009,Both sexes or no breakdown by sex,Gaza Strip,48.9
+2011,Both sexes or no breakdown by sex,Gaza Strip,57.8
+2014,Both sexes or no breakdown by sex,Gaza Strip,67.2
+2018,Both sexes or no breakdown by sex,Gaza Strip,82.3
+2019,Both sexes or no breakdown by sex,Gaza Strip,64.2
+2000,Both sexes or no breakdown by sex,Palestine,20.6
+2004,Both sexes or no breakdown by sex,Palestine,30.0
+2006,Both sexes or no breakdown by sex,Palestine,37.7
+2009,Both sexes or no breakdown by sex,Palestine,54.3
+2011,Both sexes or no breakdown by sex,Palestine,65.2
+2014,Both sexes or no breakdown by sex,Palestine,73.7
+2018,Both sexes or no breakdown by sex,Palestine,88.6
+2019,Both sexes or no breakdown by sex,Palestine,74.9
+2000,Both sexes or no breakdown by sex,Jenin,
+2004,Both sexes or no breakdown by sex,Jenin,
+2006,Both sexes or no breakdown by sex,Jenin,36.1
+2009,Both sexes or no breakdown by sex,Jenin,58.9
+2011,Both sexes or no breakdown by sex,Jenin,67.2
+2014,Both sexes or no breakdown by sex,Jenin,74.0
+2018,Both sexes or no breakdown by sex,Jenin,93.2
+2019,Both sexes or no breakdown by sex,Jenin,
+2000,Both sexes or no breakdown by sex,Tubas & Northern Valleys,
+2004,Both sexes or no breakdown by sex,Tubas & Northern Valleys,
+2006,Both sexes or no breakdown by sex,Tubas & Northern Valleys,36.5
+2009,Both sexes or no breakdown by sex,Tubas & Northern Valleys,56.8
+2011,Both sexes or no breakdown by sex,Tubas & Northern Valleys,55.2
+2014,Both sexes or no breakdown by sex,Tubas & Northern Valleys,70.9
+2018,Both sexes or no breakdown by sex,Tubas & Northern Valleys,84.0
+2019,Both sexes or no breakdown by sex,Tubas & Northern Valleys,
+2000,Both sexes or no breakdown by sex,Tulkarm,
+2004,Both sexes or no breakdown by sex,Tulkarm,
+2006,Both sexes or no breakdown by sex,Tulkarm,30.0
+2009,Both sexes or no breakdown by sex,Tulkarm,57.7
+2011,Both sexes or no breakdown by sex,Tulkarm,58.5
+2014,Both sexes or no breakdown by sex,Tulkarm,74.3
+2018,Both sexes or no breakdown by sex,Tulkarm,89.9
+2019,Both sexes or no breakdown by sex,Tulkarm,
+2000,Both sexes or no breakdown by sex,Nablus,
+2004,Both sexes or no breakdown by sex,Nablus,
+2006,Both sexes or no breakdown by sex,Nablus,42.7
+2009,Both sexes or no breakdown by sex,Nablus,59.8
+2011,Both sexes or no breakdown by sex,Nablus,71.0
+2014,Both sexes or no breakdown by sex,Nablus,78.7
+2018,Both sexes or no breakdown by sex,Nablus,95.1
+2019,Both sexes or no breakdown by sex,Nablus,
+2000,Both sexes or no breakdown by sex,Qalqiliya,
+2004,Both sexes or no breakdown by sex,Qalqiliya,
+2006,Both sexes or no breakdown by sex,Qalqiliya,64.7
+2009,Both sexes or no breakdown by sex,Qalqiliya,52.4
+2011,Both sexes or no breakdown by sex,Qalqiliya,75.0
+2014,Both sexes or no breakdown by sex,Qalqiliya,72.8
+2018,Both sexes or no breakdown by sex,Qalqiliya,92.4
+2019,Both sexes or no breakdown by sex,Qalqiliya,
+2000,Both sexes or no breakdown by sex,Salfit,
+2004,Both sexes or no breakdown by sex,Salfit,
+2006,Both sexes or no breakdown by sex,Salfit,45.5
+2009,Both sexes or no breakdown by sex,Salfit,53.9
+2011,Both sexes or no breakdown by sex,Salfit,61.7
+2014,Both sexes or no breakdown by sex,Salfit,78.9
+2018,Both sexes or no breakdown by sex,Salfit,91.7
+2019,Both sexes or no breakdown by sex,Salfit,
+2000,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,
+2004,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,
+2006,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,40.5
+2009,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,59.9
+2011,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,80.7
+2014,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,80.4
+2018,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,93.3
+2019,Both sexes or no breakdown by sex,Ramallah & Al-Bireh,
+2000,Both sexes or no breakdown by sex,Jericho & AL Aghwar,
+2004,Both sexes or no breakdown by sex,Jericho & AL Aghwar,
+2006,Both sexes or no breakdown by sex,Jericho & AL Aghwar,41.0
+2009,Both sexes or no breakdown by sex,Jericho & AL Aghwar,73.9
+2011,Both sexes or no breakdown by sex,Jericho & AL Aghwar,65.2
+2014,Both sexes or no breakdown by sex,Jericho & AL Aghwar,90.1
+2018,Both sexes or no breakdown by sex,Jericho & AL Aghwar,94.1
+2019,Both sexes or no breakdown by sex,Jericho & AL Aghwar,
+2000,Both sexes or no breakdown by sex,Jerusalem,
+2004,Both sexes or no breakdown by sex,Jerusalem,
+2006,Both sexes or no breakdown by sex,Jerusalem,59.3
+2009,Both sexes or no breakdown by sex,Jerusalem,68.0
+2011,Both sexes or no breakdown by sex,Jerusalem,86.0
+2014,Both sexes or no breakdown by sex,Jerusalem,78.9
+2018,Both sexes or no breakdown by sex,Jerusalem,90.0
+2019,Both sexes or no breakdown by sex,Jerusalem,
+2000,Both sexes or no breakdown by sex,Bethlehem,
+2004,Both sexes or no breakdown by sex,Bethlehem,
+2006,Both sexes or no breakdown by sex,Bethlehem,33.2
+2009,Both sexes or no breakdown by sex,Bethlehem,50.2
+2011,Both sexes or no breakdown by sex,Bethlehem,67.1
+2014,Both sexes or no breakdown by sex,Bethlehem,80.0
+2018,Both sexes or no breakdown by sex,Bethlehem,89.7
+2019,Both sexes or no breakdown by sex,Bethlehem,
+2000,Both sexes or no breakdown by sex,Hebron,
+2004,Both sexes or no breakdown by sex,Hebron,
+2006,Both sexes or no breakdown by sex,Hebron,36.5
+2009,Both sexes or no breakdown by sex,Hebron,49.0
+2011,Both sexes or no breakdown by sex,Hebron,60.5
+2014,Both sexes or no breakdown by sex,Hebron,76.7
+2018,Both sexes or no breakdown by sex,Hebron,93.5
+2019,Both sexes or no breakdown by sex,Hebron,
+2000,Both sexes or no breakdown by sex,North Gaza,
+2004,Both sexes or no breakdown by sex,North Gaza,
+2006,Both sexes or no breakdown by sex,North Gaza,34.1
+2009,Both sexes or no breakdown by sex,North Gaza,54.3
+2011,Both sexes or no breakdown by sex,North Gaza,48.9
+2014,Both sexes or no breakdown by sex,North Gaza,65.8
+2018,Both sexes or no breakdown by sex,North Gaza,78.6
+2019,Both sexes or no breakdown by sex,North Gaza,
+2000,Both sexes or no breakdown by sex,Gaza,
+2004,Both sexes or no breakdown by sex,Gaza,
+2006,Both sexes or no breakdown by sex,Gaza,32.4
+2009,Both sexes or no breakdown by sex,Gaza,46.8
+2011,Both sexes or no breakdown by sex,Gaza,62.2
+2014,Both sexes or no breakdown by sex,Gaza,71.3
+2018,Both sexes or no breakdown by sex,Gaza,83.8
+2019,Both sexes or no breakdown by sex,Gaza,
+2000,Both sexes or no breakdown by sex,Dier Al-Balah,
+2004,Both sexes or no breakdown by sex,Dier Al-Balah,
+2006,Both sexes or no breakdown by sex,Dier Al-Balah,28.6
+2009,Both sexes or no breakdown by sex,Dier Al-Balah,54.9
+2011,Both sexes or no breakdown by sex,Dier Al-Balah,51.3
+2014,Both sexes or no breakdown by sex,Dier Al-Balah,63.7
+2018,Both sexes or no breakdown by sex,Dier Al-Balah,86.7
+2019,Both sexes or no breakdown by sex,Dier Al-Balah,
+2000,Both sexes or no breakdown by sex,Khan Yunis,
+2004,Both sexes or no breakdown by sex,Khan Yunis,
+2006,Both sexes or no breakdown by sex,Khan Yunis,25.3
+2009,Both sexes or no breakdown by sex,Khan Yunis,44.6
+2011,Both sexes or no breakdown by sex,Khan Yunis,59.4
+2014,Both sexes or no breakdown by sex,Khan Yunis,66.7
+2018,Both sexes or no breakdown by sex,Khan Yunis,81.4
+2019,Both sexes or no breakdown by sex,Khan Yunis,
+2000,Both sexes or no breakdown by sex,Rafah,
+2004,Both sexes or no breakdown by sex,Rafah,
+2006,Both sexes or no breakdown by sex,Rafah,26.5
+2009,Both sexes or no breakdown by sex,Rafah,47.0
+2011,Both sexes or no breakdown by sex,Rafah,63.8
+2014,Both sexes or no breakdown by sex,Rafah,65.8
+2018,Both sexes or no breakdown by sex,Rafah,80.1
+2019,Both sexes or no breakdown by sex,Rafah,
