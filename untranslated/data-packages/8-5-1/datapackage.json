@@ -8,9 +8,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -24,7 +21,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             }
@@ -46,7 +42,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Technicians and associate professionals",
                 "Service and sales workers",
                 "Skilled agricultural, forestry and fishery workers",

@@ -8,9 +8,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -24,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Female",
-                "''",
                 ""
               ]
             },

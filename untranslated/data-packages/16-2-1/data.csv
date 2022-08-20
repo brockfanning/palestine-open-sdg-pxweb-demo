@@ -11,9 +11,9 @@ Year,SEX,AREA,Value
 2019,Female,Gaza Strip,
 2014,Female,Palestine,91.6
 2019,Female,Palestine,87.9
-2014,'',West Bank,90.4
-2019,'',West Bank,88.3
-2014,'',Gaza Strip,94.5
-2019,'',Gaza Strip,92.3
-2014,'',Palestine,92.2
-2019,'',Palestine,90.1
+2014,,West Bank,90.4
+2019,,West Bank,88.3
+2014,,Gaza Strip,94.5
+2019,,Gaza Strip,92.3
+2014,,Palestine,92.2
+2019,,Palestine,90.1

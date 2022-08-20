@@ -11,15 +11,15 @@ Year,SEX,AREA,Value
 2018,Male,Palestine,
 2019,Male,Palestine,
 2020,Male,Palestine,
-2000,'',West Bank,
-2001,'',West Bank,
-2017,'',West Bank,
-2018,'',West Bank,
-2019,'',West Bank,
-2020,'',West Bank,
-2000,'',Palestine,
-2001,'',Palestine,
-2017,'',Palestine,1.0
-2018,'',Palestine,1.0
-2019,'',Palestine,1.0
-2020,'',Palestine,1.0
+2000,,West Bank,
+2001,,West Bank,
+2017,,West Bank,
+2018,,West Bank,
+2019,,West Bank,
+2020,,West Bank,
+2000,,Palestine,
+2001,,Palestine,
+2017,,Palestine,1.0
+2018,,Palestine,1.0
+2019,,Palestine,1.0
+2020,,Palestine,1.0

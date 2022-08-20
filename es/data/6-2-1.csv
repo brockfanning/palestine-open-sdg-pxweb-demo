@@ -1,42 +1,42 @@
 Year,URBANISATION,AREA,Value
-2014,'',West Bank,
-2019,'',West Bank,0.0
-2014,'',Gaza Strip,
-2019,'',Gaza Strip,0.1
-2014,'',Palestine,0.0
-2019,'',Palestine,0.0
-2014,'',Jenin,0.1
-2019,'',Jenin,
-2014,'',Tubas & Northern Valleys,0.0
-2019,'',Tubas & Northern Valleys,
-2014,'',Tulkarm,0.0
-2019,'',Tulkarm,
-2014,'',Nablus,0.0
-2019,'',Nablus,
-2014,'',Qalqiliya,0.0
-2019,'',Qalqiliya,
-2014,'',Salfit,0.0
-2019,'',Salfit,
-2014,'',Ramallah & Al-Bireh,0.0
-2019,'',Ramallah & Al-Bireh,
-2014,'',Jericho & AL Aghwar,0.0
-2019,'',Jericho & AL Aghwar,
-2014,'',Jerusalem,0.0
-2019,'',Jerusalem,
-2014,'',Bethlehem,0.0
-2019,'',Bethlehem,
-2014,'',Hebron,0.0
-2019,'',Hebron,
-2014,'',North Gaza,0.0
-2019,'',North Gaza,
-2014,'',Gaza,0.0
-2019,'',Gaza,
-2014,'',Dier Al-Balah,0.0
-2019,'',Dier Al-Balah,
-2014,'',Khan Yunis,0.0
-2019,'',Khan Yunis,
-2014,'',Rafah,0.0
-2019,'',Rafah,
+2014,,West Bank,
+2019,,West Bank,0.0
+2014,,Gaza Strip,
+2019,,Gaza Strip,0.1
+2014,,Palestine,0.0
+2019,,Palestine,0.0
+2014,,Jenin,0.1
+2019,,Jenin,
+2014,,Tubas & Northern Valleys,0.0
+2019,,Tubas & Northern Valleys,
+2014,,Tulkarm,0.0
+2019,,Tulkarm,
+2014,,Nablus,0.0
+2019,,Nablus,
+2014,,Qalqiliya,0.0
+2019,,Qalqiliya,
+2014,,Salfit,0.0
+2019,,Salfit,
+2014,,Ramallah & Al-Bireh,0.0
+2019,,Ramallah & Al-Bireh,
+2014,,Jericho & AL Aghwar,0.0
+2019,,Jericho & AL Aghwar,
+2014,,Jerusalem,0.0
+2019,,Jerusalem,
+2014,,Bethlehem,0.0
+2019,,Bethlehem,
+2014,,Hebron,0.0
+2019,,Hebron,
+2014,,North Gaza,0.0
+2019,,North Gaza,
+2014,,Gaza,0.0
+2019,,Gaza,
+2014,,Dier Al-Balah,0.0
+2019,,Dier Al-Balah,
+2014,,Khan Yunis,0.0
+2019,,Khan Yunis,
+2014,,Rafah,0.0
+2019,,Rafah,
 2014,Urban,West Bank,
 2019,Urban,West Bank,
 2014,Urban,Gaza Strip,

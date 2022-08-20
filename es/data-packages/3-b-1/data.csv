@@ -1,37 +1,37 @@
 Year,URBANISATION,SEX,AREA,Value
-2019,'',Male,West Bank,
-2019,'',Male,Gaza Strip,
-2019,'',Male,Palestine,93.9
-2019,'',Female,West Bank,
-2019,'',Female,Gaza Strip,
-2019,'',Female,Palestine,93.9
-2019,'','',West Bank,91.9
-2019,'','',Gaza Strip,96.5
-2019,'','',Palestine,93.9
+2019,,Male,West Bank,
+2019,,Male,Gaza Strip,
+2019,,Male,Palestine,93.9
+2019,,Female,West Bank,
+2019,,Female,Gaza Strip,
+2019,,Female,Palestine,93.9
+2019,,,West Bank,91.9
+2019,,,Gaza Strip,96.5
+2019,,,Palestine,93.9
 2019,Urban,Male,West Bank,
 2019,Urban,Male,Gaza Strip,
 2019,Urban,Male,Palestine,
 2019,Urban,Female,West Bank,
 2019,Urban,Female,Gaza Strip,
 2019,Urban,Female,Palestine,
-2019,Urban,'',West Bank,
-2019,Urban,'',Gaza Strip,
-2019,Urban,'',Palestine,94.3
+2019,Urban,,West Bank,
+2019,Urban,,Gaza Strip,
+2019,Urban,,Palestine,94.3
 2019,Rural,Male,West Bank,
 2019,Rural,Male,Gaza Strip,
 2019,Rural,Male,Palestine,
 2019,Rural,Female,West Bank,
 2019,Rural,Female,Gaza Strip,
 2019,Rural,Female,Palestine,
-2019,Rural,'',West Bank,
-2019,Rural,'',Gaza Strip,
-2019,Rural,'',Palestine,92.5
+2019,Rural,,West Bank,
+2019,Rural,,Gaza Strip,
+2019,Rural,,Palestine,92.5
 2019,Camp,Male,West Bank,
 2019,Camp,Male,Gaza Strip,
 2019,Camp,Male,Palestine,
 2019,Camp,Female,West Bank,
 2019,Camp,Female,Gaza Strip,
 2019,Camp,Female,Palestine,
-2019,Camp,'',West Bank,
-2019,Camp,'',Gaza Strip,
-2019,Camp,'',Palestine,92.3
+2019,Camp,,West Bank,
+2019,Camp,,Gaza Strip,
+2019,Camp,,Palestine,92.3

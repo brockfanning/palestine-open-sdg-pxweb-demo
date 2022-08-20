@@ -24,7 +24,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -171,9 +170,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -188,7 +184,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -224,9 +219,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -241,7 +233,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -399,9 +390,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -416,7 +404,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -600,9 +587,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -617,7 +601,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -640,9 +623,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -657,7 +637,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -717,9 +696,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -733,7 +709,6 @@
             "constraints": {
               "enum": [
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -769,9 +744,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -785,7 +757,6 @@
             "constraints": {
               "enum": [
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -845,9 +816,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -862,7 +830,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -898,9 +865,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -913,7 +877,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -929,7 +892,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1013,9 +975,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1030,7 +989,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1066,9 +1024,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1083,7 +1038,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1119,9 +1073,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1136,7 +1087,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1172,9 +1122,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1188,7 +1135,6 @@
             "constraints": {
               "enum": [
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1224,9 +1170,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1252,7 +1195,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "15 to 19 years old",
                 "20 to 29 years old",
                 "30 to 39 years old",
@@ -1370,9 +1312,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1387,7 +1326,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1437,7 +1375,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1487,7 +1424,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1563,9 +1499,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1578,7 +1511,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -1633,9 +1565,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1648,7 +1577,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -1703,9 +1631,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1718,7 +1643,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -1866,9 +1790,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1883,7 +1804,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1919,9 +1839,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -1936,7 +1853,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -1960,7 +1876,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Technicians and associate professionals",
                 "Service and sales workers",
                 "Skilled agricultural, forestry and fishery workers",
@@ -2004,7 +1919,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -2067,7 +1981,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -2103,9 +2016,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -2120,7 +2030,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -2144,7 +2053,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "10 to 14 years old",
                 "10 to 17 years old",
                 "15 to 17 years old",
@@ -2292,9 +2200,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -2309,7 +2214,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -2457,7 +2361,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -2759,9 +2662,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -2776,7 +2676,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -2787,7 +2686,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "under 15 years old",
                 "15 to 24 years old",
                 "25 to 34 years old",
@@ -2911,9 +2809,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -2928,7 +2823,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -2989,9 +2883,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3005,7 +2896,6 @@
             "constraints": {
               "enum": [
                 "Male",
-                "''",
                 ""
               ]
             },
@@ -3054,7 +2944,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3153,9 +3042,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3170,7 +3056,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3375,9 +3260,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3392,7 +3274,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3489,9 +3370,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3506,7 +3384,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3542,9 +3419,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3557,7 +3431,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -3573,7 +3446,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3660,7 +3532,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3696,9 +3567,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3711,7 +3579,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -3727,7 +3594,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3824,9 +3690,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3841,7 +3704,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3877,9 +3739,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3892,7 +3751,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "Urban",
                 "Rural",
                 "Camp",
@@ -3908,7 +3766,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -3944,9 +3801,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -3961,7 +3815,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -4021,9 +3874,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -4038,7 +3888,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },
@@ -4136,7 +3985,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             },

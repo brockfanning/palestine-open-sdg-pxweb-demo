@@ -8,9 +8,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -24,7 +21,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "''",
                 ""
               ]
             }
@@ -34,7 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "''",
                 "under 15 years old",
                 "15 to 24 years old",
                 "25 to 34 years old",

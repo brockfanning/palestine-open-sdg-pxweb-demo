@@ -47,27 +47,27 @@ Year,SEX,AREA,Value
 2017,Female,Palestine,70.2
 2018,Female,Palestine,73.4
 2019,Female,Palestine,72.2
-2002,'',West Bank,
-2006,'',West Bank,
-2009,'',West Bank,
-2012,'',West Bank,
-2015,'',West Bank,
-2017,'',West Bank,
-2018,'',West Bank,
-2019,'',West Bank,77.1
-2002,'',Gaza Strip,
-2006,'',Gaza Strip,
-2009,'',Gaza Strip,
-2012,'',Gaza Strip,
-2015,'',Gaza Strip,
-2017,'',Gaza Strip,
-2018,'',Gaza Strip,
-2019,'',Gaza Strip,66.1
-2002,'',Palestine,
-2006,'',Palestine,
-2009,'',Palestine,
-2012,'',Palestine,
-2015,'',Palestine,
-2017,'',Palestine,70.3
-2018,'',Palestine,72.0
-2019,'',Palestine,72.3
+2002,,West Bank,
+2006,,West Bank,
+2009,,West Bank,
+2012,,West Bank,
+2015,,West Bank,
+2017,,West Bank,
+2018,,West Bank,
+2019,,West Bank,77.1
+2002,,Gaza Strip,
+2006,,Gaza Strip,
+2009,,Gaza Strip,
+2012,,Gaza Strip,
+2015,,Gaza Strip,
+2017,,Gaza Strip,
+2018,,Gaza Strip,
+2019,,Gaza Strip,66.1
+2002,,Palestine,
+2006,,Palestine,
+2009,,Palestine,
+2012,,Palestine,
+2015,,Palestine,
+2017,,Palestine,70.3
+2018,,Palestine,72.0
+2019,,Palestine,72.3

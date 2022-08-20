@@ -11,9 +11,9 @@ Year,SEX,AREA,Value
 2018,Female,Gaza Strip,
 2016,Female,Palestine,87.4
 2018,Female,Palestine,91.5
-2016,'',West Bank,84.7
-2018,'',West Bank,90.8
-2016,'',Gaza Strip,91.3
-2018,'',Gaza Strip,93.9
-2016,'',Palestine,87.2
-2018,'',Palestine,92.0
+2016,,West Bank,84.7
+2018,,West Bank,90.8
+2016,,Gaza Strip,91.3
+2018,,Gaza Strip,93.9
+2016,,Palestine,87.2
+2018,,Palestine,92.0
