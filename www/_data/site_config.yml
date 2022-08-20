@@ -51,8 +51,8 @@ data_fields:
   series: ''
 date_formats: []
 disclaimer:
-  phase: ''
-  message: ''
+  phase: 'DEMO'
+  message: 'This site is for demonstrational purposes only and is not affiliated with any country or statistical office.'
   hidden: false
 email_contacts:
   questions: test@example.com
