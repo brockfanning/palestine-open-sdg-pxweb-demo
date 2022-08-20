@@ -50,6 +50,7 @@ inputs:
     year_column: TIME PERIOD
     value_column: value
     sleep: 5
+    code_map: code-map.csv
     indicator_id_map:
       01/T2/C010201/S2C01020101: 1-2-1
       01/T2/C010202/S2C01020201: 1-2-2
