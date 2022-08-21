@@ -1,193 +1,193 @@
-Year,URBANISATION,AREA,Value
-2001,,West Bank,99.7
-2003,,West Bank,99.6
-2004,,West Bank,99.4
-2005,,West Bank,99.5
-2006,,West Bank,99.3
-2007,,West Bank,98.4
-2008,,West Bank,99.7
-2009,,West Bank,99.9
-2010,,West Bank,100.0
-2011,,West Bank,99.8
-2012,,West Bank,99.8
-2013,,West Bank,99.9
-2015,,West Bank,99.9
-2017,,West Bank,99.9
-2019,,West Bank,100.0
-2020,,West Bank,99.9
-2001,,Gaza Strip,97.8
-2003,,Gaza Strip,98.9
-2004,,Gaza Strip,99.5
-2005,,Gaza Strip,99.6
-2006,,Gaza Strip,99.8
-2007,,Gaza Strip,99.4
-2008,,Gaza Strip,99.9
-2009,,Gaza Strip,99.9
-2010,,Gaza Strip,99.7
-2011,,Gaza Strip,100.0
-2012,,Gaza Strip,99.8
-2013,,Gaza Strip,99.9
-2015,,Gaza Strip,99.9
-2017,,Gaza Strip,99.9
-2019,,Gaza Strip,100.0
-2020,,Gaza Strip,100.0
-2001,,Palestine,99.1
-2003,,Palestine,99.4
-2004,,Palestine,99.5
-2005,,Palestine,99.6
-2006,,Palestine,99.5
-2007,,Palestine,98.8
-2008,,Palestine,99.8
-2009,,Palestine,99.9
-2010,,Palestine,99.8
-2011,,Palestine,99.9
-2012,,Palestine,99.8
-2013,,Palestine,99.9
-2015,,Palestine,99.9
-2017,,Palestine,99.9
-2019,,Palestine,100.0
-2020,,Palestine,99.9
-2001,Urban,West Bank,
-2003,Urban,West Bank,
-2004,Urban,West Bank,
-2005,Urban,West Bank,
-2006,Urban,West Bank,
-2007,Urban,West Bank,
-2008,Urban,West Bank,
-2009,Urban,West Bank,
-2010,Urban,West Bank,
-2011,Urban,West Bank,
-2012,Urban,West Bank,
-2013,Urban,West Bank,
-2015,Urban,West Bank,
-2017,Urban,West Bank,
-2019,Urban,West Bank,
-2020,Urban,West Bank,
-2001,Urban,Gaza Strip,
-2003,Urban,Gaza Strip,
-2004,Urban,Gaza Strip,
-2005,Urban,Gaza Strip,
-2006,Urban,Gaza Strip,
-2007,Urban,Gaza Strip,
-2008,Urban,Gaza Strip,
-2009,Urban,Gaza Strip,
-2010,Urban,Gaza Strip,
-2011,Urban,Gaza Strip,
-2012,Urban,Gaza Strip,
-2013,Urban,Gaza Strip,
-2015,Urban,Gaza Strip,
-2017,Urban,Gaza Strip,
-2019,Urban,Gaza Strip,
-2020,Urban,Gaza Strip,
-2001,Urban,Palestine,99.1
-2003,Urban,Palestine,99.3
-2004,Urban,Palestine,99.7
-2005,Urban,Palestine,99.8
-2006,Urban,Palestine,99.7
-2007,Urban,Palestine,
-2008,Urban,Palestine,99.9
-2009,Urban,Palestine,99.9
-2010,Urban,Palestine,
-2011,Urban,Palestine,
-2012,Urban,Palestine,
-2013,Urban,Palestine,
-2015,Urban,Palestine,
-2017,Urban,Palestine,100.0
-2019,Urban,Palestine,100.0
-2020,Urban,Palestine,100.0
-2001,Rural,West Bank,
-2003,Rural,West Bank,
-2004,Rural,West Bank,
-2005,Rural,West Bank,
-2006,Rural,West Bank,
-2007,Rural,West Bank,
-2008,Rural,West Bank,
-2009,Rural,West Bank,
-2010,Rural,West Bank,
-2011,Rural,West Bank,
-2012,Rural,West Bank,
-2013,Rural,West Bank,
-2015,Rural,West Bank,
-2017,Rural,West Bank,
-2019,Rural,West Bank,
-2020,Rural,West Bank,
-2001,Rural,Gaza Strip,
-2003,Rural,Gaza Strip,
-2004,Rural,Gaza Strip,
-2005,Rural,Gaza Strip,
-2006,Rural,Gaza Strip,
-2007,Rural,Gaza Strip,
-2008,Rural,Gaza Strip,
-2009,Rural,Gaza Strip,
-2010,Rural,Gaza Strip,
-2011,Rural,Gaza Strip,
-2012,Rural,Gaza Strip,
-2013,Rural,Gaza Strip,
-2015,Rural,Gaza Strip,
-2017,Rural,Gaza Strip,
-2019,Rural,Gaza Strip,
-2020,Rural,Gaza Strip,
-2001,Rural,Palestine,88.9
-2003,Rural,Palestine,99.1
-2004,Rural,Palestine,98.8
-2005,Rural,Palestine,99.1
-2006,Rural,Palestine,98.9
-2007,Rural,Palestine,
-2008,Rural,Palestine,99.5
-2009,Rural,Palestine,99.9
-2010,Rural,Palestine,
-2011,Rural,Palestine,
-2012,Rural,Palestine,
-2013,Rural,Palestine,
-2015,Rural,Palestine,
-2017,Rural,Palestine,99.8
-2019,Rural,Palestine,100.0
-2020,Rural,Palestine,99.9
-2001,Camp,West Bank,
-2003,Camp,West Bank,
-2004,Camp,West Bank,
-2005,Camp,West Bank,
-2006,Camp,West Bank,
-2007,Camp,West Bank,
-2008,Camp,West Bank,
-2009,Camp,West Bank,
-2010,Camp,West Bank,
-2011,Camp,West Bank,
-2012,Camp,West Bank,
-2013,Camp,West Bank,
-2015,Camp,West Bank,
-2017,Camp,West Bank,
-2019,Camp,West Bank,
-2020,Camp,West Bank,
-2001,Camp,Gaza Strip,
-2003,Camp,Gaza Strip,
-2004,Camp,Gaza Strip,
-2005,Camp,Gaza Strip,
-2006,Camp,Gaza Strip,
-2007,Camp,Gaza Strip,
-2008,Camp,Gaza Strip,
-2009,Camp,Gaza Strip,
-2010,Camp,Gaza Strip,
-2011,Camp,Gaza Strip,
-2012,Camp,Gaza Strip,
-2013,Camp,Gaza Strip,
-2015,Camp,Gaza Strip,
-2017,Camp,Gaza Strip,
-2019,Camp,Gaza Strip,
-2020,Camp,Gaza Strip,
-2001,Camp,Palestine,99.9
-2003,Camp,Palestine,100.0
-2004,Camp,Palestine,99.8
-2005,Camp,Palestine,99.6
-2006,Camp,Palestine,99.7
-2007,Camp,Palestine,
-2008,Camp,Palestine,99.6
-2009,Camp,Palestine,99.9
-2010,Camp,Palestine,
-2011,Camp,Palestine,
-2012,Camp,Palestine,
-2013,Camp,Palestine,
-2015,Camp,Palestine,
-2017,Camp,Palestine,100.0
-2019,Camp,Palestine,100.0
-2020,Camp,Palestine,100.0
+Year,URBANISATION,AREA,Series,Value
+2001,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.7
+2003,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.6
+2004,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.4
+2005,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.5
+2006,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.3
+2007,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",98.4
+2008,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.7
+2009,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2010,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2011,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2012,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2013,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2015,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2017,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2019,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2020,,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2001,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",97.8
+2003,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",98.9
+2004,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.5
+2005,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.6
+2006,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2007,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.4
+2008,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2009,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2010,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.7
+2011,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2012,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2013,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2015,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2017,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2019,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2020,,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2001,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.1
+2003,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.4
+2004,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.5
+2005,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.6
+2006,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.5
+2007,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",98.8
+2008,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2009,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2010,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2011,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2012,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2013,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2015,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2017,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2019,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2020,,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2001,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2003,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2004,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2005,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2006,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2007,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2009,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2010,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2019,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2020,Urban,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2001,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2003,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2004,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2005,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2006,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2007,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2009,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2010,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2019,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2020,Urban,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2001,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.1
+2003,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.3
+2004,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.7
+2005,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2006,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.7
+2007,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2009,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2010,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2019,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2020,Urban,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2001,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2003,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2004,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2005,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2006,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2007,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2009,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2010,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2019,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2020,Rural,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2001,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2003,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2004,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2005,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2006,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2007,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2009,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2010,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2019,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2020,Rural,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2001,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",88.9
+2003,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.1
+2004,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",98.8
+2005,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.1
+2006,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",98.9
+2007,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.5
+2009,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2010,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2019,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2020,Rural,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2001,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2003,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2004,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2005,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2006,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2007,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2009,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2010,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2019,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2020,Camp,West Bank,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2001,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2003,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2004,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2005,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2006,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2007,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2009,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2010,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2019,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2020,Camp,Gaza Strip,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2001,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2003,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2004,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.8
+2005,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.6
+2006,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.7
+2007,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2008,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.6
+2009,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",99.9
+2010,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2011,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2012,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2013,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2015,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+2017,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2019,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0
+2020,Camp,Palestine,"Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",100.0

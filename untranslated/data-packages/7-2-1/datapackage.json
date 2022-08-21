@@ -15,6 +15,16 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable energy share in the total final energy consumption (%) by TIME PERIOD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

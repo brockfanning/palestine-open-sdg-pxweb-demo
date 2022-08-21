@@ -41,6 +41,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

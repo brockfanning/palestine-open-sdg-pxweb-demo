@@ -43,6 +43,17 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 20-24 years who were married before age 15 (%) by AREA and TIME PERIOD",
+                "Proportion of women aged 20-24 years who were married before age 18 (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

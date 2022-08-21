@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="/open-sdg-simple-starter/data-docs/index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation: SEX</h1>
                     <div>
@@ -76,12 +102,12 @@
             
         <div class="my-3">
             <a href="values--disaggregation--sex.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--sex">Download CSV of values used in this disaggregation</a>
-            <div id="values--disaggregation--sex" class="download-info">Size: 98 Bytes</div>
+            <div id="values--disaggregation--sex" class="download-info">Size: 138 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">2</span>
+                    Total rows: <span class="total">3</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
@@ -93,21 +119,26 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="disaggregation-value--both-sexes-or-no-breakdown-by-sex.html">Both sexes or no breakdown by sex</a></td>
+      <td>88</td>
+      <td>11</td>
+    </tr>
+    <tr>
       <td><a href="disaggregation-value--female.html">Female</a></td>
-      <td>230</td>
-      <td>39</td>
+      <td>327</td>
+      <td>40</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--male.html">Male</a></td>
-      <td>223</td>
-      <td>37</td>
+      <td>320</td>
+      <td>38</td>
     </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--female.html\">Female<\/a>","Disaggregation combinations using this value":230,"Number of indicators":39},{"Value":"<a href=\"disaggregation-value--male.html\">Male<\/a>","Disaggregation combinations using this value":223,"Number of indicators":37}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--both-sexes-or-no-breakdown-by-sex.html\">Both sexes or no breakdown by sex<\/a>","Disaggregation combinations using this value":88,"Number of indicators":11},{"Value":"<a href=\"disaggregation-value--female.html\">Female<\/a>","Disaggregation combinations using this value":327,"Number of indicators":40},{"Value":"<a href=\"disaggregation-value--male.html\">Male<\/a>","Disaggregation combinations using this value":320,"Number of indicators":38}];
             </script>
             
         </div>
@@ -116,12 +147,12 @@
             
         <div class="my-3">
             <a href="indicators--disaggregation--sex.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--sex">Download CSV of indicators using this disaggregation</a>
-            <div id="indicators--disaggregation--sex" class="download-info">Size: 306 Bytes</div>
+            <div id="indicators--disaggregation--sex" class="download-info">Size: 314 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">40</span>
+                    Total rows: <span class="total">41</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
@@ -147,6 +178,9 @@
     </tr>
     <tr>
       <td>#15-1-2</td>
+    </tr>
+    <tr>
+      <td>#16-1-1</td>
     </tr>
     <tr>
       <td>#16-1-4</td>
@@ -255,7 +289,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-2-1"},{"Indicator":"#11-2-1"},{"Indicator":"#12-1-1"},{"Indicator":"#12-a-1"},{"Indicator":"#13-2-2"},{"Indicator":"#15-1-2"},{"Indicator":"#16-1-4"},{"Indicator":"#16-2-1"},{"Indicator":"#16-2-3"},{"Indicator":"#16-3-2"},{"Indicator":"#16-5-1"},{"Indicator":"#16-6-2"},{"Indicator":"#16-7-2"},{"Indicator":"#16-9-1"},{"Indicator":"#17-3-1"},{"Indicator":"#17-8-1"},{"Indicator":"#2-2-1"},{"Indicator":"#2-2-2"},{"Indicator":"#3-2-1"},{"Indicator":"#3-4-1"},{"Indicator":"#3-4-2"},{"Indicator":"#3-7-1"},{"Indicator":"#3-7-2"},{"Indicator":"#3-a-1"},{"Indicator":"#3-b-1"},{"Indicator":"#4-1-1"},{"Indicator":"#4-2-1"},{"Indicator":"#4-2-2"},{"Indicator":"#5-2-1"},{"Indicator":"#5-4-1"},{"Indicator":"#5-5-1"},{"Indicator":"#5-5-2"},{"Indicator":"#5-b-1"},{"Indicator":"#8-10-2"},{"Indicator":"#8-3-1"},{"Indicator":"#8-5-1"},{"Indicator":"#8-5-2"},{"Indicator":"#8-6-1"},{"Indicator":"#8-7-1"},{"Indicator":"#9-2-2"}];
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-2-1"},{"Indicator":"#11-2-1"},{"Indicator":"#12-1-1"},{"Indicator":"#12-a-1"},{"Indicator":"#13-2-2"},{"Indicator":"#15-1-2"},{"Indicator":"#16-1-1"},{"Indicator":"#16-1-4"},{"Indicator":"#16-2-1"},{"Indicator":"#16-2-3"},{"Indicator":"#16-3-2"},{"Indicator":"#16-5-1"},{"Indicator":"#16-6-2"},{"Indicator":"#16-7-2"},{"Indicator":"#16-9-1"},{"Indicator":"#17-3-1"},{"Indicator":"#17-8-1"},{"Indicator":"#2-2-1"},{"Indicator":"#2-2-2"},{"Indicator":"#3-2-1"},{"Indicator":"#3-4-1"},{"Indicator":"#3-4-2"},{"Indicator":"#3-7-1"},{"Indicator":"#3-7-2"},{"Indicator":"#3-a-1"},{"Indicator":"#3-b-1"},{"Indicator":"#4-1-1"},{"Indicator":"#4-2-1"},{"Indicator":"#4-2-2"},{"Indicator":"#5-2-1"},{"Indicator":"#5-4-1"},{"Indicator":"#5-5-1"},{"Indicator":"#5-5-2"},{"Indicator":"#5-b-1"},{"Indicator":"#8-10-2"},{"Indicator":"#8-3-1"},{"Indicator":"#8-5-1"},{"Indicator":"#8-5-2"},{"Indicator":"#8-6-1"},{"Indicator":"#8-7-1"},{"Indicator":"#9-2-2"}];
             </script>
             
         </div>

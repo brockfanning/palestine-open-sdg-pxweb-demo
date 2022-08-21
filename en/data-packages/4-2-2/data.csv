@@ -1,73 +1,73 @@
-Year,SEX,AREA,Value
-2002,Male,West Bank,160.0
-2006,Male,West Bank,170.0
-2009,Male,West Bank,150.0
-2012,Male,West Bank,120.0
-2015,Male,West Bank,100.0
-2017,Male,West Bank,
-2018,Male,West Bank,
-2019,Male,West Bank,
-2002,Male,Gaza Strip,
-2006,Male,Gaza Strip,
-2009,Male,Gaza Strip,
-2012,Male,Gaza Strip,
-2015,Male,Gaza Strip,
-2017,Male,Gaza Strip,
-2018,Male,Gaza Strip,
-2019,Male,Gaza Strip,
-2002,Male,Palestine,
-2006,Male,Palestine,
-2009,Male,Palestine,
-2012,Male,Palestine,
-2015,Male,Palestine,
-2017,Male,Palestine,70.4
-2018,Male,Palestine,70.8
-2019,Male,Palestine,72.4
-2002,Female,West Bank,
-2006,Female,West Bank,
-2009,Female,West Bank,
-2012,Female,West Bank,
-2015,Female,West Bank,
-2017,Female,West Bank,
-2018,Female,West Bank,
-2019,Female,West Bank,
-2002,Female,Gaza Strip,
-2006,Female,Gaza Strip,
-2009,Female,Gaza Strip,
-2012,Female,Gaza Strip,
-2015,Female,Gaza Strip,
-2017,Female,Gaza Strip,
-2018,Female,Gaza Strip,
-2019,Female,Gaza Strip,
-2002,Female,Palestine,
-2006,Female,Palestine,
-2009,Female,Palestine,
-2012,Female,Palestine,
-2015,Female,Palestine,
-2017,Female,Palestine,70.2
-2018,Female,Palestine,73.4
-2019,Female,Palestine,72.2
-2002,,West Bank,
-2006,,West Bank,
-2009,,West Bank,
-2012,,West Bank,
-2015,,West Bank,
-2017,,West Bank,
-2018,,West Bank,
-2019,,West Bank,77.1
-2002,,Gaza Strip,
-2006,,Gaza Strip,
-2009,,Gaza Strip,
-2012,,Gaza Strip,
-2015,,Gaza Strip,
-2017,,Gaza Strip,
-2018,,Gaza Strip,
-2019,,Gaza Strip,66.1
-2002,,Palestine,
-2006,,Palestine,
-2009,,Palestine,
-2012,,Palestine,
-2015,,Palestine,
-2017,,Palestine,70.3
-2018,,Palestine,72.0
-2019,,Palestine,72.3
+Year,SEX,AREA,Series,Value
+2002,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",160.0
+2006,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",170.0
+2009,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",150.0
+2012,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",120.0
+2015,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",100.0
+2017,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2018,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2002,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2018,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2002,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",70.4
+2018,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",70.8
+2019,Male,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",72.4
+2002,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2018,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2002,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2018,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2002,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",70.2
+2018,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",73.4
+2019,Female,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",72.2
+2002,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2018,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2019,,West Bank,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",77.1
+2002,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2018,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2019,,Gaza Strip,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",66.1
+2002,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2006,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2009,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2012,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2015,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+2017,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",70.3
+2018,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",72.0
+2019,,Palestine,"Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",72.3

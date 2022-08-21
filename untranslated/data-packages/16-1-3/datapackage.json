@@ -27,6 +27,17 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD",
+                "Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -1,2 +1,7 @@
-Year,Value
-2017,18.4
+Year,AREA,Series,Value
+2017,West Bank,Average proportion of deprivations for people multidimensionally poor (%) by AREA and TIME PERIOD,10.6
+2017,Gaza Strip,Average proportion of deprivations for people multidimensionally poor (%) by AREA and TIME PERIOD,44.7
+2017,Palestine,Average proportion of deprivations for people multidimensionally poor (%) by AREA and TIME PERIOD,24.0
+2017,,Proportion of children living in child-specific multidimensional poverty (%) by TIME PERIOD,42.4
+2017,,Proportion of households living in multidimensional poverty (%) by TIME PERIOD,26.0
+2017,,Proportion of population living in multidimensional poverty (%) by TIME PERIOD,18.4

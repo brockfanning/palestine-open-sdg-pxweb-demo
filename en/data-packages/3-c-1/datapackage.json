@@ -16,6 +16,21 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health worker density and distribution, Physicians by TIME PERIOD",
+                "Health worker density and distribution, Dentists by TIME PERIOD",
+                "Health worker density and distribution, Pharmacist by TIME PERIOD",
+                "Health worker density and distribution, Nursing by TIME PERIOD",
+                "Health worker density and distribution, Midwifery by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

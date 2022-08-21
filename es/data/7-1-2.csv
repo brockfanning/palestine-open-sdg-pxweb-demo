@@ -1,49 +1,49 @@
-Year,AREA,Value
-2001,West Bank,98.8
-2003,West Bank,97.6
-2004,West Bank,98.6
-2005,West Bank,98.0
-2006,West Bank,96.2
-2007,West Bank,95.8
-2008,West Bank,98.6
-2009,West Bank,99.5
-2010,West Bank,99.7
-2011,West Bank,99.0
-2013,West Bank,99.8
-2014,West Bank,99.2
-2015,West Bank,99.1
-2017,West Bank,99.5
-2019,West Bank,99.8
-2020,West Bank,98.7
-2001,Gaza Strip,98.1
-2003,Gaza Strip,98.2
-2004,Gaza Strip,99.9
-2005,Gaza Strip,98.7
-2006,Gaza Strip,96.1
-2007,Gaza Strip,97.7
-2008,Gaza Strip,75.2
-2009,Gaza Strip,99.6
-2010,Gaza Strip,98.8
-2011,Gaza Strip,93.5
-2013,Gaza Strip,99.1
-2014,Gaza Strip,96.0
-2015,Gaza Strip,82.5
-2017,Gaza Strip,98.7
-2019,Gaza Strip,97.5
-2020,Gaza Strip,96.5
-2001,Palestine,98.6
-2003,Palestine,97.8
-2004,Palestine,99.0
-2005,Palestine,98.2
-2006,Palestine,96.1
-2007,Palestine,96.5
-2008,Palestine,90.7
-2009,Palestine,99.5
-2010,Palestine,99.4
-2011,Palestine,97.2
-2013,Palestine,99.6
-2014,Palestine,97.9
-2015,Palestine,93.4
-2017,Palestine,99.2
-2019,Palestine,98.9
-2020,Palestine,97.9
+Year,AREA,Series,Value
+2001,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.8
+2003,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,97.6
+2004,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.6
+2005,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.0
+2006,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,96.2
+2007,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,95.8
+2008,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.6
+2009,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.5
+2010,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.7
+2011,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.0
+2013,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.8
+2014,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.2
+2015,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.1
+2017,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.5
+2019,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.8
+2020,West Bank,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.7
+2001,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.1
+2003,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.2
+2004,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.9
+2005,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.7
+2006,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,96.1
+2007,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,97.7
+2008,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,75.2
+2009,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.6
+2010,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.8
+2011,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,93.5
+2013,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.1
+2014,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,96.0
+2015,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,82.5
+2017,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.7
+2019,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,97.5
+2020,Gaza Strip,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,96.5
+2001,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.6
+2003,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,97.8
+2004,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.0
+2005,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.2
+2006,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,96.1
+2007,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,96.5
+2008,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,90.7
+2009,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.5
+2010,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.4
+2011,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,97.2
+2013,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.6
+2014,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,97.9
+2015,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,93.4
+2017,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,99.2
+2019,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,98.9
+2020,Palestine,Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD,97.9

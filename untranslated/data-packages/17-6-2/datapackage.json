@@ -15,8 +15,24 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed Internet broadband subscriptions, by speed (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",
+                "Fixed Internet broadband subscriptions, by speed (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",
+                "Fixed Internet broadband subscriptions, by speed (Equal to or above 10 Mbit/s) by TIME PERIOD",
+                "Fixed Internet broadband subscriptions, by speed (anys) by TIME PERIOD",
+                "Number of fixed Internet broadband subscriptions, by speed (number) (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",
+                "Number of fixed Internet broadband subscriptions, by speed (number) (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",
+                "Number of fixed Internet broadband subscriptions, by speed (number) (Equal to or above 10 Mbit/s) by TIME PERIOD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

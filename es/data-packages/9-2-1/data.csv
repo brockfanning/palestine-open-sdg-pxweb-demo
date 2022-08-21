@@ -1,61 +1,187 @@
-Year,AREA,Value
-2000,West Bank,13.7
-2001,West Bank,13.6
-2002,West Bank,11.46
-2003,West Bank,15.36
-2004,West Bank,11.68
-2005,West Bank,13.59
-2006,West Bank,10.15
-2007,West Bank,13.11
-2008,West Bank,13.43
-2009,West Bank,13.22
-2010,West Bank,13.75
-2011,West Bank,12.37
-2012,West Bank,14.11
-2013,West Bank,12.97
-2014,West Bank,11.62
-2015,West Bank,9.2
-2016,West Bank,10.26
-2017,West Bank,12.19
-2018,West Bank,12.74
-2019,West Bank,12.64
-2000,Gaza Strip,3.04
-2001,Gaza Strip,5.5
-2002,Gaza Strip,4.2
-2003,Gaza Strip,7.53
-2004,Gaza Strip,6.44
-2005,Gaza Strip,7.32
-2006,Gaza Strip,4.83
-2007,Gaza Strip,1.34
-2008,Gaza Strip,1.85
-2009,Gaza Strip,2.06
-2010,Gaza Strip,7.1
-2011,Gaza Strip,8.12
-2012,Gaza Strip,9.4
-2013,Gaza Strip,7.98
-2014,Gaza Strip,7.36
-2015,Gaza Strip,9.8
-2016,Gaza Strip,9.15
-2017,Gaza Strip,9.44
-2018,Gaza Strip,6.23
-2019,Gaza Strip,4.63
-2000,Palestine,10.44
-2001,Palestine,10.97
-2002,Palestine,9.04
-2003,Palestine,12.58
-2004,Palestine,9.9
-2005,Palestine,11.31
-2006,Palestine,8.51
-2007,Palestine,9.98
-2008,Palestine,10.92
-2009,Palestine,10.78
-2010,Palestine,12.23
-2011,Palestine,11.47
-2012,Palestine,13.11
-2013,Palestine,11.9
-2014,Palestine,10.75
-2015,Palestine,9.32
-2016,Palestine,10.03
-2017,Palestine,11.66
-2018,Palestine,11.55
-2019,Palestine,11.23
+Year,AREA,Series,Value
+2000,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.41
+2001,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,13.44
+2002,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.1
+2003,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,13.92
+2004,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.41
+2005,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.98
+2006,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,8.5
+2007,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,9.97
+2008,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.72
+2009,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.5
+2010,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.79
+2011,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.29
+2012,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.05
+2013,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.23
+2014,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.99
+2015,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,9.2
+2016,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.16
+2017,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.86
+2018,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.35
+2019,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.5
+2020,West Bank,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.2
+2000,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,13.03
+2001,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.2
+2002,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,8.87
+2003,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,13.15
+2004,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.44
+2005,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.72
+2006,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,8.25
+2007,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,1.92
+2008,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,3.38
+2009,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,4.1
+2010,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,13.03
+2011,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,13.07
+2012,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.49
+2013,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.19
+2014,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,9.49
+2015,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,9.8
+2016,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,8.71
+2017,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,9.36
+2018,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,6.47
+2019,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,5.3
+2020,Gaza Strip,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,5.6
+2000,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.77
+2001,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.04
+2002,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.49
+2003,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.42
+2004,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.77
+2005,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.26
+2006,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,8.42
+2007,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,7.83
+2008,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.59
+2009,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.61
+2010,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,12.08
+2011,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.94
+2012,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.67
+2013,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.73
+2014,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,10.67
+2015,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,9.32
+2016,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,9.86
+2017,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.39
+2018,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.29
+2019,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.2
+2020,Palestine,Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD,11.1
+2000,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,372.3
+2001,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,330.2
+2002,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,246.9
+2003,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,303.6
+2004,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,277.0
+2005,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,330.4
+2006,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,248.4
+2007,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,313.0
+2008,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,441.5
+2009,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,462.8
+2010,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,446.7
+2011,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,418.2
+2012,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,505.3
+2013,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,521.2
+2014,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,479.2
+2015,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,410.2
+2016,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,483.7
+2017,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,575.5
+2018,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,599.5
+2019,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,604.4
+2020,West Bank,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,511.1
+2000,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,122.6
+2001,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,207.6
+2002,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,147.0
+2003,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,258.9
+2004,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,247.3
+2005,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,319.1
+2006,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,164.5
+2007,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,32.9
+2008,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,51.4
+2009,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,64.6
+2010,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,218.9
+2011,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,233.8
+2012,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,197.2
+2013,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,200.8
+2014,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,156.7
+2015,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,159.6
+2016,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,150.8
+2017,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,145.6
+2018,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,94.3
+2019,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,75.3
+2020,Gaza Strip,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,67.5
+2000,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,276.9
+2001,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,265.9
+2002,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,196.9
+2003,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,258.3
+2004,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,265.2
+2005,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,325.9
+2006,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,215.0
+2007,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,201.1
+2008,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,284.6
+2009,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,301.6
+2010,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,354.0
+2011,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,342.7
+2012,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,378.5
+2013,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,388.7
+2014,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,345.1
+2015,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,305.5
+2016,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,344.0
+2017,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,394.4
+2018,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,385.8
+2019,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,379.7
+2020,Palestine,Manufacturing value added  per capita (%) by AREA and TIME PERIOD,322.2
+2000,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.7
+2001,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.6
+2002,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.46
+2003,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,15.36
+2004,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.68
+2005,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.59
+2006,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.15
+2007,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.11
+2008,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.43
+2009,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.22
+2010,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.75
+2011,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,12.37
+2012,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,14.11
+2013,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,12.97
+2014,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.62
+2015,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.2
+2016,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.26
+2017,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,12.19
+2018,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,12.74
+2019,West Bank,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,12.64
+2000,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,3.04
+2001,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,5.5
+2002,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,4.2
+2003,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,7.53
+2004,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,6.44
+2005,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,7.32
+2006,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,4.83
+2007,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,1.34
+2008,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,1.85
+2009,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,2.06
+2010,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,7.1
+2011,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,8.12
+2012,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.4
+2013,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,7.98
+2014,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,7.36
+2015,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.8
+2016,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.15
+2017,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.44
+2018,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,6.23
+2019,Gaza Strip,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,4.63
+2000,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.44
+2001,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.97
+2002,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.04
+2003,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,12.58
+2004,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.9
+2005,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.31
+2006,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,8.51
+2007,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.98
+2008,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.92
+2009,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.78
+2010,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,12.23
+2011,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.47
+2012,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,13.11
+2013,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.9
+2014,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.75
+2015,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,9.32
+2016,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,10.03
+2017,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.66
+2018,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.55
+2019,Palestine,Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD,11.23

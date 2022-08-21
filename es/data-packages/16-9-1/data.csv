@@ -1,55 +1,55 @@
-Year,SEX,AREA,Value
-2011,Male,West Bank,93.3
-2012,Male,West Bank,88.2
-2013,Male,West Bank,99.0
-2014,Male,West Bank,94.0
-2015,Male,West Bank,95.6
-2019,Male,West Bank,
-2011,Male,Gaza Strip,
-2012,Male,Gaza Strip,
-2013,Male,Gaza Strip,
-2014,Male,Gaza Strip,
-2015,Male,Gaza Strip,91.2
-2019,Male,Gaza Strip,
-2011,Male,Palestine,
-2012,Male,Palestine,
-2013,Male,Palestine,
-2014,Male,Palestine,99.3
-2015,Male,Palestine,93.6
-2019,Male,Palestine,99.4
-2011,Female,West Bank,91.3
-2012,Female,West Bank,87.3
-2013,Female,West Bank,98.9
-2014,Female,West Bank,91.9
-2015,Female,West Bank,94.1
-2019,Female,West Bank,
-2011,Female,Gaza Strip,
-2012,Female,Gaza Strip,
-2013,Female,Gaza Strip,
-2014,Female,Gaza Strip,
-2015,Female,Gaza Strip,89.2
-2019,Female,Gaza Strip,
-2011,Female,Palestine,
-2012,Female,Palestine,
-2013,Female,Palestine,
-2014,Female,Palestine,99.3
-2015,Female,Palestine,91.9
-2019,Female,Palestine,98.9
-2011,,West Bank,92.3
-2012,,West Bank,87.7
-2013,,West Bank,99.0
-2014,,West Bank,99.1
-2015,,West Bank,94.9
-2019,,West Bank,98.9
-2011,,Gaza Strip,
-2012,,Gaza Strip,
-2013,,Gaza Strip,
-2014,,Gaza Strip,99.6
-2015,,Gaza Strip,90.2
-2019,,Gaza Strip,99.5
-2011,,Palestine,
-2012,,Palestine,
-2013,,Palestine,
-2014,,Palestine,99.3
-2015,,Palestine,92.8
-2019,,Palestine,99.2
+Year,SEX,AREA,Series,Value
+2011,Male,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",93.3
+2012,Male,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",88.2
+2013,Male,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.0
+2014,Male,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",94.0
+2015,Male,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",95.6
+2019,Male,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2011,Male,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2012,Male,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2013,Male,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2015,Male,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",91.2
+2019,Male,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2011,Male,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2012,Male,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2013,Male,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2014,Male,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.3
+2015,Male,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",93.6
+2019,Male,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.4
+2011,Female,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",91.3
+2012,Female,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",87.3
+2013,Female,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",98.9
+2014,Female,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",91.9
+2015,Female,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",94.1
+2019,Female,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2011,Female,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2012,Female,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2013,Female,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2015,Female,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",89.2
+2019,Female,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2011,Female,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2012,Female,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2013,Female,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2014,Female,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.3
+2015,Female,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",91.9
+2019,Female,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",98.9
+2011,,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",92.3
+2012,,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",87.7
+2013,,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.0
+2014,,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.1
+2015,,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",94.9
+2019,,West Bank,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",98.9
+2011,,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2012,,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2013,,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2014,,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.6
+2015,,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",90.2
+2019,,Gaza Strip,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.5
+2011,,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2012,,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2013,,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+2014,,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.3
+2015,,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",92.8
+2019,,Palestine,"Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",99.2

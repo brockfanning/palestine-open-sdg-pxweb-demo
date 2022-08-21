@@ -1,13 +1,13 @@
-Year,SEX,AREA,Value
-2014,Female,West Bank,67.7
-2019,Female,West Bank,61.6
-2014,Female,Gaza Strip,65.7
-2019,Female,Gaza Strip,60.1
-2014,Female,Palestine,66.9
-2019,Female,Palestine,61.0
-2014,,West Bank,66.9
-2019,,West Bank,61.6
-2014,,Gaza Strip,67.7
-2019,,Gaza Strip,60.1
-2014,,Palestine,65.7
-2019,,Palestine,61.0
+Year,SEX,AREA,Series,Value
+2014,Female,West Bank,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",67.7
+2019,Female,West Bank,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",61.6
+2014,Female,Gaza Strip,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",65.7
+2019,Female,Gaza Strip,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",60.1
+2014,Female,Palestine,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",66.9
+2019,Female,Palestine,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",61.0
+2014,,West Bank,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",66.9
+2019,,West Bank,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",61.6
+2014,,Gaza Strip,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",67.7
+2019,,Gaza Strip,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",60.1
+2014,,Palestine,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",65.7
+2019,,Palestine,"Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",61.0

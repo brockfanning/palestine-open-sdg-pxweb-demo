@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "AREA",
             "type": "string",
             "constraints": {
@@ -27,6 +39,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of victims of intentional homicide per 100,000 population by SEX, AREA and TIME PERIOD",
+                "Number of victims of intentional homicide by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

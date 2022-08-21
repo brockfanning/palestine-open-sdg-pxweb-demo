@@ -21,6 +21,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             }
@@ -33,6 +34,19 @@
                 "West Bank",
                 "Gaza Strip",
                 "Palestine",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children in grades 2\\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",
+                "Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",
+                "Percentage of children in grades 2\\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",
+                "Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",
                 ""
               ]
             }

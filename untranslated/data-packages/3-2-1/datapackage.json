@@ -21,6 +21,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             }
@@ -33,6 +34,17 @@
                 "West Bank",
                 "Gaza Strip",
                 "Palestine",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+                "Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
                 ""
               ]
             }

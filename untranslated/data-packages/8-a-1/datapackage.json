@@ -15,6 +15,17 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars) by TIME PERIOD",
+                "Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars) by TIME PERIOD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

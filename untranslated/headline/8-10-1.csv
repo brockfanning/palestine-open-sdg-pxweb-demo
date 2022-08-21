@@ -1,14 +1,31 @@
-Year,Value
-2006,8.0
-2007,10.5
-2008,11.8
-2009,14.5
-2010,15.3
-2011,16.6
-2012,18.4
-2013,19.8
-2014,21.5
-2015,22.4
-2018,24.79
-2019,25.0
-2020,25.0
+Year,Value,Series
+2004,8.8,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2005,8.7,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2006,9.1,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2007,9.3,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2008,10.4,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2009,10.9,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2010,10.5,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2011,10.7,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2012,10.5,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2013,10.3,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2014,10.8,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2015,3.9,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2016,4.0,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2017,4.7,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2018,13.0,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2019,12.9,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2020,13.0,"Number of commercial bank branches per 100,000 adults by TIME PERIOD"
+2006,8.0,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2007,10.5,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2008,11.8,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2009,14.5,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2010,15.3,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2011,16.6,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2012,18.4,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2013,19.8,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2014,21.5,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2015,22.4,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2018,24.79,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2019,25.0,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"
+2020,25.0,"Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD"

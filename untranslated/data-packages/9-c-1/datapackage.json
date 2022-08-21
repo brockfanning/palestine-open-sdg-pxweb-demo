@@ -15,6 +15,17 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by a mobile network, by technology (2G) by TIME PERIOD",
+                "Proportion of population covered by a mobile network, by technology (3G) by TIME PERIOD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

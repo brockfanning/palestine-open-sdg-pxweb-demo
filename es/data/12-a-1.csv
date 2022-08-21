@@ -1,121 +1,121 @@
-Year,SEX,AREA,Value
-2011,Male,Palestine,0.1
-2012,Male,Palestine,0.1
-2013,Male,Palestine,0.1
-2014,Male,Palestine,0.1
-2015,Male,Palestine,0.1
-2016,Male,Palestine,0.1
-2017,Male,Palestine,0.1
-2018,Male,Palestine,0.1
-2019,Male,Palestine,0.1
-2020,Male,Palestine,0.1
-2011,Male,Jenin,5.4
-2012,Male,Jenin,5.4
-2013,Male,Jenin,5.4
-2014,Male,Jenin,5.4
-2015,Male,Jenin,5.4
-2016,Male,Jenin,5.4
-2017,Male,Jenin,5.4
-2018,Male,Jenin,5.4
-2019,Male,Jenin,5.4
-2020,Male,Jenin,5.4
-2011,Male,Tubas & Northern Valleys,16.1
-2012,Male,Tubas & Northern Valleys,16.1
-2013,Male,Tubas & Northern Valleys,16.1
-2014,Male,Tubas & Northern Valleys,16.1
-2015,Male,Tubas & Northern Valleys,16.1
-2016,Male,Tubas & Northern Valleys,16.1
-2017,Male,Tubas & Northern Valleys,16.1
-2018,Male,Tubas & Northern Valleys,16.1
-2019,Male,Tubas & Northern Valleys,16.1
-2020,Male,Tubas & Northern Valleys,16.1
-2011,Male,Tulkarm,
-2012,Male,Tulkarm,
-2013,Male,Tulkarm,
-2014,Male,Tulkarm,
-2015,Male,Tulkarm,
-2016,Male,Tulkarm,
-2017,Male,Tulkarm,
-2018,Male,Tulkarm,
-2019,Male,Tulkarm,
-2020,Male,Tulkarm,
-2011,Female,Palestine,0.1
-2012,Female,Palestine,0.1
-2013,Female,Palestine,0.1
-2014,Female,Palestine,0.1
-2015,Female,Palestine,0.1
-2016,Female,Palestine,0.1
-2017,Female,Palestine,0.1
-2018,Female,Palestine,0.1
-2019,Female,Palestine,0.1
-2020,Female,Palestine,0.1
-2011,Female,Jenin,2.6
-2012,Female,Jenin,2.6
-2013,Female,Jenin,2.6
-2014,Female,Jenin,2.6
-2015,Female,Jenin,2.6
-2016,Female,Jenin,2.6
-2017,Female,Jenin,2.6
-2018,Female,Jenin,2.6
-2019,Female,Jenin,2.6
-2020,Female,Jenin,2.6
-2011,Female,Tubas & Northern Valleys,8.2
-2012,Female,Tubas & Northern Valleys,8.2
-2013,Female,Tubas & Northern Valleys,8.2
-2014,Female,Tubas & Northern Valleys,8.2
-2015,Female,Tubas & Northern Valleys,8.2
-2016,Female,Tubas & Northern Valleys,8.2
-2017,Female,Tubas & Northern Valleys,8.2
-2018,Female,Tubas & Northern Valleys,8.2
-2019,Female,Tubas & Northern Valleys,8.2
-2020,Female,Tubas & Northern Valleys,8.2
-2011,Female,Tulkarm,
-2012,Female,Tulkarm,
-2013,Female,Tulkarm,
-2014,Female,Tulkarm,
-2015,Female,Tulkarm,
-2016,Female,Tulkarm,
-2017,Female,Tulkarm,
-2018,Female,Tulkarm,
-2019,Female,Tulkarm,
-2020,Female,Tulkarm,
-2011,,Palestine,0.1
-2012,,Palestine,0.1
-2013,,Palestine,0.1
-2014,,Palestine,0.7
-2015,,Palestine,2.6
-2016,,Palestine,5.4
-2017,,Palestine,7.4
-2018,,Palestine,8.2
-2019,,Palestine,16.1
-2020,,Palestine,19.6
-2011,,Jenin,0.7
-2012,,Jenin,0.7
-2013,,Jenin,0.7
-2014,,Jenin,0.7
-2015,,Jenin,0.7
-2016,,Jenin,0.7
-2017,,Jenin,0.7
-2018,,Jenin,0.7
-2019,,Jenin,0.7
-2020,,Jenin,0.7
-2011,,Tubas & Northern Valleys,7.4
-2012,,Tubas & Northern Valleys,7.4
-2013,,Tubas & Northern Valleys,7.4
-2014,,Tubas & Northern Valleys,7.4
-2015,,Tubas & Northern Valleys,7.4
-2016,,Tubas & Northern Valleys,7.4
-2017,,Tubas & Northern Valleys,7.4
-2018,,Tubas & Northern Valleys,7.4
-2019,,Tubas & Northern Valleys,7.4
-2020,,Tubas & Northern Valleys,7.4
-2011,,Tulkarm,19.6
-2012,,Tulkarm,19.6
-2013,,Tulkarm,19.6
-2014,,Tulkarm,19.6
-2015,,Tulkarm,19.6
-2016,,Tulkarm,19.6
-2017,,Tulkarm,19.6
-2018,,Tulkarm,19.6
-2019,,Tulkarm,19.6
-2020,,Tulkarm,19.6
+Year,SEX,AREA,Series,Value
+2011,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2012,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2013,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2014,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2015,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2016,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2017,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2018,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2019,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2020,Male,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2011,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2012,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2013,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2014,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2015,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2016,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2017,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2018,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2019,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2020,Male,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2011,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2012,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2013,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2014,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2015,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2016,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2017,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2018,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2019,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2020,Male,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2011,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2012,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2013,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2014,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2015,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2016,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2017,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2018,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2019,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2020,Male,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2011,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2012,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2013,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2014,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2015,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2016,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2017,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2018,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2019,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2020,Female,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2011,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2012,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2013,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2014,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2015,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2016,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2017,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2018,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2019,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2020,Female,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2011,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2012,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2013,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2014,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2015,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2016,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2017,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2018,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2019,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2020,Female,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2011,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2012,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2013,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2014,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2015,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2016,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2017,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2018,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2019,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2020,Female,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+2011,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2012,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2013,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.1
+2014,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2015,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",2.6
+2016,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",5.4
+2017,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2018,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",8.2
+2019,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",16.1
+2020,,Palestine,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2011,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2012,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2013,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2014,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2015,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2016,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2017,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2018,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2019,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2020,,Jenin,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",0.7
+2011,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2012,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2013,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2014,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2015,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2016,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2017,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2018,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2019,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2020,,Tubas & Northern Valleys,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",7.4
+2011,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2012,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2013,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2014,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2015,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2016,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2017,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2018,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2019,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6
+2020,,Tulkarm,"Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",19.6

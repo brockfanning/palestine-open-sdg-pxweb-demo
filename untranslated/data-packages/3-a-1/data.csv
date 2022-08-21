@@ -1,55 +1,55 @@
-Year,SEX,AREA,Value
-2000,Male,West Bank,
-2004,Male,West Bank,
-2006,Male,West Bank,
-2010,Male,West Bank,
-2019,Male,West Bank,
-2020,Male,West Bank,
-2000,Male,Gaza Strip,
-2004,Male,Gaza Strip,
-2006,Male,Gaza Strip,
-2010,Male,Gaza Strip,
-2019,Male,Gaza Strip,
-2020,Male,Gaza Strip,
-2000,Male,Palestine,46.2
-2004,Male,Palestine,41.8
-2006,Male,Palestine,42.2
-2010,Male,Palestine,36.5
-2019,Male,Palestine,51.2
-2020,Male,Palestine,41.2
-2000,Female,West Bank,
-2004,Female,West Bank,
-2006,Female,West Bank,
-2010,Female,West Bank,
-2019,Female,West Bank,
-2020,Female,West Bank,
-2000,Female,Gaza Strip,
-2004,Female,Gaza Strip,
-2006,Female,Gaza Strip,
-2010,Female,Gaza Strip,
-2019,Female,Gaza Strip,
-2020,Female,Gaza Strip,
-2000,Female,Palestine,3.5
-2004,Female,Palestine,2.4
-2006,Female,Palestine,2.4
-2010,Female,Palestine,1.9
-2019,Female,Palestine,7.3
-2020,Female,Palestine,6.9
-2000,,West Bank,26.8
-2004,,West Bank,24.8
-2006,,West Bank,25.4
-2010,,West Bank,23.7
-2019,,West Bank,36.2
-2020,,West Bank,31.0
-2000,,Gaza Strip,21.3
-2004,,Gaza Strip,17.5
-2006,,Gaza Strip,17.2
-2010,,Gaza Strip,12.1
-2019,,Gaza Strip,18.3
-2020,,Gaza Strip,13.3
-2000,,Palestine,24.9
-2004,,Palestine,22.3
-2006,,Palestine,22.5
-2010,,Palestine,19.4
-2019,,Palestine,29.5
-2020,,Palestine,24.3
+Year,SEX,AREA,Series,Value
+2000,Male,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2004,Male,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Male,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2010,Male,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2020,Male,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2000,Male,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2004,Male,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2010,Male,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2020,Male,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",46.2
+2004,Male,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",41.8
+2006,Male,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",42.2
+2010,Male,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",36.5
+2019,Male,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",51.2
+2020,Male,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",41.2
+2000,Female,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2004,Female,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Female,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2010,Female,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2020,Female,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2000,Female,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2004,Female,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2010,Female,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2020,Female,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+2000,Female,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",3.5
+2004,Female,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",2.4
+2006,Female,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",2.4
+2010,Female,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",1.9
+2019,Female,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",7.3
+2020,Female,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",6.9
+2000,,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",26.8
+2004,,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",24.8
+2006,,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",25.4
+2010,,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",23.7
+2019,,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",36.2
+2020,,West Bank,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",31.0
+2000,,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",21.3
+2004,,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",17.5
+2006,,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",17.2
+2010,,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",12.1
+2019,,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",18.3
+2020,,Gaza Strip,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",13.3
+2000,,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",24.9
+2004,,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",22.3
+2006,,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",22.5
+2010,,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",19.4
+2019,,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",29.5
+2020,,Palestine,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",24.3

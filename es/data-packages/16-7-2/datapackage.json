@@ -23,6 +23,7 @@
                 "Urban",
                 "Rural",
                 "Camp",
+                "Total",
                 ""
               ]
             },
@@ -35,6 +36,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -52,6 +54,19 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group (The political system in the country allows individuals like me to have an opinion on what the government is doing) by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group (I trust in my ability to participate in politics in the country) by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group (Average of individuals who believe decision-making is inclusive and responsive) by URBANISATION, SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

@@ -1,16 +1,16 @@
-Year,AREA,Value
-2004,West Bank,35.2
-2008,West Bank,47.0
-2012,West Bank,49.2
-2016,West Bank,38.3
-2020,West Bank,47.0
-2004,Gaza Strip,17.4
-2008,Gaza Strip,57.5
-2012,Gaza Strip,32.8
-2016,Gaza Strip,45.9
-2020,Gaza Strip,56.2
-2004,Palestine,29.5
-2008,Palestine,53.0
-2012,Palestine,43.4
-2016,Palestine,43.0
-2020,Palestine,52.4
+Year,AREA,Series,Value
+2004,West Bank,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,35.2
+2008,West Bank,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,47.0
+2012,West Bank,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,49.2
+2016,West Bank,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,38.3
+2020,West Bank,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,47.0
+2004,Gaza Strip,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,17.4
+2008,Gaza Strip,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,57.5
+2012,Gaza Strip,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,32.8
+2016,Gaza Strip,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,45.9
+2020,Gaza Strip,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,56.2
+2004,Palestine,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,29.5
+2008,Palestine,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,53.0
+2012,Palestine,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,43.4
+2016,Palestine,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,43.0
+2020,Palestine,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD,52.4

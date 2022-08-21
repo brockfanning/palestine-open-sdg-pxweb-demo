@@ -1,190 +1,190 @@
-Year,SEX,AREA,Value
-2000,Male,West Bank,
-2001,Male,West Bank,
-2002,Male,West Bank,
-2003,Male,West Bank,
-2004,Male,West Bank,
-2005,Male,West Bank,
-2006,Male,West Bank,
-2007,Male,West Bank,
-2008,Male,West Bank,
-2009,Male,West Bank,
-2010,Male,West Bank,
-2011,Male,West Bank,
-2012,Male,West Bank,
-2013,Male,West Bank,
-2014,Male,West Bank,
-2015,Male,West Bank,
-2016,Male,West Bank,
-2017,Male,West Bank,
-2018,Male,West Bank,
-2019,Male,West Bank,
-2020,Male,West Bank,77.8
-2000,Male,Gaza Strip,
-2001,Male,Gaza Strip,
-2002,Male,Gaza Strip,
-2003,Male,Gaza Strip,
-2004,Male,Gaza Strip,
-2005,Male,Gaza Strip,
-2006,Male,Gaza Strip,
-2007,Male,Gaza Strip,
-2008,Male,Gaza Strip,
-2009,Male,Gaza Strip,
-2010,Male,Gaza Strip,
-2011,Male,Gaza Strip,
-2012,Male,Gaza Strip,
-2013,Male,Gaza Strip,
-2014,Male,Gaza Strip,
-2015,Male,Gaza Strip,
-2016,Male,Gaza Strip,
-2017,Male,Gaza Strip,
-2018,Male,Gaza Strip,
-2019,Male,Gaza Strip,
-2020,Male,Gaza Strip,
-2000,Male,Palestine,76.9
-2001,Male,Palestine,77.0
-2002,Male,Palestine,80.3
-2003,Male,Palestine,76.3
-2004,Male,Palestine,79.9
-2005,Male,Palestine,78.0
-2006,Male,Palestine,78.9
-2007,Male,Palestine,81.6
-2008,Male,Palestine,81.0
-2009,Male,Palestine,77.0
-2010,Male,Palestine,78.3
-2011,Male,Palestine,77.2
-2012,Male,Palestine,84.6
-2013,Male,Palestine,83.8
-2014,Male,Palestine,83.4
-2015,Male,Palestine,83.7
-2016,Male,Palestine,80.6
-2017,Male,Palestine,84.3
-2018,Male,Palestine,82.6
-2019,Male,Palestine,79.8
-2020,Male,Palestine,
-2000,Female,West Bank,
-2001,Female,West Bank,
-2002,Female,West Bank,
-2003,Female,West Bank,
-2004,Female,West Bank,
-2005,Female,West Bank,
-2006,Female,West Bank,
-2007,Female,West Bank,
-2008,Female,West Bank,
-2009,Female,West Bank,
-2010,Female,West Bank,
-2011,Female,West Bank,
-2012,Female,West Bank,
-2013,Female,West Bank,
-2014,Female,West Bank,
-2015,Female,West Bank,
-2016,Female,West Bank,
-2017,Female,West Bank,
-2018,Female,West Bank,
-2019,Female,West Bank,
-2020,Female,West Bank,22.2
-2000,Female,Gaza Strip,
-2001,Female,Gaza Strip,
-2002,Female,Gaza Strip,
-2003,Female,Gaza Strip,
-2004,Female,Gaza Strip,
-2005,Female,Gaza Strip,
-2006,Female,Gaza Strip,
-2007,Female,Gaza Strip,
-2008,Female,Gaza Strip,
-2009,Female,Gaza Strip,
-2010,Female,Gaza Strip,
-2011,Female,Gaza Strip,
-2012,Female,Gaza Strip,
-2013,Female,Gaza Strip,
-2014,Female,Gaza Strip,
-2015,Female,Gaza Strip,
-2016,Female,Gaza Strip,
-2017,Female,Gaza Strip,
-2018,Female,Gaza Strip,
-2019,Female,Gaza Strip,
-2020,Female,Gaza Strip,
-2000,Female,Palestine,23.1
-2001,Female,Palestine,23.0
-2002,Female,Palestine,19.7
-2003,Female,Palestine,23.7
-2004,Female,Palestine,20.1
-2005,Female,Palestine,22.0
-2006,Female,Palestine,21.1
-2007,Female,Palestine,18.4
-2008,Female,Palestine,19.0
-2009,Female,Palestine,23.0
-2010,Female,Palestine,21.7
-2011,Female,Palestine,22.8
-2012,Female,Palestine,15.4
-2013,Female,Palestine,16.2
-2014,Female,Palestine,16.6
-2015,Female,Palestine,16.3
-2016,Female,Palestine,19.4
-2017,Female,Palestine,15.7
-2018,Female,Palestine,17.4
-2019,Female,Palestine,20.2
-2020,Female,Palestine,
-2000,,West Bank,25.9
-2001,,West Bank,25.4
-2002,,West Bank,20.5
-2003,,West Bank,25.0
-2004,,West Bank,22.9
-2005,,West Bank,25.1
-2006,,West Bank,24.0
-2007,,West Bank,23.4
-2008,,West Bank,20.6
-2009,,West Bank,25.6
-2010,,West Bank,26.7
-2011,,West Bank,27.5
-2012,,West Bank,13.2
-2013,,West Bank,14.7
-2014,,West Bank,16.2
-2015,,West Bank,14.5
-2016,,West Bank,19.2
-2017,,West Bank,14.6
-2018,,West Bank,14.6
-2019,,West Bank,16.6
-2020,,West Bank,21.5
-2000,,Gaza Strip,15.0
-2001,,Gaza Strip,13.7
-2002,,Gaza Strip,17.1
-2003,,Gaza Strip,19.6
-2004,,Gaza Strip,12.6
-2005,,Gaza Strip,15.9
-2006,,Gaza Strip,8.0
-2007,,Gaza Strip,10.5
-2008,,Gaza Strip,14.7
-2009,,Gaza Strip,17.5
-2010,,Gaza Strip,8.8
-2011,,Gaza Strip,14.2
-2012,,Gaza Strip,27.5
-2013,,Gaza Strip,21.4
-2014,,Gaza Strip,18.2
-2015,,Gaza Strip,22.4
-2016,,Gaza Strip,20.3
-2017,,Gaza Strip,19.6
-2018,,Gaza Strip,30.8
-2019,,Gaza Strip,38.9
-2020,,Gaza Strip,25.5
-2000,,Palestine,23.1
-2001,,Palestine,23.0
-2002,,Palestine,19.7
-2003,,Palestine,23.7
-2004,,Palestine,20.1
-2005,,Palestine,22.0
-2006,,Palestine,21.1
-2007,,Palestine,18.4
-2008,,Palestine,19.0
-2009,,Palestine,23.0
-2010,,Palestine,21.7
-2011,,Palestine,22.8
-2012,,Palestine,15.4
-2013,,Palestine,16.2
-2014,,Palestine,16.6
-2015,,Palestine,16.3
-2016,,Palestine,19.4
-2017,,Palestine,15.7
-2018,,Palestine,17.4
-2019,,Palestine,20.2
-2020,,Palestine,22.2
+Year,SEX,AREA,Series,Value
+2000,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2001,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2002,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2003,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2004,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2005,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2006,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2007,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2008,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2009,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2010,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2011,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2012,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2013,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2014,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2015,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2016,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2017,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2018,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2020,Male,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",77.8
+2000,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2001,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2002,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2003,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2004,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2005,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2007,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2008,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2009,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2010,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2011,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2012,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2013,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2015,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2016,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2017,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2018,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2020,Male,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",76.9
+2001,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",77.0
+2002,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",80.3
+2003,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",76.3
+2004,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",79.9
+2005,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",78.0
+2006,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",78.9
+2007,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",81.6
+2008,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",81.0
+2009,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",77.0
+2010,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",78.3
+2011,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",77.2
+2012,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",84.6
+2013,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",83.8
+2014,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",83.4
+2015,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",83.7
+2016,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",80.6
+2017,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",84.3
+2018,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",82.6
+2019,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",79.8
+2020,Male,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2000,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2001,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2002,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2003,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2004,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2005,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2006,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2007,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2008,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2009,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2010,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2011,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2012,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2013,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2014,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2015,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2016,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2017,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2018,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2020,Female,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.2
+2000,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2001,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2002,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2003,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2004,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2005,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2007,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2008,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2009,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2010,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2011,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2012,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2013,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2015,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2016,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2017,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2018,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2020,Female,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2000,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.1
+2001,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.0
+2002,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.7
+2003,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.7
+2004,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",20.1
+2005,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.0
+2006,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",21.1
+2007,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",18.4
+2008,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.0
+2009,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.0
+2010,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",21.7
+2011,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.8
+2012,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",15.4
+2013,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.2
+2014,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.6
+2015,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.3
+2016,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.4
+2017,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",15.7
+2018,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",17.4
+2019,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",20.2
+2020,Female,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+2000,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",25.9
+2001,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",25.4
+2002,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",20.5
+2003,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",25.0
+2004,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.9
+2005,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",25.1
+2006,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",24.0
+2007,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.4
+2008,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",20.6
+2009,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",25.6
+2010,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",26.7
+2011,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",27.5
+2012,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",13.2
+2013,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",14.7
+2014,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.2
+2015,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",14.5
+2016,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.2
+2017,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",14.6
+2018,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",14.6
+2019,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.6
+2020,,West Bank,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",21.5
+2000,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",15.0
+2001,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",13.7
+2002,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",17.1
+2003,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.6
+2004,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",12.6
+2005,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",15.9
+2006,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",8.0
+2007,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",10.5
+2008,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",14.7
+2009,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",17.5
+2010,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",8.8
+2011,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",14.2
+2012,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",27.5
+2013,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",21.4
+2014,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",18.2
+2015,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.4
+2016,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",20.3
+2017,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.6
+2018,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",30.8
+2019,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",38.9
+2020,,Gaza Strip,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",25.5
+2000,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.1
+2001,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.0
+2002,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.7
+2003,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.7
+2004,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",20.1
+2005,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.0
+2006,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",21.1
+2007,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",18.4
+2008,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.0
+2009,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",23.0
+2010,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",21.7
+2011,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.8
+2012,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",15.4
+2013,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.2
+2014,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.6
+2015,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",16.3
+2016,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",19.4
+2017,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",15.7
+2018,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",17.4
+2019,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",20.2
+2020,,Palestine,"Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",22.2

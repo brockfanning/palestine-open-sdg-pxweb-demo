@@ -1,4 +1,9 @@
-Year,Value
-2018,96
-2019,93
-2020,55
+Year,Value,Series
+2016,97,"Proportion of population covered by a mobile network, by technology (2G) by TIME PERIOD"
+2017,97,"Proportion of population covered by a mobile network, by technology (2G) by TIME PERIOD"
+2018,97,"Proportion of population covered by a mobile network, by technology (2G) by TIME PERIOD"
+2019,99,"Proportion of population covered by a mobile network, by technology (2G) by TIME PERIOD"
+2020,98,"Proportion of population covered by a mobile network, by technology (2G) by TIME PERIOD"
+2018,96,"Proportion of population covered by a mobile network, by technology (3G) by TIME PERIOD"
+2019,93,"Proportion of population covered by a mobile network, by technology (3G) by TIME PERIOD"
+2020,55,"Proportion of population covered by a mobile network, by technology (3G) by TIME PERIOD"

@@ -1,19 +1,19 @@
-Year,SEX,AREA,Value
-2005,Female,West Bank,34.7
-2011,Female,West Bank,25.6
-2019,Female,West Bank,22.9
-2005,Female,Gaza Strip,27.3
-2011,Female,Gaza Strip,42.8
-2019,Female,Gaza Strip,33.3
-2005,Female,Palestine,31.9
-2011,Female,Palestine,31.6
-2019,Female,Palestine,27.0
-2005,,West Bank,34.7
-2011,,West Bank,29.9
-2019,,West Bank,
-2005,,Gaza Strip,27.3
-2011,,Gaza Strip,51.0
-2019,,Gaza Strip,
-2005,,Palestine,31.9
-2011,,Palestine,37.0
-2019,,Palestine,
+Year,SEX,AREA,Series,Value
+2005,Female,West Bank,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",34.7
+2011,Female,West Bank,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",25.6
+2019,Female,West Bank,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",22.9
+2005,Female,Gaza Strip,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",27.3
+2011,Female,Gaza Strip,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",42.8
+2019,Female,Gaza Strip,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",33.3
+2005,Female,Palestine,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",31.9
+2011,Female,Palestine,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",31.6
+2019,Female,Palestine,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",27.0
+2005,,West Bank,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",34.7
+2011,,West Bank,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",29.9
+2019,,West Bank,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",
+2005,,Gaza Strip,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",27.3
+2011,,Gaza Strip,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",51.0
+2019,,Gaza Strip,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",
+2005,,Palestine,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",31.9
+2011,,Palestine,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",37.0
+2019,,Palestine,"Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",

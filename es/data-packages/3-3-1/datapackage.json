@@ -29,6 +29,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

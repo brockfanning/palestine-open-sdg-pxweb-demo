@@ -1,11 +1,11 @@
-Year,Value
-2010,42.8
-2011,40.3
-2012,44.6
-2013,49.1
-2014,51.2
-2015,48.6
-2016,47.4
-2017,50.0
-2018,56.3
-2019,57.9
+Year,Value,Series
+2010,42.8,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2011,40.3,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2012,44.6,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2013,49.1,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2014,51.2,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2015,48.6,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2016,47.4,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2017,50.0,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2018,56.3,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"
+2019,57.9,"Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD"

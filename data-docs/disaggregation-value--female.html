@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="/open-sdg-simple-starter/data-docs/index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">SEX: Female</h1>
                     <div>
@@ -68,12 +94,12 @@
             
         <div class="my-3">
             <a href="disaggregation-value--female.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-value--female">Download CSV of indicators using this disaggregation value</a>
-            <div id="disaggregation-value--female" class="download-info">Size: 430 Bytes</div>
+            <div id="disaggregation-value--female" class="download-info">Size: 443 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">39</span>
+                    Total rows: <span class="total">40</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="disaggregation-value-table">
   <thead>
@@ -104,6 +130,10 @@
       <td>2</td>
     </tr>
     <tr>
+      <td>#16-1-1</td>
+      <td>3</td>
+    </tr>
+    <tr>
       <td>#16-1-4</td>
       <td>3</td>
     </tr>
@@ -125,11 +155,11 @@
     </tr>
     <tr>
       <td>#16-6-2</td>
-      <td>3</td>
+      <td>21</td>
     </tr>
     <tr>
       <td>#16-7-2</td>
-      <td>12</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>#16-9-1</td>
@@ -149,11 +179,11 @@
     </tr>
     <tr>
       <td>#2-2-2</td>
-      <td>3</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>#3-2-1</td>
-      <td>3</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>#3-4-1</td>
@@ -161,7 +191,7 @@
     </tr>
     <tr>
       <td>#3-4-2</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>#3-7-1</td>
@@ -177,15 +207,15 @@
     </tr>
     <tr>
       <td>#3-b-1</td>
-      <td>12</td>
+      <td>36</td>
     </tr>
     <tr>
       <td>#4-1-1</td>
-      <td>3</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>#4-2-1</td>
-      <td>3</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>#4-2-2</td>
@@ -201,7 +231,7 @@
     </tr>
     <tr>
       <td>#5-5-1</td>
-      <td>3</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>#5-5-2</td>
@@ -244,7 +274,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"#1-2-1","Disaggregation combinations using this value":18},{"Indicator":"#11-2-1","Disaggregation combinations using this value":6},{"Indicator":"#12-a-1","Disaggregation combinations using this value":4},{"Indicator":"#13-2-2","Disaggregation combinations using this value":5},{"Indicator":"#15-1-2","Disaggregation combinations using this value":2},{"Indicator":"#16-1-4","Disaggregation combinations using this value":3},{"Indicator":"#16-2-1","Disaggregation combinations using this value":3},{"Indicator":"#16-2-3","Disaggregation combinations using this value":12},{"Indicator":"#16-3-2","Disaggregation combinations using this value":3},{"Indicator":"#16-5-1","Disaggregation combinations using this value":12},{"Indicator":"#16-6-2","Disaggregation combinations using this value":3},{"Indicator":"#16-7-2","Disaggregation combinations using this value":12},{"Indicator":"#16-9-1","Disaggregation combinations using this value":3},{"Indicator":"#17-3-1","Disaggregation combinations using this value":7},{"Indicator":"#17-8-1","Disaggregation combinations using this value":3},{"Indicator":"#2-2-1","Disaggregation combinations using this value":3},{"Indicator":"#2-2-2","Disaggregation combinations using this value":3},{"Indicator":"#3-2-1","Disaggregation combinations using this value":3},{"Indicator":"#3-4-1","Disaggregation combinations using this value":1},{"Indicator":"#3-4-2","Disaggregation combinations using this value":1},{"Indicator":"#3-7-1","Disaggregation combinations using this value":3},{"Indicator":"#3-7-2","Disaggregation combinations using this value":3},{"Indicator":"#3-a-1","Disaggregation combinations using this value":3},{"Indicator":"#3-b-1","Disaggregation combinations using this value":12},{"Indicator":"#4-1-1","Disaggregation combinations using this value":3},{"Indicator":"#4-2-1","Disaggregation combinations using this value":3},{"Indicator":"#4-2-2","Disaggregation combinations using this value":3},{"Indicator":"#5-2-1","Disaggregation combinations using this value":3},{"Indicator":"#5-4-1","Disaggregation combinations using this value":1},{"Indicator":"#5-5-1","Disaggregation combinations using this value":3},{"Indicator":"#5-5-2","Disaggregation combinations using this value":3},{"Indicator":"#5-b-1","Disaggregation combinations using this value":19},{"Indicator":"#8-10-2","Disaggregation combinations using this value":3},{"Indicator":"#8-3-1","Disaggregation combinations using this value":3},{"Indicator":"#8-5-1","Disaggregation combinations using this value":24},{"Indicator":"#8-5-2","Disaggregation combinations using this value":16},{"Indicator":"#8-6-1","Disaggregation combinations using this value":3},{"Indicator":"#8-7-1","Disaggregation combinations using this value":12},{"Indicator":"#9-2-2","Disaggregation combinations using this value":3}];
+            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"#1-2-1","Disaggregation combinations using this value":18},{"Indicator":"#11-2-1","Disaggregation combinations using this value":6},{"Indicator":"#12-a-1","Disaggregation combinations using this value":4},{"Indicator":"#13-2-2","Disaggregation combinations using this value":5},{"Indicator":"#15-1-2","Disaggregation combinations using this value":2},{"Indicator":"#16-1-1","Disaggregation combinations using this value":3},{"Indicator":"#16-1-4","Disaggregation combinations using this value":3},{"Indicator":"#16-2-1","Disaggregation combinations using this value":3},{"Indicator":"#16-2-3","Disaggregation combinations using this value":12},{"Indicator":"#16-3-2","Disaggregation combinations using this value":3},{"Indicator":"#16-5-1","Disaggregation combinations using this value":12},{"Indicator":"#16-6-2","Disaggregation combinations using this value":21},{"Indicator":"#16-7-2","Disaggregation combinations using this value":36},{"Indicator":"#16-9-1","Disaggregation combinations using this value":3},{"Indicator":"#17-3-1","Disaggregation combinations using this value":7},{"Indicator":"#17-8-1","Disaggregation combinations using this value":3},{"Indicator":"#2-2-1","Disaggregation combinations using this value":3},{"Indicator":"#2-2-2","Disaggregation combinations using this value":6},{"Indicator":"#3-2-1","Disaggregation combinations using this value":6},{"Indicator":"#3-4-1","Disaggregation combinations using this value":1},{"Indicator":"#3-4-2","Disaggregation combinations using this value":2},{"Indicator":"#3-7-1","Disaggregation combinations using this value":3},{"Indicator":"#3-7-2","Disaggregation combinations using this value":3},{"Indicator":"#3-a-1","Disaggregation combinations using this value":3},{"Indicator":"#3-b-1","Disaggregation combinations using this value":36},{"Indicator":"#4-1-1","Disaggregation combinations using this value":12},{"Indicator":"#4-2-1","Disaggregation combinations using this value":12},{"Indicator":"#4-2-2","Disaggregation combinations using this value":3},{"Indicator":"#5-2-1","Disaggregation combinations using this value":3},{"Indicator":"#5-4-1","Disaggregation combinations using this value":1},{"Indicator":"#5-5-1","Disaggregation combinations using this value":6},{"Indicator":"#5-5-2","Disaggregation combinations using this value":3},{"Indicator":"#5-b-1","Disaggregation combinations using this value":19},{"Indicator":"#8-10-2","Disaggregation combinations using this value":3},{"Indicator":"#8-3-1","Disaggregation combinations using this value":3},{"Indicator":"#8-5-1","Disaggregation combinations using this value":24},{"Indicator":"#8-5-2","Disaggregation combinations using this value":16},{"Indicator":"#8-6-1","Disaggregation combinations using this value":3},{"Indicator":"#8-7-1","Disaggregation combinations using this value":12},{"Indicator":"#9-2-2","Disaggregation combinations using this value":3}];
             </script>
             
         </div>

@@ -1,4 +1,22 @@
-Year,SEX,Value
-2020,Male,726
-2020,Female,1293
-2020,,2019
+Year,AREA,Series,SEX,Value
+2015,West Bank,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,21.0
+2016,West Bank,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,20.6
+2017,West Bank,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,17.9
+2018,West Bank,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,18.7
+2019,West Bank,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,20.9
+2020,West Bank,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,20.1
+2015,Gaza Strip,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,19.1
+2016,Gaza Strip,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,22.7
+2017,Gaza Strip,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,20.9
+2018,Gaza Strip,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,23.7
+2019,Gaza Strip,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,
+2020,Gaza Strip,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,
+2015,Palestine,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,20.6
+2016,Palestine,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,21.5
+2017,Palestine,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,19.2
+2018,Palestine,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,20.3
+2019,Palestine,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,19.6
+2020,Palestine,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",,
+2020,,"Number of deaths attributed to non-communicable diseases, by type of disease and sex by SEX and TIME PERIOD",Male,726.0
+2020,,"Number of deaths attributed to non-communicable diseases, by type of disease and sex by SEX and TIME PERIOD",Female,1293.0
+2020,,"Number of deaths attributed to non-communicable diseases, by type of disease and sex by SEX and TIME PERIOD",Both sexes or no breakdown by sex,2019.0

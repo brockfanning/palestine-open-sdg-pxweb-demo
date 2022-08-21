@@ -1,10 +1,37 @@
-Year,SEX,AREA,Value
-2019,Male,West Bank,
-2019,Male,Gaza Strip,
-2019,Male,Palestine,91.8
-2019,Female,West Bank,
-2019,Female,Gaza Strip,
-2019,Female,Palestine,93.9
-2019,,West Bank,91.0
-2019,,Gaza Strip,95.2
-2019,,Palestine,92.8
+Year,SEX,AREA,Series,Value
+2019,Male,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",
+2019,Male,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",36.8
+2019,Female,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",
+2019,Female,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",40.2
+2019,,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",41.7
+2019,,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",34.0
+2019,,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",38.4
+2019,Male,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",
+2019,Male,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",98.4
+2019,Female,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",
+2019,Female,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",99.2
+2019,Both sexes or no breakdown by sex,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",99.1
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",98.4
+2019,Both sexes or no breakdown by sex,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",98.8
+2019,Male,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",
+2019,Male,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",79.7
+2019,Female,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",
+2019,Female,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",84.2
+2019,Both sexes or no breakdown by sex,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",84.1
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",78.9
+2019,Both sexes or no breakdown by sex,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",81.9
+2019,Male,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",
+2019,Male,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",91.8
+2019,Female,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",
+2019,Female,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",93.9
+2019,Both sexes or no breakdown by sex,West Bank,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",91.0
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",95.2
+2019,Both sexes or no breakdown by sex,Palestine,"Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",92.8

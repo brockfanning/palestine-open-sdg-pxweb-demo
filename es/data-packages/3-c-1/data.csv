@@ -1,7 +1,31 @@
-Year,Value
-2015,2.07
-2016,2.0
-2017,2.5
-2018,2.21
-2019,2.7
-2020,2.7
+Year,Series,Value
+2015,"Health worker density and distribution, Physicians by TIME PERIOD",20.1
+2016,"Health worker density and distribution, Physicians by TIME PERIOD",21.7
+2017,"Health worker density and distribution, Physicians by TIME PERIOD",17.7
+2018,"Health worker density and distribution, Physicians by TIME PERIOD",20.9
+2019,"Health worker density and distribution, Physicians by TIME PERIOD",22.6
+2020,"Health worker density and distribution, Physicians by TIME PERIOD",22.4
+2015,"Health worker density and distribution, Dentists by TIME PERIOD",5.7
+2016,"Health worker density and distribution, Dentists by TIME PERIOD",6.6
+2017,"Health worker density and distribution, Dentists by TIME PERIOD",7.1
+2018,"Health worker density and distribution, Dentists by TIME PERIOD",6.97
+2019,"Health worker density and distribution, Dentists by TIME PERIOD",7.6
+2020,"Health worker density and distribution, Dentists by TIME PERIOD",8.1
+2015,"Health worker density and distribution, Pharmacist by TIME PERIOD",9.7
+2016,"Health worker density and distribution, Pharmacist by TIME PERIOD",10.0
+2017,"Health worker density and distribution, Pharmacist by TIME PERIOD",10.9
+2018,"Health worker density and distribution, Pharmacist by TIME PERIOD",10.91
+2019,"Health worker density and distribution, Pharmacist by TIME PERIOD",11.4
+2020,"Health worker density and distribution, Pharmacist by TIME PERIOD",11.5
+2015,"Health worker density and distribution, Nursing by TIME PERIOD",20.1
+2016,"Health worker density and distribution, Nursing by TIME PERIOD",20.9
+2017,"Health worker density and distribution, Nursing by TIME PERIOD",23.2
+2018,"Health worker density and distribution, Nursing by TIME PERIOD",23.03
+2019,"Health worker density and distribution, Nursing by TIME PERIOD",26.9
+2020,"Health worker density and distribution, Nursing by TIME PERIOD",27.8
+2015,"Health worker density and distribution, Midwifery by TIME PERIOD",2.07
+2016,"Health worker density and distribution, Midwifery by TIME PERIOD",2.0
+2017,"Health worker density and distribution, Midwifery by TIME PERIOD",2.5
+2018,"Health worker density and distribution, Midwifery by TIME PERIOD",2.21
+2019,"Health worker density and distribution, Midwifery by TIME PERIOD",2.7
+2020,"Health worker density and distribution, Midwifery by TIME PERIOD",2.7

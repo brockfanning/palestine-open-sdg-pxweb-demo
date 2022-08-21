@@ -1,16 +1,39 @@
-Year,Value
-2005,9.0
-2006,11.4
-2007,8.9
-2008,10.1
-2009,10.0
-2010,9.0
-2011,8.3
-2012,8.1
-2013,7.6
-2014,7.8
-2015,7.4
-2016,7.6
-2017,7.0
-2018,7.4
-2019,7.3
+Year,Series,Value
+2005,The agriculture orientation index for government expenditures by TIME PERIOD,0.09
+2006,The agriculture orientation index for government expenditures by TIME PERIOD,0.06
+2007,The agriculture orientation index for government expenditures by TIME PERIOD,0.09
+2008,The agriculture orientation index for government expenditures by TIME PERIOD,0.08
+2009,The agriculture orientation index for government expenditures by TIME PERIOD,0.06
+2010,The agriculture orientation index for government expenditures by TIME PERIOD,0.08
+2011,The agriculture orientation index for government expenditures by TIME PERIOD,0.09
+2012,The agriculture orientation index for government expenditures by TIME PERIOD,0.09
+2013,The agriculture orientation index for government expenditures by TIME PERIOD,0.09
+2014,The agriculture orientation index for government expenditures by TIME PERIOD,0.09
+2015,The agriculture orientation index for government expenditures by TIME PERIOD,0.15
+2016,The agriculture orientation index for government expenditures by TIME PERIOD,0.13
+2017,The agriculture orientation index for government expenditures by TIME PERIOD,0.11
+2018,The agriculture orientation index for government expenditures by TIME PERIOD,0.12
+2011,Agriculture share of Government Expenditure by TIME PERIOD,0.8
+2012,Agriculture share of Government Expenditure by TIME PERIOD,0.8
+2013,Agriculture share of Government Expenditure by TIME PERIOD,0.91
+2014,Agriculture share of Government Expenditure by TIME PERIOD,0.98
+2015,Agriculture share of Government Expenditure by TIME PERIOD,1.1
+2016,Agriculture share of Government Expenditure by TIME PERIOD,0.96
+2017,Agriculture share of Government Expenditure by TIME PERIOD,0.83
+2018,Agriculture share of Government Expenditure by TIME PERIOD,0.93
+2019,Agriculture share of Government Expenditure by TIME PERIOD,0.97
+2005,Agriculture value added share of GDP by TIME PERIOD,9.0
+2006,Agriculture value added share of GDP by TIME PERIOD,11.4
+2007,Agriculture value added share of GDP by TIME PERIOD,8.9
+2008,Agriculture value added share of GDP by TIME PERIOD,10.1
+2009,Agriculture value added share of GDP by TIME PERIOD,10.0
+2010,Agriculture value added share of GDP by TIME PERIOD,9.0
+2011,Agriculture value added share of GDP by TIME PERIOD,8.3
+2012,Agriculture value added share of GDP by TIME PERIOD,8.1
+2013,Agriculture value added share of GDP by TIME PERIOD,7.6
+2014,Agriculture value added share of GDP by TIME PERIOD,7.8
+2015,Agriculture value added share of GDP by TIME PERIOD,7.4
+2016,Agriculture value added share of GDP by TIME PERIOD,7.6
+2017,Agriculture value added share of GDP by TIME PERIOD,7.0
+2018,Agriculture value added share of GDP by TIME PERIOD,7.4
+2019,Agriculture value added share of GDP by TIME PERIOD,7.3

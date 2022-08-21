@@ -1,73 +1,244 @@
-Year,SEX,AREA,Value
-2000,Male,West Bank,
-2004,Male,West Bank,
-2005,Male,West Bank,
-2012,Male,West Bank,
-2013,Male,West Bank,
-2017,Male,West Bank,
-2018,Male,West Bank,
-2019,Male,West Bank,
-2000,Male,Gaza Strip,
-2004,Male,Gaza Strip,
-2005,Male,Gaza Strip,
-2012,Male,Gaza Strip,
-2013,Male,Gaza Strip,
-2017,Male,Gaza Strip,
-2018,Male,Gaza Strip,
-2019,Male,Gaza Strip,
-2000,Male,Palestine,98.6
-2004,Male,Palestine,86.3
-2005,Male,Palestine,86.3
-2012,Male,Palestine,79.0
-2013,Male,Palestine,79.0
-2017,Male,Palestine,79.0
-2018,Male,Palestine,79.0
-2019,Male,Palestine,79.9
-2000,Female,West Bank,
-2004,Female,West Bank,
-2005,Female,West Bank,
-2012,Female,West Bank,
-2013,Female,West Bank,
-2017,Female,West Bank,
-2018,Female,West Bank,
-2019,Female,West Bank,
-2000,Female,Gaza Strip,
-2004,Female,Gaza Strip,
-2005,Female,Gaza Strip,
-2012,Female,Gaza Strip,
-2013,Female,Gaza Strip,
-2017,Female,Gaza Strip,
-2018,Female,Gaza Strip,
-2019,Female,Gaza Strip,
-2000,Female,Palestine,13.7
-2004,Female,Palestine,13.7
-2005,Female,Palestine,13.7
-2012,Female,Palestine,21.0
-2013,Female,Palestine,21.0
-2017,Female,Palestine,21.0
-2018,Female,Palestine,21.0
-2019,Female,Palestine,20.1
-2000,,West Bank,
-2004,,West Bank,
-2005,,West Bank,
-2012,,West Bank,21.0
-2013,,West Bank,21.0
-2017,,West Bank,
-2018,,West Bank,21.1
-2019,,West Bank,21.1
-2000,,Gaza Strip,
-2004,,Gaza Strip,
-2005,,Gaza Strip,
-2012,,Gaza Strip,
-2013,,Gaza Strip,
-2017,,Gaza Strip,21.0
-2018,,Gaza Strip,0.0
-2019,,Gaza Strip,0.0
-2000,,Palestine,1.4
-2004,,Palestine,13.7
-2005,,Palestine,13.7
-2012,,Palestine,21.0
-2013,,Palestine,21.0
-2017,,Palestine,21.0
-2018,,Palestine,21.0
-2019,,Palestine,20.1
+Year,SEX,AREA,Series,Value
+2000,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2001,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2002,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2003,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2004,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2005,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2006,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2007,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2008,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2009,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2010,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2011,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2012,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2013,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2014,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2015,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2016,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2017,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2018,Male,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2000,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2001,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2002,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2003,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2004,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2005,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2007,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2008,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2009,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2010,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2011,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2012,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2013,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2015,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2016,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2017,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2018,Male,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",94.3
+2001,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",94.3
+2002,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",94.3
+2003,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",94.3
+2004,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",94.3
+2005,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",94.3
+2006,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",87.1
+2007,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",87.1
+2008,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",87.0
+2009,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",86.8
+2010,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",87.1
+2011,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",86.8
+2012,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",86.4
+2013,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",86.4
+2014,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",87.1
+2015,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",87.1
+2016,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",87.9
+2017,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",88.7
+2018,Male,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",88.7
+2000,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2001,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2002,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2003,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2004,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2005,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2006,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2007,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2008,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2009,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2010,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2011,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2012,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2013,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2014,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2015,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2016,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2017,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2018,Female,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2000,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2001,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2002,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2003,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2004,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2005,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2007,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2008,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2009,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2010,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2011,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2012,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2013,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2015,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2016,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2017,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2018,Female,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2000,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2001,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2002,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2003,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2004,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2005,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2006,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2007,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2008,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.0
+2009,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.2
+2010,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2011,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.2
+2012,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2013,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2014,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2015,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2016,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.1
+2017,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.3
+2018,Female,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.3
+2000,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2001,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2002,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2003,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2004,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2005,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2006,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.9
+2007,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.9
+2008,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.0
+2009,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.0
+2010,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.9
+2011,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.2
+2012,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2013,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2014,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.5
+2015,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.5
+2016,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.3
+2017,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.1
+2018,,West Bank,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.1
+2000,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2001,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2002,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2003,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2004,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2005,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+2006,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",14.6
+2007,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",14.6
+2008,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",15.0
+2009,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",15.2
+2010,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",14.6
+2011,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",14.9
+2012,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2013,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2014,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2015,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2016,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2017,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.6
+2018,,Gaza Strip,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.6
+2000,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2001,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2002,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2003,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2004,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2005,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",5.7
+2006,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2007,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2008,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.0
+2009,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.2
+2010,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2011,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.2
+2012,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2013,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",13.6
+2014,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2015,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.9
+2016,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",12.1
+2017,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.3
+2018,,Palestine,"Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",11.3
+2000,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2004,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2005,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2012,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2013,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2017,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2018,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2000,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2004,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2005,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2012,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2013,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2017,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2018,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",98.6
+2004,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",86.3
+2005,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",86.3
+2012,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",79.0
+2013,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",79.0
+2017,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",79.0
+2018,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",79.0
+2019,Male,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",79.9
+2000,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2004,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2005,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2012,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2013,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2017,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2018,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2000,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2004,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2005,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2012,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2013,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2017,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2018,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2000,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",13.7
+2004,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",13.7
+2005,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",13.7
+2012,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2013,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2017,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2018,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2019,Female,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",20.1
+2000,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2004,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2005,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2012,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2013,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2017,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2018,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.1
+2019,Both sexes or no breakdown by sex,West Bank,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.1
+2000,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2004,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2005,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2012,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2013,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+2017,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2018,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",0.0
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",0.0
+2000,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",1.4
+2004,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",13.7
+2005,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",13.7
+2012,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2013,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2017,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2018,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",21.0
+2019,Both sexes or no breakdown by sex,Palestine,"Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",20.1

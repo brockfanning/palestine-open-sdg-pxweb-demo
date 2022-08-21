@@ -22,6 +22,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -39,6 +40,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+                "Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

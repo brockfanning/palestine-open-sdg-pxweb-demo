@@ -1,82 +1,82 @@
-Year,SEX,AREA,Value
-2009,Male,West Bank,
-2010,Male,West Bank,
-2011,Male,West Bank,
-2012,Male,West Bank,
-2013,Male,West Bank,
-2014,Male,West Bank,
-2015,Male,West Bank,
-2016,Male,West Bank,
-2017,Male,West Bank,
-2009,Male,Gaza Strip,
-2010,Male,Gaza Strip,
-2011,Male,Gaza Strip,
-2012,Male,Gaza Strip,
-2013,Male,Gaza Strip,
-2014,Male,Gaza Strip,
-2015,Male,Gaza Strip,
-2016,Male,Gaza Strip,
-2017,Male,Gaza Strip,
-2009,Male,Palestine,55.0
-2010,Male,Palestine,53.9
-2011,Male,Palestine,51.9
-2012,Male,Palestine,52.8
-2013,Male,Palestine,53.4
-2014,Male,Palestine,52.0
-2015,Male,Palestine,66.8
-2016,Male,Palestine,67.7
-2017,Male,Palestine,69.0
-2009,Female,West Bank,
-2010,Female,West Bank,
-2011,Female,West Bank,
-2012,Female,West Bank,
-2013,Female,West Bank,
-2014,Female,West Bank,
-2015,Female,West Bank,
-2016,Female,West Bank,
-2017,Female,West Bank,
-2009,Female,Gaza Strip,
-2010,Female,Gaza Strip,
-2011,Female,Gaza Strip,
-2012,Female,Gaza Strip,
-2013,Female,Gaza Strip,
-2014,Female,Gaza Strip,
-2015,Female,Gaza Strip,
-2016,Female,Gaza Strip,
-2017,Female,Gaza Strip,
-2009,Female,Palestine,52.4
-2010,Female,Palestine,39.6
-2011,Female,Palestine,40.1
-2012,Female,Palestine,39.5
-2013,Female,Palestine,42.1
-2014,Female,Palestine,45.9
-2015,Female,Palestine,43.8
-2016,Female,Palestine,44.1
-2017,Female,Palestine,42.9
-2009,,West Bank,61.4
-2010,,West Bank,56.1
-2011,,West Bank,52.0
-2012,,West Bank,52.7
-2013,,West Bank,54.0
-2014,,West Bank,54.5
-2015,,West Bank,70.1
-2016,,West Bank,70.2
-2017,,West Bank,71.0
-2009,,Gaza Strip,37.2
-2010,,Gaza Strip,40.4
-2011,,Gaza Strip,45.8
-2012,,Gaza Strip,46.9
-2013,,Gaza Strip,46.9
-2014,,Gaza Strip,42.4
-2015,,Gaza Strip,47.1
-2016,,Gaza Strip,50.6
-2017,,Gaza Strip,51.3
-2009,,Palestine,54.6
-2010,,Palestine,51.8
-2011,,Palestine,50.1
-2012,,Palestine,50.8
-2013,,Palestine,51.7
-2014,,Palestine,51.0
-2015,,Palestine,63.1
-2016,,Palestine,64.1
-2017,,Palestine,65.1
+Year,SEX,AREA,Series,Value
+2009,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2010,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2011,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2012,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2013,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2014,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2015,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2016,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2017,Male,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2009,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2010,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2011,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2012,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2013,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2015,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2016,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2017,Male,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2009,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",55.0
+2010,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",53.9
+2011,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",51.9
+2012,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",52.8
+2013,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",53.4
+2014,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",52.0
+2015,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",66.8
+2016,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",67.7
+2017,Male,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",69.0
+2009,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2010,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2011,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2012,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2013,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2014,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2015,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2016,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2017,Female,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2009,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2010,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2011,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2012,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2013,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2015,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2016,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2017,Female,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+2009,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",52.4
+2010,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",39.6
+2011,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",40.1
+2012,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",39.5
+2013,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",42.1
+2014,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",45.9
+2015,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",43.8
+2016,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",44.1
+2017,Female,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",42.9
+2009,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",61.4
+2010,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",56.1
+2011,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",52.0
+2012,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",52.7
+2013,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",54.0
+2014,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",54.5
+2015,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",70.1
+2016,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",70.2
+2017,,West Bank,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",71.0
+2009,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",37.2
+2010,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",40.4
+2011,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",45.8
+2012,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",46.9
+2013,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",46.9
+2014,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",42.4
+2015,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",47.1
+2016,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",50.6
+2017,,Gaza Strip,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",51.3
+2009,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",54.6
+2010,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",51.8
+2011,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",50.1
+2012,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",50.8
+2013,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",51.7
+2014,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",51.0
+2015,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",63.1
+2016,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",64.1
+2017,,Palestine,"Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",65.1

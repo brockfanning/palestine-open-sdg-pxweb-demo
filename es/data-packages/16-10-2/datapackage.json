@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",
+                "Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

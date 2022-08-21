@@ -1,14 +1,24 @@
-Year,Value
-2007,2
-2008,2
-2009,1
-2010,2
-2011,2
-2012,1
-2013,2
-2014,1
-2015,1
-2016,1
-2017,2
-2018,2
-2019,2
+Year,Series,Value
+2017,Proportion of countries that have conducted at least one population and housing census in the last 10 years  (1 = YES; 0 = NO) by TIME PERIOD,1
+2007,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2008,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2011,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2012,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2015,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2016,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2017,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2018,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2019,Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD,1
+2007,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2
+2008,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2
+2009,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,1
+2010,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2
+2011,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2
+2012,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,1
+2013,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2
+2014,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,1
+2015,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,1
+2016,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,1
+2017,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2
+2018,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2
+2019,Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD,2

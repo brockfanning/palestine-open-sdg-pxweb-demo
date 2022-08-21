@@ -22,6 +22,7 @@
                 "Urban",
                 "Rural",
                 "Camp",
+                "Total",
                 ""
               ]
             }
@@ -50,6 +51,18 @@
                 "Dier Al-Balah",
                 "Khan Yunis",
                 "Rafah",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using safely managed sanitation services by URBANISATION, AREA and TIME PERIOD",
+                "Proportion of population using a hand-washing facility with soap and water by URBANISATION, AREA and TIME PERIOD",
+                "Proportion of population practicing open defecation by URBANISATION, AREA and TIME PERIOD",
                 ""
               ]
             }

@@ -1,25 +1,25 @@
-Year,SEX,AREA,Value
-2000,Male,West Bank,102.0
-2001,Male,West Bank,203.0
-2017,Male,West Bank,
-2018,Male,West Bank,
-2019,Male,West Bank,
-2020,Male,West Bank,
-2000,Male,Palestine,
-2001,Male,Palestine,
-2017,Male,Palestine,
-2018,Male,Palestine,
-2019,Male,Palestine,
-2020,Male,Palestine,
-2000,,West Bank,
-2001,,West Bank,
-2017,,West Bank,
-2018,,West Bank,
-2019,,West Bank,
-2020,,West Bank,
-2000,,Palestine,
-2001,,Palestine,
-2017,,Palestine,1.0
-2018,,Palestine,1.0
-2019,,Palestine,1.0
-2020,,Palestine,1.0
+Year,SEX,AREA,Series,Value
+2000,Male,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",102.0
+2001,Male,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",203.0
+2017,Male,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2018,Male,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2020,Male,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2001,Male,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2017,Male,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2018,Male,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2019,Male,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2020,Male,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2000,,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2001,,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2017,,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2018,,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2019,,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2020,,West Bank,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2000,,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2001,,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+2017,,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",1.0
+2018,,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",1.0
+2019,,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",1.0
+2020,,Palestine,"Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",1.0

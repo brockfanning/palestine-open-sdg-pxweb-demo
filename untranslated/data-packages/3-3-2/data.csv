@@ -1,19 +1,19 @@
-Year,AREA,Value
-2015,West Bank,0.52
-2016,West Bank,0.33
-2017,West Bank,0.39
-2018,West Bank,0.42
-2019,West Bank,0.41
-2020,West Bank,0.23
-2015,Gaza Strip,0.77
-2016,Gaza Strip,2.07
-2017,Gaza Strip,2.08
-2018,Gaza Strip,0.98
-2019,Gaza Strip,0.3
-2020,Gaza Strip,0.49
-2015,Palestine,0.61
-2016,Palestine,1.05
-2017,Palestine,1.1
-2018,Palestine,0.65
-2019,Palestine,0.37
-2020,Palestine,0.33
+Year,AREA,Series,Value
+2015,West Bank,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.52
+2016,West Bank,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.33
+2017,West Bank,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.39
+2018,West Bank,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.42
+2019,West Bank,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.41
+2020,West Bank,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.23
+2015,Gaza Strip,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.77
+2016,Gaza Strip,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",2.07
+2017,Gaza Strip,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",2.08
+2018,Gaza Strip,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.98
+2019,Gaza Strip,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.3
+2020,Gaza Strip,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.49
+2015,Palestine,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.61
+2016,Palestine,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",1.05
+2017,Palestine,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",1.1
+2018,Palestine,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.65
+2019,Palestine,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.37
+2020,Palestine,"Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",0.33

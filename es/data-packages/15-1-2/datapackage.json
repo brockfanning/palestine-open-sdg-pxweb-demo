@@ -16,12 +16,25 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD",
+                "Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },

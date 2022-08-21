@@ -1,37 +1,43 @@
-Year,SEX,AREA,Value
-2015,Male,Palestine,20.71
-2016,Male,Palestine,20.71
-2017,Male,Palestine,20.71
-2018,Male,Palestine,20.71
-2019,Male,Palestine,20.71
-2020,Male,Palestine,20.71
-2015,Male,Jenin,20.93
-2016,Male,Jenin,20.93
-2017,Male,Jenin,20.93
-2018,Male,Jenin,20.93
-2019,Male,Jenin,20.93
-2020,Male,Jenin,20.93
-2015,Female,Palestine,20.46
-2016,Female,Palestine,20.46
-2017,Female,Palestine,20.46
-2018,Female,Palestine,20.46
-2019,Female,Palestine,20.46
-2020,Female,Palestine,20.46
-2015,Female,Jenin,20.93
-2016,Female,Jenin,20.93
-2017,Female,Jenin,20.93
-2018,Female,Jenin,20.93
-2019,Female,Jenin,20.93
-2020,Female,Jenin,20.93
-2015,,Palestine,20.13
-2016,,Palestine,20.46
-2017,,Palestine,20.71
-2018,,Palestine,20.93
-2019,,Palestine,20.93
-2020,,Palestine,20.93
-2015,,Jenin,20.93
-2016,,Jenin,20.93
-2017,,Jenin,20.93
-2018,,Jenin,20.93
-2019,,Jenin,20.93
-2020,,Jenin,20.93
+Year,Series,SEX,AREA,Value
+2015,Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD,,,4.27
+2016,Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD,,,4.0
+2017,Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD,,,4.27
+2018,Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD,,,4.27
+2019,Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD,,,4.27
+2020,Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD,,,4.27
+2015,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Palestine,20.71
+2016,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Palestine,20.71
+2017,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Palestine,20.71
+2018,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Palestine,20.71
+2019,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Palestine,20.71
+2020,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Palestine,20.71
+2015,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Jenin,20.93
+2016,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Jenin,20.93
+2017,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Jenin,20.93
+2018,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Jenin,20.93
+2019,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Jenin,20.93
+2020,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Male,Jenin,20.93
+2015,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Palestine,20.46
+2016,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Palestine,20.46
+2017,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Palestine,20.46
+2018,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Palestine,20.46
+2019,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Palestine,20.46
+2020,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Palestine,20.46
+2015,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Jenin,20.93
+2016,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Jenin,20.93
+2017,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Jenin,20.93
+2018,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Jenin,20.93
+2019,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Jenin,20.93
+2020,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Female,Jenin,20.93
+2015,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Palestine,20.13
+2016,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Palestine,20.46
+2017,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Palestine,20.71
+2018,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Palestine,20.93
+2019,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Palestine,20.93
+2020,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Palestine,20.93
+2015,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Jenin,20.93
+2016,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Jenin,20.93
+2017,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Jenin,20.93
+2018,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Jenin,20.93
+2019,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Jenin,20.93
+2020,"Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",Both sexes or no breakdown by sex,Jenin,20.93

@@ -58,6 +58,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population living below the national poverty line (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -80,6 +91,33 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West Bank",
+                "Gaza Strip",
+                "Palestine",
+                ""
+              ]
+            },
+            "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of deprivations for people multidimensionally poor (%) by AREA and TIME PERIOD",
+                "Proportion of children living in child-specific multidimensional poverty (%) by TIME PERIOD",
+                "Proportion of households living in multidimensional poverty (%) by TIME PERIOD",
+                "Proportion of population living in multidimensional poverty (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -106,6 +144,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Direct economic loss attributed to disasters relative to GDP (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -130,6 +179,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services (education, health and social protection) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -152,6 +212,19 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumer Food Price Index by TIME PERIOD",
+                "Indicator of Food Price Anomalies (IFPA) for Rice by TIME PERIOD",
+                "Indicator of Food Price Anomalies (IFPA) for Wheat by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -203,6 +276,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -233,6 +317,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -250,6 +335,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of malnutrition (weight for height > + 2 or < - 2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting) by SEX, AREA and TIME PERIOD",
+                "Prevalence of malnutrition (weight for height > + 2 or  < - 2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (overweight) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -289,6 +386,18 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of anemia in pregnant women aged 15 to 49 years by AREA and TIME PERIOD",
+                "Prevalence of anemia in non-nonpregnant women aged 15 to 49 years by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -313,6 +422,19 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The agriculture orientation index for government expenditures by TIME PERIOD",
+                "Agriculture share of Government Expenditure by TIME PERIOD",
+                "Agriculture value added share of GDP by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -335,6 +457,18 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate or severe food insecurity in the adult population (%) by TIME PERIOD",
+                "Prevalence of severe  food insecurity in the adult population (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -374,6 +508,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of births attended by skilled health personnel (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -404,6 +549,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -421,6 +567,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+                "Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -460,6 +618,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -495,6 +664,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tuberculosis incidence (per 100,000 population) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -534,6 +714,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -571,6 +762,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of hepatitis B surface antigen (HBsAg) per 100,000 population by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -595,12 +797,38 @@
             "title": "Año"
           },
           {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West Bank",
+                "Gaza Strip",
+                "Palestine",
+                ""
+              ]
+            },
+            "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",
+                "Number of deaths attributed to non-communicable diseases, by type of disease and sex by SEX and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -608,7 +836,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -637,10 +865,23 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
             "title": "SEX"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths attributed to suicide by SEX and TIME PERIOD",
+                "Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -678,6 +919,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Death rate due to road traffic injuries by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -728,6 +980,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -776,6 +1039,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -798,6 +1072,18 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with large household expenditures on health as a share of total household expenditure or income (more than 10%) by TIME PERIOD",
+                "oportion of population with large household expenditures on health as a share of total household expenditure or income (more than 25%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -849,6 +1135,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -880,6 +1177,7 @@
                 "Urban",
                 "Rural",
                 "Camp",
+                "Total",
                 ""
               ]
             },
@@ -892,6 +1190,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -909,6 +1208,19 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -935,6 +1247,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total net official development assistance to medical research and basic health sectors by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -957,6 +1280,21 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health worker density and distribution, Physicians by TIME PERIOD",
+                "Health worker density and distribution, Dentists by TIME PERIOD",
+                "Health worker density and distribution, Pharmacist by TIME PERIOD",
+                "Health worker density and distribution, Nursing by TIME PERIOD",
+                "Health worker density and distribution, Midwifery by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -989,6 +1327,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -1006,6 +1345,20 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children in grades 2\\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",
+                "Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",
+                "Percentage of children in grades 2\\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",
+                "Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1038,6 +1391,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -1055,6 +1409,20 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1106,6 +1474,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Participation rate in organized learning (one year before the official primary entry age), by sex (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1152,6 +1531,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months, by age (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1207,6 +1597,17 @@
             "title": "AGE"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence by AREA, AGE and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1260,6 +1661,18 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 20-24 years who were married before age 15 (%) by AREA and TIME PERIOD",
+                "Proportion of women aged 20-24 years who were married before age 18 (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1296,6 +1709,17 @@
             "title": "SEX"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%) by SEX and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1326,6 +1750,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -1343,6 +1768,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of seats held by women in national parliaments (% of total number of seats) by SEX, AREA and TIME PERIOD",
+                "Proportion of seats held by women in local governments by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1392,6 +1829,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women in managerial positions by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1459,6 +1907,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1481,6 +1940,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1549,6 +2019,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using safely managed drinking water services, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1580,6 +2061,7 @@
                 "Urban",
                 "Rural",
                 "Camp",
+                "Total",
                 ""
               ]
             },
@@ -1613,6 +2095,19 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using safely managed sanitation services by URBANISATION, AREA and TIME PERIOD",
+                "Proportion of population using a hand-washing facility with soap and water by URBANISATION, AREA and TIME PERIOD",
+                "Proportion of population practicing open defecation by URBANISATION, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1665,6 +2160,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity, by urban/rural (%) by URBANISATION, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1702,6 +2208,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with primary reliance on clean fuels and technology (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1724,6 +2241,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable energy share in the total final energy consumption (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1750,6 +2278,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Energy intensity measured in terms of primary energy and gross domestic product (GDP) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1772,6 +2311,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed renewable energy-generating capacity in developing countries (in watts/capita) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1821,6 +2371,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1889,6 +2450,17 @@
             "title": "OCCUPATION"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average hourly earnings of female and male employees, by occupation, age and persons with disabilities (NIS) by SEX, AREA, OCCUPATION and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1951,6 +2523,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unemployment rate, by sex, age and persons with disabilities by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1998,6 +2581,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of youth not in education, employment or training, by sex and age (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2062,6 +2656,17 @@
             "title": "AGE"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children engaged in economic activity, by sex and age  (%) by SEX, AREA, AGE and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2099,6 +2704,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tourism direct GDP as a proportion of total GDP and in growth rate (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2121,6 +2737,18 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars) by TIME PERIOD",
+                "Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2016 United States dollars) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2160,6 +2788,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth rate of real GDP per capita (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2182,6 +2821,18 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of commercial bank branches per 100,000 adults by TIME PERIOD",
+                "Number of automated teller machines (ATMs) per 100,000 adults by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2233,6 +2884,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2270,6 +2932,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth rate of real GDP per employed person (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2292,6 +2965,18 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by a mobile network, by technology (2G) by TIME PERIOD",
+                "Proportion of population covered by a mobile network, by technology (3G) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2329,6 +3014,19 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD",
+                "Manufacturing value added  per capita (%) by AREA and TIME PERIOD",
+                "Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2380,6 +3078,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing employment as a proportion of total employment (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2417,6 +3126,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of small-scale industries in total industry value added (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2439,6 +3159,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of small-scale industries with a loan or line of credit(%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2465,6 +3196,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -2489,6 +3231,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Research and development expenditure as a proportion of GDP (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2511,6 +3264,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2550,6 +3314,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of medium and high-tech industry value added in total value added by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2572,6 +3347,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Growth rates of household expenditure or income per capita (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2598,6 +3384,22 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Financial Soundness Indicators ( Liquid assets to short term liabilities) by TIME PERIOD",
+                "Non-performing loans net of provisions to capital (%) by TIME PERIOD",
+                "Non-performing loans to total gross loans by TIME PERIOD",
+                "Regulatory Tier 1 capital to risk-weighted assets (%) by TIME PERIOD",
+                "Regulatory capital to assets by TIME PERIOD",
+                "Return on assets (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2622,6 +3424,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C100b01_01 by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2644,6 +3457,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Remittance costs as a proportion of the amount remitted (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2697,6 +3521,17 @@
             "title": "AGE"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2719,6 +3554,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics, (b) ensure balanced territorial development, (c) increase local fiscal space by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2745,6 +3591,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of urban population living in slums, informal settlements or inadequate housing (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2769,6 +3626,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -2784,13 +3652,27 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in national education policies (Index) by TIME PERIOD",
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in curricula (Index) by TIME PERIOD",
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in teacher education (Index) by TIME PERIOD",
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in student assessment (Index) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2843,6 +3725,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed renewable energy-generating capacity in developing countries (in watts/capita) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2865,6 +3758,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability, Tourism Satellite Account tables by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2912,6 +3816,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2965,6 +3880,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total greenhouse gas emissions per year (1000 ton CO2 eq) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2980,13 +3906,27 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in national education policies (Index) by TIME PERIOD",
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in curricula (Index) by TIME PERIOD",
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in teacher education (Index) by TIME PERIOD",
+                "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in student assessment (Index) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3026,6 +3966,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest area as a proportion of total land area (%) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3050,12 +4001,25 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of important sites for freshwater biodiversity that are covered by protected areas (%) by TIME PERIOD",
+                "Proportion of important sites for terrestrial  biodiversity that are covered by protected areas (%) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -3098,6 +4062,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of land that is degraded over total land area (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -3120,6 +4095,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3146,6 +4132,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mountain Green Cover Index by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3168,6 +4165,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Red List Index (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3194,6 +4202,18 @@
             "title": "Año"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "AREA",
             "type": "string",
             "constraints": {
@@ -3205,6 +4225,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of victims of intentional homicide per 100,000 population by SEX, AREA and TIME PERIOD",
+                "Number of victims of intentional homicide by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3242,6 +4274,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD",
+                "Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3293,6 +4337,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population that feel safe walking alone around the area they live by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3330,6 +4385,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months by Israeli Settlers and Army by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -3352,6 +4418,18 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",
+                "Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3401,6 +4479,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3465,6 +4554,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of young women and men aged 18 and 29 years who experienced sexual violence by age 18 by URBANISATION, SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3500,6 +4600,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3549,6 +4660,17 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unsentenced detainees as a proportion of overall prison population by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3613,6 +4735,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months by URBANISATION, SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3635,6 +4768,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3674,6 +4818,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar) by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3698,12 +4853,26 @@
             "title": "Año"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Camp",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -3721,6 +4890,20 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population satisfied with their last experience of public services (healthcare services) by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Proportion of population satisfied with their last experience of public services (primary public schools) by SEX, AREA and TIME PERIOD",
+                "Proportion of population satisfied with their last experience of public services  (secondary public schools) by SEX, AREA and TIME PERIOD",
+                "Proportion of population satisfied with their last experience of public services (administrative services) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3754,6 +4937,7 @@
                 "Urban",
                 "Rural",
                 "Camp",
+                "Total",
                 ""
               ]
             },
@@ -3766,6 +4950,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -3783,6 +4968,19 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group (The political system in the country allows individuals like me to have an opinion on what the government is doing) by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group (I trust in my ability to participate in politics in the country) by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group (Average of individuals who believe decision-making is inclusive and responsive) by URBANISATION, SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3834,6 +5032,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children under 5 years of age whose births have been registered with a civil authority by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3856,6 +5065,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Existence of independent national human rights institutions in compliance with the Paris Principles (Yes=1; No=2) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -3907,6 +5127,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of individuals using the Internet (10 years and above) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3931,6 +5162,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total government revenue as a proportion of GDP by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3953,6 +5195,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of domestic budget funded by domestic taxes by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -4008,6 +5261,17 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4030,6 +5294,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volume of remittances (in United States dollars) as a proportion of total GDP by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -4056,8 +5331,25 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed Internet broadband subscriptions, by speed (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",
+                "Fixed Internet broadband subscriptions, by speed (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",
+                "Fixed Internet broadband subscriptions, by speed (Equal to or above 10 Mbit/s) by TIME PERIOD",
+                "Fixed Internet broadband subscriptions, by speed (anys) by TIME PERIOD",
+                "Number of fixed Internet broadband subscriptions, by speed (number) (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",
+                "Number of fixed Internet broadband subscriptions, by speed (number) (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",
+                "Number of fixed Internet broadband subscriptions, by speed (number) (Equal to or above 10 Mbit/s) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -4078,6 +5370,17 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "the countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -4104,6 +5407,17 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -4126,6 +5440,19 @@
             "name": "Year",
             "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of countries that have conducted at least one population and housing census in the last 10 years  (1 = YES; 0 = NO) by TIME PERIOD",
+                "Proportion of countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) by TIME PERIOD",
+                "Proportion of countries with death registration data that are at least 75 percent (1 = YES; 0 = NO) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

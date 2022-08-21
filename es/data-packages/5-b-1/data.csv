@@ -1,457 +1,457 @@
-Year,SEX,AREA,Value
-2000,Male,West Bank,
-2004,Male,West Bank,
-2006,Male,West Bank,
-2009,Male,West Bank,
-2011,Male,West Bank,
-2014,Male,West Bank,
-2018,Male,West Bank,
-2019,Male,West Bank,
-2000,Male,Gaza Strip,
-2004,Male,Gaza Strip,
-2006,Male,Gaza Strip,
-2009,Male,Gaza Strip,
-2011,Male,Gaza Strip,
-2014,Male,Gaza Strip,
-2018,Male,Gaza Strip,
-2019,Male,Gaza Strip,
-2000,Male,Palestine,36.0
-2004,Male,Palestine,45.1
-2006,Male,Palestine,52.7
-2009,Male,Palestine,66.7
-2011,Male,Palestine,76.5
-2014,Male,Palestine,81.8
-2018,Male,Palestine,93.9
-2019,Male,Palestine,79.2
-2000,Male,Jenin,
-2004,Male,Jenin,
-2006,Male,Jenin,49.5
-2009,Male,Jenin,77.2
-2011,Male,Jenin,83.1
-2014,Male,Jenin,86.6
-2018,Male,Jenin,94.9
-2019,Male,Jenin,
-2000,Male,Tubas & Northern Valleys,
-2004,Male,Tubas & Northern Valleys,
-2006,Male,Tubas & Northern Valleys,63.4
-2009,Male,Tubas & Northern Valleys,60.2
-2011,Male,Tubas & Northern Valleys,71.5
-2014,Male,Tubas & Northern Valleys,86.9
-2018,Male,Tubas & Northern Valleys,96.2
-2019,Male,Tubas & Northern Valleys,
-2000,Male,Tulkarm,
-2004,Male,Tulkarm,
-2006,Male,Tulkarm,41.6
-2009,Male,Tulkarm,74.6
-2011,Male,Tulkarm,64.7
-2014,Male,Tulkarm,80.5
-2018,Male,Tulkarm,92.9
-2019,Male,Tulkarm,
-2000,Male,Nablus,
-2004,Male,Nablus,
-2006,Male,Nablus,60.9
-2009,Male,Nablus,71.6
-2011,Male,Nablus,73.9
-2014,Male,Nablus,84.4
-2018,Male,Nablus,98.0
-2019,Male,Nablus,
-2000,Male,Qalqiliya,
-2004,Male,Qalqiliya,
-2006,Male,Qalqiliya,74.6
-2009,Male,Qalqiliya,59.6
-2011,Male,Qalqiliya,93.2
-2014,Male,Qalqiliya,77.2
-2018,Male,Qalqiliya,97.8
-2019,Male,Qalqiliya,
-2000,Male,Salfit,
-2004,Male,Salfit,
-2006,Male,Salfit,74.9
-2009,Male,Salfit,60.0
-2011,Male,Salfit,74.8
-2014,Male,Salfit,93.4
-2018,Male,Salfit,95.7
-2019,Male,Salfit,
-2000,Male,Ramallah & Al-Bireh,
-2004,Male,Ramallah & Al-Bireh,
-2006,Male,Ramallah & Al-Bireh,56.3
-2009,Male,Ramallah & Al-Bireh,67.4
-2011,Male,Ramallah & Al-Bireh,85.6
-2014,Male,Ramallah & Al-Bireh,88.4
-2018,Male,Ramallah & Al-Bireh,98.2
-2019,Male,Ramallah & Al-Bireh,
-2000,Male,Jericho & AL Aghwar,
-2004,Male,Jericho & AL Aghwar,
-2006,Male,Jericho & AL Aghwar,62.0
-2009,Male,Jericho & AL Aghwar,81.0
-2011,Male,Jericho & AL Aghwar,88.0
-2014,Male,Jericho & AL Aghwar,93.3
-2018,Male,Jericho & AL Aghwar,98.8
-2019,Male,Jericho & AL Aghwar,
-2000,Male,Jerusalem,
-2004,Male,Jerusalem,
-2006,Male,Jerusalem,66.5
-2009,Male,Jerusalem,76.0
-2011,Male,Jerusalem,89.3
-2014,Male,Jerusalem,84.3
-2018,Male,Jerusalem,92.8
-2019,Male,Jerusalem,
-2000,Male,Bethlehem,
-2004,Male,Bethlehem,
-2006,Male,Bethlehem,41.9
-2009,Male,Bethlehem,70.3
-2011,Male,Bethlehem,75.7
-2014,Male,Bethlehem,83.6
-2018,Male,Bethlehem,96.7
-2019,Male,Bethlehem,
-2000,Male,Hebron,
-2004,Male,Hebron,
-2006,Male,Hebron,55.1
-2009,Male,Hebron,61.0
-2011,Male,Hebron,76.2
-2014,Male,Hebron,87.8
-2018,Male,Hebron,96.4
-2019,Male,Hebron,
-2000,Male,North Gaza,
-2004,Male,North Gaza,
-2006,Male,North Gaza,55.9
-2009,Male,North Gaza,63.1
-2011,Male,North Gaza,56.6
-2014,Male,North Gaza,76.9
-2018,Male,North Gaza,85.3
-2019,Male,North Gaza,
-2000,Male,Gaza,
-2004,Male,Gaza,
-2006,Male,Gaza,46.5
-2009,Male,Gaza,58.1
-2011,Male,Gaza,78.0
-2014,Male,Gaza,75.1
-2018,Male,Gaza,90.2
-2019,Male,Gaza,
-2000,Male,Dier Al-Balah,
-2004,Male,Dier Al-Balah,
-2006,Male,Dier Al-Balah,46.4
-2009,Male,Dier Al-Balah,74.6
-2011,Male,Dier Al-Balah,63.3
-2014,Male,Dier Al-Balah,71.7
-2018,Male,Dier Al-Balah,93.3
-2019,Male,Dier Al-Balah,
-2000,Male,Khan Yunis,
-2004,Male,Khan Yunis,
-2006,Male,Khan Yunis,39.3
-2009,Male,Khan Yunis,60.7
-2011,Male,Khan Yunis,77.3
-2014,Male,Khan Yunis,81.6
-2018,Male,Khan Yunis,92.2
-2019,Male,Khan Yunis,
-2000,Male,Rafah,
-2004,Male,Rafah,
-2006,Male,Rafah,40.0
-2009,Male,Rafah,61.3
-2011,Male,Rafah,77.5
-2014,Male,Rafah,76.9
-2018,Male,Rafah,90.7
-2019,Male,Rafah,
-2000,Female,West Bank,
-2004,Female,West Bank,
-2006,Female,West Bank,
-2009,Female,West Bank,
-2011,Female,West Bank,
-2014,Female,West Bank,
-2018,Female,West Bank,
-2019,Female,West Bank,
-2000,Female,Gaza Strip,
-2004,Female,Gaza Strip,
-2006,Female,Gaza Strip,
-2009,Female,Gaza Strip,
-2011,Female,Gaza Strip,
-2014,Female,Gaza Strip,
-2018,Female,Gaza Strip,
-2019,Female,Gaza Strip,
-2000,Female,Palestine,5.2
-2004,Female,Palestine,14.6
-2006,Female,Palestine,22.4
-2009,Female,Palestine,41.6
-2011,Female,Palestine,53.6
-2014,Female,Palestine,65.3
-2018,Female,Palestine,83.2
-2019,Female,Palestine,70.5
-2000,Female,Jenin,
-2004,Female,Jenin,
-2006,Female,Jenin,21.2
-2009,Female,Jenin,37.7
-2011,Female,Jenin,49.2
-2014,Female,Jenin,61.8
-2018,Female,Jenin,91.3
-2019,Female,Jenin,
-2000,Female,Tubas & Northern Valleys,
-2004,Female,Tubas & Northern Valleys,
-2006,Female,Tubas & Northern Valleys,14.3
-2009,Female,Tubas & Northern Valleys,52.2
-2011,Female,Tubas & Northern Valleys,37.1
-2014,Female,Tubas & Northern Valleys,54.2
-2018,Female,Tubas & Northern Valleys,74.5
-2019,Female,Tubas & Northern Valleys,
-2000,Female,Tulkarm,
-2004,Female,Tulkarm,
-2006,Female,Tulkarm,18.8
-2009,Female,Tulkarm,38.0
-2011,Female,Tulkarm,50.4
-2014,Female,Tulkarm,67.8
-2018,Female,Tulkarm,87.0
-2019,Female,Tulkarm,
-2000,Female,Nablus,
-2004,Female,Nablus,
-2006,Female,Nablus,24.9
-2009,Female,Nablus,48.2
-2011,Female,Nablus,68.4
-2014,Female,Nablus,72.6
-2018,Female,Nablus,92.2
-2019,Female,Nablus,
-2000,Female,Qalqiliya,
-2004,Female,Qalqiliya,
-2006,Female,Qalqiliya,56.1
-2009,Female,Qalqiliya,41.2
-2011,Female,Qalqiliya,56.8
-2014,Female,Qalqiliya,68.0
-2018,Female,Qalqiliya,86.2
-2019,Female,Qalqiliya,
-2000,Female,Salfit,
-2004,Female,Salfit,
-2006,Female,Salfit,22.6
-2009,Female,Salfit,47.2
-2011,Female,Salfit,47.8
-2014,Female,Salfit,65.8
-2018,Female,Salfit,86.9
-2019,Female,Salfit,
-2000,Female,Ramallah & Al-Bireh,
-2004,Female,Ramallah & Al-Bireh,
-2006,Female,Ramallah & Al-Bireh,24.3
-2009,Female,Ramallah & Al-Bireh,53.6
-2011,Female,Ramallah & Al-Bireh,75.6
-2014,Female,Ramallah & Al-Bireh,72.1
-2018,Female,Ramallah & Al-Bireh,88.2
-2019,Female,Ramallah & Al-Bireh,
-2000,Female,Jericho & AL Aghwar,
-2004,Female,Jericho & AL Aghwar,
-2006,Female,Jericho & AL Aghwar,13.0
-2009,Female,Jericho & AL Aghwar,67.4
-2011,Female,Jericho & AL Aghwar,46.5
-2014,Female,Jericho & AL Aghwar,86.2
-2018,Female,Jericho & AL Aghwar,90.3
-2019,Female,Jericho & AL Aghwar,
-2000,Female,Jerusalem,
-2004,Female,Jerusalem,
-2006,Female,Jerusalem,52.5
-2009,Female,Jerusalem,60.3
-2011,Female,Jerusalem,82.6
-2014,Female,Jerusalem,73.1
-2018,Female,Jerusalem,87.4
-2019,Female,Jerusalem,
-2000,Female,Bethlehem,
-2004,Female,Bethlehem,
-2006,Female,Bethlehem,23.5
-2009,Female,Bethlehem,30.8
-2011,Female,Bethlehem,58.5
-2014,Female,Bethlehem,76.6
-2018,Female,Bethlehem,82.2
-2019,Female,Bethlehem,
-2000,Female,Hebron,
-2004,Female,Hebron,
-2006,Female,Hebron,15.8
-2009,Female,Hebron,36.9
-2011,Female,Hebron,44.9
-2014,Female,Hebron,65.4
-2018,Female,Hebron,90.3
-2019,Female,Hebron,
-2000,Female,North Gaza,
-2004,Female,North Gaza,
-2006,Female,North Gaza,12.7
-2009,Female,North Gaza,44.8
-2011,Female,North Gaza,40.8
-2014,Female,North Gaza,54.1
-2018,Female,North Gaza,71.6
-2019,Female,North Gaza,
-2000,Female,Gaza,
-2004,Female,Gaza,
-2006,Female,Gaza,17.7
-2009,Female,Gaza,34.9
-2011,Female,Gaza,46.5
-2014,Female,Gaza,67.2
-2018,Female,Gaza,77.3
-2019,Female,Gaza,
-2000,Female,Dier Al-Balah,
-2004,Female,Dier Al-Balah,
-2006,Female,Dier Al-Balah,11.2
-2009,Female,Dier Al-Balah,35.1
-2011,Female,Dier Al-Balah,39.2
-2014,Female,Dier Al-Balah,55.8
-2018,Female,Dier Al-Balah,80.3
-2019,Female,Dier Al-Balah,
-2000,Female,Khan Yunis,
-2004,Female,Khan Yunis,
-2006,Female,Khan Yunis,9.8
-2009,Female,Khan Yunis,28.6
-2011,Female,Khan Yunis,40.9
-2014,Female,Khan Yunis,52.5
-2018,Female,Khan Yunis,71.5
-2019,Female,Khan Yunis,
-2000,Female,Rafah,
-2004,Female,Rafah,
-2006,Female,Rafah,13.9
-2009,Female,Rafah,33.3
-2011,Female,Rafah,48.8
-2014,Female,Rafah,54.1
-2018,Female,Rafah,67.9
-2019,Female,Rafah,
-2000,,West Bank,24.4
-2004,,West Bank,34.6
-2006,,West Bank,41.9
-2009,,West Bank,57.4
-2011,,West Bank,69.5
-2014,,West Bank,77.5
-2018,,West Bank,92.4
-2019,,West Bank,81.6
-2000,,Gaza Strip,13.0
-2004,,Gaza Strip,21.7
-2006,,Gaza Strip,30.1
-2009,,Gaza Strip,48.9
-2011,,Gaza Strip,57.8
-2014,,Gaza Strip,67.2
-2018,,Gaza Strip,82.3
-2019,,Gaza Strip,64.2
-2000,,Palestine,20.6
-2004,,Palestine,30.0
-2006,,Palestine,37.7
-2009,,Palestine,54.3
-2011,,Palestine,65.2
-2014,,Palestine,73.7
-2018,,Palestine,88.6
-2019,,Palestine,74.9
-2000,,Jenin,
-2004,,Jenin,
-2006,,Jenin,36.1
-2009,,Jenin,58.9
-2011,,Jenin,67.2
-2014,,Jenin,74.0
-2018,,Jenin,93.2
-2019,,Jenin,
-2000,,Tubas & Northern Valleys,
-2004,,Tubas & Northern Valleys,
-2006,,Tubas & Northern Valleys,36.5
-2009,,Tubas & Northern Valleys,56.8
-2011,,Tubas & Northern Valleys,55.2
-2014,,Tubas & Northern Valleys,70.9
-2018,,Tubas & Northern Valleys,84.0
-2019,,Tubas & Northern Valleys,
-2000,,Tulkarm,
-2004,,Tulkarm,
-2006,,Tulkarm,30.0
-2009,,Tulkarm,57.7
-2011,,Tulkarm,58.5
-2014,,Tulkarm,74.3
-2018,,Tulkarm,89.9
-2019,,Tulkarm,
-2000,,Nablus,
-2004,,Nablus,
-2006,,Nablus,42.7
-2009,,Nablus,59.8
-2011,,Nablus,71.0
-2014,,Nablus,78.7
-2018,,Nablus,95.1
-2019,,Nablus,
-2000,,Qalqiliya,
-2004,,Qalqiliya,
-2006,,Qalqiliya,64.7
-2009,,Qalqiliya,52.4
-2011,,Qalqiliya,75.0
-2014,,Qalqiliya,72.8
-2018,,Qalqiliya,92.4
-2019,,Qalqiliya,
-2000,,Salfit,
-2004,,Salfit,
-2006,,Salfit,45.5
-2009,,Salfit,53.9
-2011,,Salfit,61.7
-2014,,Salfit,78.9
-2018,,Salfit,91.7
-2019,,Salfit,
-2000,,Ramallah & Al-Bireh,
-2004,,Ramallah & Al-Bireh,
-2006,,Ramallah & Al-Bireh,40.5
-2009,,Ramallah & Al-Bireh,59.9
-2011,,Ramallah & Al-Bireh,80.7
-2014,,Ramallah & Al-Bireh,80.4
-2018,,Ramallah & Al-Bireh,93.3
-2019,,Ramallah & Al-Bireh,
-2000,,Jericho & AL Aghwar,
-2004,,Jericho & AL Aghwar,
-2006,,Jericho & AL Aghwar,41.0
-2009,,Jericho & AL Aghwar,73.9
-2011,,Jericho & AL Aghwar,65.2
-2014,,Jericho & AL Aghwar,90.1
-2018,,Jericho & AL Aghwar,94.1
-2019,,Jericho & AL Aghwar,
-2000,,Jerusalem,
-2004,,Jerusalem,
-2006,,Jerusalem,59.3
-2009,,Jerusalem,68.0
-2011,,Jerusalem,86.0
-2014,,Jerusalem,78.9
-2018,,Jerusalem,90.0
-2019,,Jerusalem,
-2000,,Bethlehem,
-2004,,Bethlehem,
-2006,,Bethlehem,33.2
-2009,,Bethlehem,50.2
-2011,,Bethlehem,67.1
-2014,,Bethlehem,80.0
-2018,,Bethlehem,89.7
-2019,,Bethlehem,
-2000,,Hebron,
-2004,,Hebron,
-2006,,Hebron,36.5
-2009,,Hebron,49.0
-2011,,Hebron,60.5
-2014,,Hebron,76.7
-2018,,Hebron,93.5
-2019,,Hebron,
-2000,,North Gaza,
-2004,,North Gaza,
-2006,,North Gaza,34.1
-2009,,North Gaza,54.3
-2011,,North Gaza,48.9
-2014,,North Gaza,65.8
-2018,,North Gaza,78.6
-2019,,North Gaza,
-2000,,Gaza,
-2004,,Gaza,
-2006,,Gaza,32.4
-2009,,Gaza,46.8
-2011,,Gaza,62.2
-2014,,Gaza,71.3
-2018,,Gaza,83.8
-2019,,Gaza,
-2000,,Dier Al-Balah,
-2004,,Dier Al-Balah,
-2006,,Dier Al-Balah,28.6
-2009,,Dier Al-Balah,54.9
-2011,,Dier Al-Balah,51.3
-2014,,Dier Al-Balah,63.7
-2018,,Dier Al-Balah,86.7
-2019,,Dier Al-Balah,
-2000,,Khan Yunis,
-2004,,Khan Yunis,
-2006,,Khan Yunis,25.3
-2009,,Khan Yunis,44.6
-2011,,Khan Yunis,59.4
-2014,,Khan Yunis,66.7
-2018,,Khan Yunis,81.4
-2019,,Khan Yunis,
-2000,,Rafah,
-2004,,Rafah,
-2006,,Rafah,26.5
-2009,,Rafah,47.0
-2011,,Rafah,63.8
-2014,,Rafah,65.8
-2018,,Rafah,80.1
-2019,,Rafah,
+Year,SEX,AREA,Series,Value
+2000,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2009,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2011,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2014,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2018,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2009,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2011,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2018,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",36.0
+2004,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",45.1
+2006,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",52.7
+2009,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",66.7
+2011,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",76.5
+2014,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",81.8
+2018,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.9
+2019,Male,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",79.2
+2000,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",49.5
+2009,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",77.2
+2011,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",83.1
+2014,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",86.6
+2018,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",94.9
+2019,Male,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",63.4
+2009,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",60.2
+2011,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",71.5
+2014,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",86.9
+2018,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",96.2
+2019,Male,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",41.6
+2009,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.6
+2011,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",64.7
+2014,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",80.5
+2018,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",92.9
+2019,Male,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",60.9
+2009,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",71.6
+2011,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",73.9
+2014,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",84.4
+2018,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",98.0
+2019,Male,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.6
+2009,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",59.6
+2011,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.2
+2014,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",77.2
+2018,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",97.8
+2019,Male,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.9
+2009,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",60.0
+2011,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.8
+2014,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.4
+2018,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",95.7
+2019,Male,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",56.3
+2009,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.4
+2011,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",85.6
+2014,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",88.4
+2018,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",98.2
+2019,Male,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",62.0
+2009,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",81.0
+2011,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",88.0
+2014,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.3
+2018,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",98.8
+2019,Male,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",66.5
+2009,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",76.0
+2011,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",89.3
+2014,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",84.3
+2018,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",92.8
+2019,Male,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",41.9
+2009,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",70.3
+2011,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",75.7
+2014,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",83.6
+2018,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",96.7
+2019,Male,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",55.1
+2009,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",61.0
+2011,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",76.2
+2014,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",87.8
+2018,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",96.4
+2019,Male,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",55.9
+2009,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",63.1
+2011,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",56.6
+2014,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",76.9
+2018,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",85.3
+2019,Male,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",46.5
+2009,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",58.1
+2011,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",78.0
+2014,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",75.1
+2018,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",90.2
+2019,Male,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",46.4
+2009,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.6
+2011,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",63.3
+2014,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",71.7
+2018,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.3
+2019,Male,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",39.3
+2009,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",60.7
+2011,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",77.3
+2014,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",81.6
+2018,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",92.2
+2019,Male,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",40.0
+2009,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",61.3
+2011,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",77.5
+2014,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",76.9
+2018,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",90.7
+2019,Male,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2009,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2011,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2014,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2018,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2009,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2011,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2018,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",5.2
+2004,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",14.6
+2006,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",22.4
+2009,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",41.6
+2011,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",53.6
+2014,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",65.3
+2018,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",83.2
+2019,Female,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",70.5
+2000,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",21.2
+2009,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",37.7
+2011,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",49.2
+2014,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",61.8
+2018,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",91.3
+2019,Female,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",14.3
+2009,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",52.2
+2011,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",37.1
+2014,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",54.2
+2018,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.5
+2019,Female,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",18.8
+2009,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",38.0
+2011,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",50.4
+2014,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.8
+2018,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",87.0
+2019,Female,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",24.9
+2009,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",48.2
+2011,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",68.4
+2014,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",72.6
+2018,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",92.2
+2019,Female,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",56.1
+2009,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",41.2
+2011,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",56.8
+2014,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",68.0
+2018,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",86.2
+2019,Female,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",22.6
+2009,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",47.2
+2011,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",47.8
+2014,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",65.8
+2018,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",86.9
+2019,Female,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",24.3
+2009,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",53.6
+2011,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",75.6
+2014,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",72.1
+2018,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",88.2
+2019,Female,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",13.0
+2009,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.4
+2011,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",46.5
+2014,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",86.2
+2018,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",90.3
+2019,Female,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",52.5
+2009,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",60.3
+2011,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",82.6
+2014,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",73.1
+2018,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",87.4
+2019,Female,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",23.5
+2009,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",30.8
+2011,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",58.5
+2014,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",76.6
+2018,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",82.2
+2019,Female,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",15.8
+2009,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",36.9
+2011,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",44.9
+2014,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",65.4
+2018,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",90.3
+2019,Female,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",12.7
+2009,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",44.8
+2011,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",40.8
+2014,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",54.1
+2018,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",71.6
+2019,Female,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",17.7
+2009,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",34.9
+2011,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",46.5
+2014,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.2
+2018,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",77.3
+2019,Female,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",11.2
+2009,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",35.1
+2011,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",39.2
+2014,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",55.8
+2018,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",80.3
+2019,Female,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",9.8
+2009,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",28.6
+2011,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",40.9
+2014,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",52.5
+2018,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",71.5
+2019,Female,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",13.9
+2009,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",33.3
+2011,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",48.8
+2014,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",54.1
+2018,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.9
+2019,Female,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",24.4
+2004,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",34.6
+2006,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",41.9
+2009,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",57.4
+2011,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",69.5
+2014,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",77.5
+2018,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",92.4
+2019,,West Bank,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",81.6
+2000,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",13.0
+2004,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",21.7
+2006,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",30.1
+2009,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",48.9
+2011,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",57.8
+2014,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.2
+2018,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",82.3
+2019,,Gaza Strip,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",64.2
+2000,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",20.6
+2004,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",30.0
+2006,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",37.7
+2009,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",54.3
+2011,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",65.2
+2014,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",73.7
+2018,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",88.6
+2019,,Palestine,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.9
+2000,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",36.1
+2009,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",58.9
+2011,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.2
+2014,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.0
+2018,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.2
+2019,,Jenin,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",36.5
+2009,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",56.8
+2011,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",55.2
+2014,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",70.9
+2018,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",84.0
+2019,,Tubas & Northern Valleys,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",30.0
+2009,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",57.7
+2011,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",58.5
+2014,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",74.3
+2018,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",89.9
+2019,,Tulkarm,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",42.7
+2009,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",59.8
+2011,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",71.0
+2014,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",78.7
+2018,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",95.1
+2019,,Nablus,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",64.7
+2009,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",52.4
+2011,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",75.0
+2014,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",72.8
+2018,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",92.4
+2019,,Qalqiliya,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",45.5
+2009,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",53.9
+2011,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",61.7
+2014,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",78.9
+2018,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",91.7
+2019,,Salfit,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",40.5
+2009,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",59.9
+2011,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",80.7
+2014,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",80.4
+2018,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.3
+2019,,Ramallah & Al-Bireh,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",41.0
+2009,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",73.9
+2011,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",65.2
+2014,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",90.1
+2018,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",94.1
+2019,,Jericho & AL Aghwar,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",59.3
+2009,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",68.0
+2011,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",86.0
+2014,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",78.9
+2018,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",90.0
+2019,,Jerusalem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",33.2
+2009,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",50.2
+2011,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",67.1
+2014,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",80.0
+2018,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",89.7
+2019,,Bethlehem,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",36.5
+2009,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",49.0
+2011,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",60.5
+2014,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",76.7
+2018,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",93.5
+2019,,Hebron,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",34.1
+2009,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",54.3
+2011,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",48.9
+2014,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",65.8
+2018,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",78.6
+2019,,North Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",32.4
+2009,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",46.8
+2011,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",62.2
+2014,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",71.3
+2018,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",83.8
+2019,,Gaza,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",28.6
+2009,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",54.9
+2011,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",51.3
+2014,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",63.7
+2018,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",86.7
+2019,,Dier Al-Balah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",25.3
+2009,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",44.6
+2011,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",59.4
+2014,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",66.7
+2018,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",81.4
+2019,,Khan Yunis,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2000,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2004,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",
+2006,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",26.5
+2009,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",47.0
+2011,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",63.8
+2014,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",65.8
+2018,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",80.1
+2019,,Rafah,"Proportion of individuals who own a mobile telephone, by sex by SEX, AREA and TIME PERIOD",

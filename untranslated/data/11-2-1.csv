@@ -1,19 +1,19 @@
-Year,SEX,AGE,Value
-2020,Male,,77.0
-2020,Male,under 15 years old,76.5
-2020,Male,15 to 24 years old,77.4
-2020,Male,25 to 34 years old,77.9
-2020,Male,35 to 44 years old,73.6
-2020,Male,65 years old and over,83.4
-2020,Female,,77.2
-2020,Female,under 15 years old,76.2
-2020,Female,15 to 24 years old,77.0
-2020,Female,25 to 34 years old,78.2
-2020,Female,35 to 44 years old,75.7
-2020,Female,65 years old and over,83.5
-2020,,,77.1
-2020,,under 15 years old,76.3
-2020,,15 to 24 years old,77.2
-2020,,25 to 34 years old,78.1
-2020,,35 to 44 years old,74.7
-2020,,65 years old and over,83.5
+Year,SEX,AGE,Series,Value
+2020,Male,,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",77.0
+2020,Male,under 15 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",76.5
+2020,Male,15 to 24 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",77.4
+2020,Male,25 to 34 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",77.9
+2020,Male,35 to 44 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",73.6
+2020,Male,65 years old and over,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",83.4
+2020,Female,,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",77.2
+2020,Female,under 15 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",76.2
+2020,Female,15 to 24 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",77.0
+2020,Female,25 to 34 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",78.2
+2020,Female,35 to 44 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",75.7
+2020,Female,65 years old and over,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",83.5
+2020,,,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",77.1
+2020,,under 15 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",76.3
+2020,,15 to 24 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",77.2
+2020,,25 to 34 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",78.1
+2020,,35 to 44 years old,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",74.7
+2020,,65 years old and over,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",83.5

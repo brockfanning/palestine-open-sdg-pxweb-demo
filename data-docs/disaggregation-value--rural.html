@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="/open-sdg-simple-starter/data-docs/index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">URBANISATION: Rural</h1>
                     <div>
@@ -68,12 +94,12 @@
             
         <div class="my-3">
             <a href="disaggregation-value--rural.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-value--rural">Download CSV of indicators using this disaggregation value</a>
-            <div id="disaggregation-value--rural" class="download-info">Size: 123 Bytes</div>
+            <div id="disaggregation-value--rural" class="download-info">Size: 135 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">7</span>
+                    Total rows: <span class="total">8</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="disaggregation-value-table">
   <thead>
@@ -92,12 +118,16 @@
       <td>9</td>
     </tr>
     <tr>
-      <td>#16-7-2</td>
+      <td>#16-6-2</td>
       <td>9</td>
     </tr>
     <tr>
+      <td>#16-7-2</td>
+      <td>27</td>
+    </tr>
+    <tr>
       <td>#3-b-1</td>
-      <td>9</td>
+      <td>27</td>
     </tr>
     <tr>
       <td>#6-1-1</td>
@@ -105,7 +135,7 @@
     </tr>
     <tr>
       <td>#6-2-1</td>
-      <td>19</td>
+      <td>41</td>
     </tr>
     <tr>
       <td>#7-1-1</td>
@@ -116,7 +146,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"#16-2-3","Disaggregation combinations using this value":9},{"Indicator":"#16-5-1","Disaggregation combinations using this value":9},{"Indicator":"#16-7-2","Disaggregation combinations using this value":9},{"Indicator":"#3-b-1","Disaggregation combinations using this value":9},{"Indicator":"#6-1-1","Disaggregation combinations using this value":19},{"Indicator":"#6-2-1","Disaggregation combinations using this value":19},{"Indicator":"#7-1-1","Disaggregation combinations using this value":3}];
+            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"#16-2-3","Disaggregation combinations using this value":9},{"Indicator":"#16-5-1","Disaggregation combinations using this value":9},{"Indicator":"#16-6-2","Disaggregation combinations using this value":9},{"Indicator":"#16-7-2","Disaggregation combinations using this value":27},{"Indicator":"#3-b-1","Disaggregation combinations using this value":27},{"Indicator":"#6-1-1","Disaggregation combinations using this value":19},{"Indicator":"#6-2-1","Disaggregation combinations using this value":41},{"Indicator":"#7-1-1","Disaggregation combinations using this value":3}];
             </script>
             
         </div>

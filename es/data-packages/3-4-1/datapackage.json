@@ -16,12 +16,38 @@
             "title": "Año"
           },
           {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West Bank",
+                "Gaza Strip",
+                "Palestine",
+                ""
+              ]
+            },
+            "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (Per 10,000) by AREA and TIME PERIOD",
+                "Number of deaths attributed to non-communicable diseases, by type of disease and sex by SEX and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -29,7 +55,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

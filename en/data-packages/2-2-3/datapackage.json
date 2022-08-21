@@ -29,6 +29,18 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of anemia in pregnant women aged 15 to 49 years by AREA and TIME PERIOD",
+                "Prevalence of anemia in non-nonpregnant women aged 15 to 49 years by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -23,6 +23,7 @@
                 "Urban",
                 "Rural",
                 "Camp",
+                "Total",
                 ""
               ]
             },
@@ -35,6 +36,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -52,6 +54,19 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+                "Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

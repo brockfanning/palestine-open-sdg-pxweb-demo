@@ -22,6 +22,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -39,6 +40,18 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of malnutrition (weight for height > + 2 or < - 2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting) by SEX, AREA and TIME PERIOD",
+                "Prevalence of malnutrition (weight for height > + 2 or  < - 2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (overweight) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

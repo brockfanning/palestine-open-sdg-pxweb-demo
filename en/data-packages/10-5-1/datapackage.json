@@ -16,6 +16,22 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Financial Soundness Indicators ( Liquid assets to short term liabilities) by TIME PERIOD",
+                "Non-performing loans net of provisions to capital (%) by TIME PERIOD",
+                "Non-performing loans to total gross loans by TIME PERIOD",
+                "Regulatory Tier 1 capital to risk-weighted assets (%) by TIME PERIOD",
+                "Regulatory capital to assets by TIME PERIOD",
+                "Return on assets (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

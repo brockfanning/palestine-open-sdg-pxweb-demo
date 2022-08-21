@@ -16,6 +16,33 @@
             "title": "Año"
           },
           {
+            "name": "AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West Bank",
+                "Gaza Strip",
+                "Palestine",
+                ""
+              ]
+            },
+            "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of deprivations for people multidimensionally poor (%) by AREA and TIME PERIOD",
+                "Proportion of children living in child-specific multidimensional poverty (%) by TIME PERIOD",
+                "Proportion of households living in multidimensional poverty (%) by TIME PERIOD",
+                "Proportion of population living in multidimensional poverty (%) by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

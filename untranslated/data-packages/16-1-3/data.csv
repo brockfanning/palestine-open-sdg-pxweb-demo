@@ -1,16 +1,31 @@
-Year,AREA,Value
-2004,West Bank,2.1
-2008,West Bank,2.4
-2012,West Bank,3.3
-2016,West Bank,2.1
-2020,West Bank,1.7
-2004,Gaza Strip,0.6
-2008,Gaza Strip,3.1
-2012,Gaza Strip,5.0
-2016,Gaza Strip,8.0
-2020,Gaza Strip,5.9
-2004,Palestine,1.6
-2008,Palestine,2.6
-2012,Palestine,3.9
-2016,Palestine,4.2
-2020,Palestine,3.2
+Year,AREA,Series,Value
+2004,West Bank,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.5
+2008,West Bank,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.4
+2012,West Bank,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.7
+2016,West Bank,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.4
+2020,West Bank,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.5
+2004,Gaza Strip,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,3.5
+2008,Gaza Strip,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,2.0
+2012,Gaza Strip,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.6
+2016,Gaza Strip,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,1.8
+2020,Gaza Strip,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.8
+2004,Palestine,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,1.5
+2008,Palestine,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.9
+2012,Palestine,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.7
+2016,Palestine,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.9
+2020,Palestine,Proportion of population subjected to physical violence in the previous 12 months by AREA and TIME PERIOD,0.6
+2004,West Bank,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,2.1
+2008,West Bank,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,2.4
+2012,West Bank,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,3.3
+2016,West Bank,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,2.1
+2020,West Bank,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,1.7
+2004,Gaza Strip,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,0.6
+2008,Gaza Strip,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,3.1
+2012,Gaza Strip,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,5.0
+2016,Gaza Strip,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,8.0
+2020,Gaza Strip,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,5.9
+2004,Palestine,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,1.6
+2008,Palestine,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,2.6
+2012,Palestine,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,3.9
+2016,Palestine,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,4.2
+2020,Palestine,Proportion of population subjected to robbery in the previous 12 months by AREA and TIME PERIOD,3.2

@@ -1,46 +1,46 @@
-Year,SEX,AREA,Value
-2011,Male,West Bank,
-2014,Male,West Bank,
-2017,Male,West Bank,
-2018,Male,West Bank,
-2019,Male,West Bank,
-2011,Male,Gaza Strip,
-2014,Male,Gaza Strip,
-2017,Male,Gaza Strip,
-2018,Male,Gaza Strip,
-2019,Male,Gaza Strip,
-2011,Male,Palestine,28.67
-2014,Male,Palestine,27.34
-2017,Male,Palestine,34.44
-2018,Male,Palestine,
-2019,Male,Palestine,44.2
-2011,Female,West Bank,
-2014,Female,West Bank,
-2017,Female,West Bank,
-2018,Female,West Bank,
-2019,Female,West Bank,
-2011,Female,Gaza Strip,
-2014,Female,Gaza Strip,
-2017,Female,Gaza Strip,
-2018,Female,Gaza Strip,
-2019,Female,Gaza Strip,
-2011,Female,Palestine,10.19
-2014,Female,Palestine,21.21
-2017,Female,Palestine,15.91
-2018,Female,Palestine,
-2019,Female,Palestine,19.8
-2011,,West Bank,
-2014,,West Bank,
-2017,,West Bank,
-2018,,West Bank,
-2019,,West Bank,39.2
-2011,,Gaza Strip,
-2014,,Gaza Strip,
-2017,,Gaza Strip,
-2018,,Gaza Strip,
-2019,,Gaza Strip,20.8
-2011,,Palestine,19.43
-2014,,Palestine,24.24
-2017,,Palestine,25.02
-2018,,Palestine,55.0
-2019,,Palestine,44.0
+Year,SEX,AREA,Series,Value
+2011,Male,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2014,Male,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2017,Male,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2018,Male,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2011,Male,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2017,Male,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2018,Male,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2011,Male,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",28.67
+2014,Male,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",27.34
+2017,Male,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",34.44
+2018,Male,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,Male,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",44.2
+2011,Female,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2014,Female,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2017,Female,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2018,Female,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2011,Female,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2017,Female,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2018,Female,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2011,Female,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",10.19
+2014,Female,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",21.21
+2017,Female,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",15.91
+2018,Female,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,Female,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",19.8
+2011,,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2014,,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2017,,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2018,,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,,West Bank,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",39.2
+2011,,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2014,,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2017,,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2018,,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",
+2019,,Gaza Strip,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",20.8
+2011,,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",19.43
+2014,,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",24.24
+2017,,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",25.02
+2018,,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",55.0
+2019,,Palestine,"Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older) by SEX, AREA and TIME PERIOD",44.0

@@ -43,6 +43,17 @@
             "title": "AGE"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities (%) by SEX, AGE and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

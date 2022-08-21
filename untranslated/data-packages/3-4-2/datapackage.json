@@ -21,6 +21,18 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths attributed to suicide by SEX and TIME PERIOD",
+                "Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
                 ""
               ]
             }

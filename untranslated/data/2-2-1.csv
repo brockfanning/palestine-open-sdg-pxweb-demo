@@ -1,91 +1,91 @@
-Year,SEX,AREA,Value
-2000,Male,West Bank,
-2001,Male,West Bank,
-2002,Male,West Bank,
-2006,Male,West Bank,
-2007,Male,West Bank,
-2008,Male,West Bank,
-2014,Male,West Bank,
-2015,Male,West Bank,
-2016,Male,West Bank,
-2019,Male,West Bank,
-2000,Male,Gaza Strip,
-2001,Male,Gaza Strip,
-2002,Male,Gaza Strip,
-2006,Male,Gaza Strip,
-2007,Male,Gaza Strip,
-2008,Male,Gaza Strip,
-2014,Male,Gaza Strip,
-2015,Male,Gaza Strip,
-2016,Male,Gaza Strip,
-2019,Male,Gaza Strip,
-2000,Male,Palestine,7.0
-2001,Male,Palestine,10.4
-2002,Male,Palestine,8.1
-2006,Male,Palestine,10.4
-2007,Male,Palestine,10.4
-2008,Male,Palestine,8.1
-2014,Male,Palestine,8.1
-2015,Male,Palestine,10.4
-2016,Male,Palestine,8.1
-2019,Male,Palestine,8.6
-2000,Female,West Bank,
-2001,Female,West Bank,
-2002,Female,West Bank,
-2006,Female,West Bank,
-2007,Female,West Bank,
-2008,Female,West Bank,
-2014,Female,West Bank,
-2015,Female,West Bank,
-2016,Female,West Bank,
-2019,Female,West Bank,
-2000,Female,Gaza Strip,
-2001,Female,Gaza Strip,
-2002,Female,Gaza Strip,
-2006,Female,Gaza Strip,
-2007,Female,Gaza Strip,
-2008,Female,Gaza Strip,
-2014,Female,Gaza Strip,
-2015,Female,Gaza Strip,
-2016,Female,Gaza Strip,
-2019,Female,Gaza Strip,
-2000,Female,Palestine,8.1
-2001,Female,Palestine,
-2002,Female,Palestine,
-2006,Female,Palestine,10.0
-2007,Female,Palestine,
-2008,Female,Palestine,
-2014,Female,Palestine,6.6
-2015,Female,Palestine,
-2016,Female,Palestine,
-2019,Female,Palestine,8.8
-2000,,West Bank,7.0
-2001,,West Bank,7.9
-2002,,West Bank,7.7
-2006,,West Bank,7.9
-2007,,West Bank,7.9
-2008,,West Bank,7.7
-2014,,West Bank,7.7
-2015,,West Bank,7.9
-2016,,West Bank,7.7
-2019,,West Bank,8.5
-2000,,Gaza Strip,8.3
-2001,,Gaza Strip,
-2002,,Gaza Strip,
-2006,,Gaza Strip,13.2
-2007,,Gaza Strip,
-2008,,Gaza Strip,
-2014,,Gaza Strip,7.1
-2015,,Gaza Strip,
-2016,,Gaza Strip,
-2019,,Gaza Strip,9.0
-2000,,Palestine,7.5
-2001,,Palestine,10.2
-2002,,Palestine,7.4
-2006,,Palestine,10.2
-2007,,Palestine,10.2
-2008,,Palestine,7.4
-2014,,Palestine,7.4
-2015,,Palestine,10.2
-2016,,Palestine,7.4
-2019,,Palestine,8.7
+Year,SEX,AREA,Series,Value
+2000,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2001,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2002,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2006,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2007,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2008,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2014,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2015,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2016,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2000,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2001,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2002,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2007,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2008,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2015,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2016,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.0
+2001,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.4
+2002,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.1
+2006,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.4
+2007,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.4
+2008,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.1
+2014,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.1
+2015,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.4
+2016,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.1
+2019,Male,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.6
+2000,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2001,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2002,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2006,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2007,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2008,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2014,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2015,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2016,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2000,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2001,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2002,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2007,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2008,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2015,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2016,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2000,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.1
+2001,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2002,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2006,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.0
+2007,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2008,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2014,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",6.6
+2015,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2016,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2019,Female,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.8
+2000,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.0
+2001,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.9
+2002,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.7
+2006,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.9
+2007,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.9
+2008,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.7
+2014,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.7
+2015,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.9
+2016,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.7
+2019,,West Bank,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.5
+2000,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.3
+2001,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2002,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2006,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",13.2
+2007,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2008,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2014,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.1
+2015,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2016,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",
+2019,,Gaza Strip,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",9.0
+2000,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.5
+2001,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.2
+2002,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.4
+2006,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.2
+2007,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.2
+2008,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.4
+2014,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.4
+2015,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",10.2
+2016,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",7.4
+2019,,Palestine,"Prevalence of stunting (height for age < -   standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age by SEX, AREA and TIME PERIOD",8.7

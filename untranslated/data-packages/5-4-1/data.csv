@@ -1,5 +1,5 @@
-Year,SEX,Value
-2000,Male,0.03
-2013,Male,0.03
-2000,Female,0.2
-2013,Female,0.18
+Year,SEX,Series,Value
+2000,Male,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%) by SEX and TIME PERIOD",0.03
+2013,Male,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%) by SEX and TIME PERIOD",0.03
+2000,Female,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%) by SEX and TIME PERIOD",0.2
+2013,Female,"Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%) by SEX and TIME PERIOD",0.18

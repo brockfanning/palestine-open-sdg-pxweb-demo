@@ -16,6 +16,19 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumer Food Price Index by TIME PERIOD",
+                "Indicator of Food Price Anomalies (IFPA) for Rice by TIME PERIOD",
+                "Indicator of Food Price Anomalies (IFPA) for Wheat by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

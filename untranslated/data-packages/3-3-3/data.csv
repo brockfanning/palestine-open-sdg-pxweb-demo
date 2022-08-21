@@ -1,19 +1,19 @@
-Year,AREA,Value
-2015,West Bank,0
-2016,West Bank,0
-2017,West Bank,0
-2018,West Bank,0
-2019,West Bank,0
-2020,West Bank,0
-2015,Gaza Strip,0
-2016,Gaza Strip,0
-2017,Gaza Strip,0
-2018,Gaza Strip,0
-2019,Gaza Strip,0
-2020,Gaza Strip,0
-2015,Palestine,0
-2016,Palestine,0
-2017,Palestine,0
-2018,Palestine,0
-2019,Palestine,0
-2020,Palestine,0
+Year,AREA,Series,Value
+2015,West Bank,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2016,West Bank,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2017,West Bank,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2018,West Bank,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2019,West Bank,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2020,West Bank,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2015,Gaza Strip,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2016,Gaza Strip,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2017,Gaza Strip,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2018,Gaza Strip,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2019,Gaza Strip,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2020,Gaza Strip,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2015,Palestine,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2016,Palestine,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2017,Palestine,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2018,Palestine,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2019,Palestine,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0
+2020,Palestine,"Malaria incidence per 1,000 population at risk (per 1,000 population) by AREA and TIME PERIOD",0

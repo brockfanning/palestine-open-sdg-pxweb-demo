@@ -1,10 +1,64 @@
-Year,SEX,AREA,Value
-2019,Male,West Bank,
-2019,Male,Gaza Strip,
-2019,Male,Palestine,14.0
-2019,Female,West Bank,
-2019,Female,Gaza Strip,
-2019,Female,Palestine,10.0
-2019,,West Bank,11.7
-2019,,Gaza Strip,12.7
-2019,,Palestine,12.1
+Year,SEX,AREA,Series,Value
+2000,Male,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2004,Male,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2006,Male,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2010,Male,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2014,Male,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Male,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2000,Male,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2004,Male,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2006,Male,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2010,Male,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2014,Male,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2000,Male,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",29.0
+2004,Male,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",32.0
+2006,Male,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2010,Male,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",27.0
+2014,Male,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",23.0
+2019,Male,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",16.3
+2000,Female,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2004,Female,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2006,Female,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2010,Female,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2014,Female,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Female,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2000,Female,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2004,Female,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2006,Female,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2010,Female,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2014,Female,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2000,Female,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",28.0
+2004,Female,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",25.0
+2006,Female,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2010,Female,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",20.0
+2014,Female,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",21.0
+2019,Female,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",12.0
+2000,,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",27.0
+2004,,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",23.7
+2006,,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",29.5
+2010,,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",21.0
+2014,,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",20.0
+2019,,West Bank,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",14.7
+2000,,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",31.0
+2004,,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",34.8
+2006,,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",34.9
+2010,,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",26.8
+2014,,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",24.0
+2019,,Gaza Strip,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",13.7
+2000,,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",28.0
+2004,,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",28.3
+2006,,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",31.6
+2010,,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",23.4
+2014,,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",22.0
+2019,,Palestine,"Under-five mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",14.2
+2019,Male,West Bank,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Male,Gaza Strip,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Male,Palestine,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",14.0
+2019,Female,West Bank,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Female,Gaza Strip,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",
+2019,Female,Palestine,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",10.0
+2019,Both sexes or no breakdown by sex,West Bank,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",11.7
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",12.7
+2019,Both sexes or no breakdown by sex,Palestine,"Infant mortality rate, by sex (deaths per 1,000 live births) by SEX, AREA and TIME PERIOD",12.1

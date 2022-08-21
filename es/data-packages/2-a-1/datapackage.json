@@ -16,6 +16,19 @@
             "title": "Año"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The agriculture orientation index for government expenditures by TIME PERIOD",
+                "Agriculture share of Government Expenditure by TIME PERIOD",
+                "Agriculture value added share of GDP by TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

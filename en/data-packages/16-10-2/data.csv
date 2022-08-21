@@ -1,7 +1,13 @@
-Year,Value
-2014,0
-2015,1
-2016,0
-2017,0
-2018,0
-2019,0
+Year,Series,Value
+2014,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",17
+2015,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",1
+2016,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",1
+2017,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",0
+2018,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",2
+2019,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is Israeli Occupation) by TIME PERIOD",0
+2014,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",0
+2015,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",1
+2016,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",0
+2017,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",0
+2018,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",0
+2019,"Number of verified cases of killing of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months ( The Violator is State of Palestine) by TIME PERIOD",0

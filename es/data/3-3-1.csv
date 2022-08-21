@@ -1,19 +1,19 @@
-Year,AREA,Value
-2015,West Bank,0.04
-2016,West Bank,0.25
-2017,West Bank,0.08
-2018,West Bank,0.04
-2019,West Bank,0.22
-2020,West Bank,0.7
-2015,Gaza Strip,0.0
-2016,Gaza Strip,0.0
-2017,Gaza Strip,0.0
-2018,Gaza Strip,0.05
-2019,Gaza Strip,0.1
-2020,Gaza Strip,0.15
-2015,Palestine,0.0
-2016,Palestine,0.0
-2017,Palestine,0.0
-2018,Palestine,0.04
-2019,Palestine,0.17
-2020,Palestine,0.1
+Year,AREA,Series,Value
+2015,West Bank,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.04
+2016,West Bank,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.25
+2017,West Bank,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.08
+2018,West Bank,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.04
+2019,West Bank,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.22
+2020,West Bank,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.7
+2015,Gaza Strip,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.0
+2016,Gaza Strip,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.0
+2017,Gaza Strip,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.0
+2018,Gaza Strip,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.05
+2019,Gaza Strip,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.1
+2020,Gaza Strip,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.15
+2015,Palestine,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.0
+2016,Palestine,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.0
+2017,Palestine,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.0
+2018,Palestine,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.04
+2019,Palestine,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.17
+2020,Palestine,"Number of new HIV infections per 100,000 uninfected population, by sex and age (per 1,000 uninfected population) by AREA and TIME PERIOD",0.1

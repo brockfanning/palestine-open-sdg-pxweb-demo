@@ -22,6 +22,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Both sexes or no breakdown by sex",
                 ""
               ]
             },
@@ -39,6 +40,20 @@
               ]
             },
             "title": "AREA"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (Literacy-numeracy) by SEX, AREA and TIME PERIOD",
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (physical) by SEX, AREA and TIME PERIOD",
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (Social-emotional) by SEX, AREA and TIME PERIOD",
+                "Percentage of children age 3-4 years who are developmentally on track for indicated domains (learning) by SEX, AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

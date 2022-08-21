@@ -1,58 +1,58 @@
-Year,AREA,Value
-2000,West Bank,1.55
-2001,West Bank,1.56
-2002,West Bank,1.56
-2003,West Bank,1.56
-2004,West Bank,1.56
-2005,West Bank,1.56
-2006,West Bank,1.56
-2007,West Bank,1.61
-2008,West Bank,1.61
-2009,West Bank,1.61
-2010,West Bank,1.74
-2011,West Bank,1.74
-2012,West Bank,3.97
-2015,West Bank,
-2016,West Bank,
-2017,West Bank,
-2018,West Bank,4.04
-2019,West Bank,
-2020,West Bank,
-2000,Gaza Strip,0.88
-2001,Gaza Strip,0.88
-2002,Gaza Strip,0.88
-2003,Gaza Strip,0.88
-2004,Gaza Strip,0.88
-2005,Gaza Strip,0.88
-2006,Gaza Strip,0.88
-2007,Gaza Strip,0.88
-2008,Gaza Strip,0.88
-2009,Gaza Strip,0.88
-2010,Gaza Strip,0.88
-2011,Gaza Strip,0.88
-2012,Gaza Strip,0.41
-2015,Gaza Strip,
-2016,Gaza Strip,
-2017,Gaza Strip,
-2018,Gaza Strip,0.41
-2019,Gaza Strip,
-2020,Gaza Strip,
-2000,Palestine,1.51
-2001,Palestine,1.52
-2002,Palestine,1.52
-2003,Palestine,1.52
-2004,Palestine,1.52
-2005,Palestine,1.52
-2006,Palestine,1.52
-2007,Palestine,1.57
-2008,Palestine,1.57
-2009,Palestine,1.57
-2010,Palestine,1.63
-2011,Palestine,1.68
-2012,Palestine,3.99
-2015,Palestine,1.68
-2016,Palestine,1.68
-2017,Palestine,1.68
-2018,Palestine,4.06
-2019,Palestine,1.68
-2020,Palestine,1.68
+Year,AREA,Series,Value
+2000,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.55
+2001,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.56
+2002,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.56
+2003,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.56
+2004,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.56
+2005,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.56
+2006,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.56
+2007,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.61
+2008,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.61
+2009,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.61
+2010,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.74
+2011,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.74
+2012,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,3.97
+2015,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2016,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2017,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2018,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,4.04
+2019,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2020,West Bank,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2000,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2001,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2002,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2003,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2004,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2005,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2006,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2007,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2008,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2009,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2010,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2011,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.88
+2012,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.41
+2015,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2016,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2017,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2018,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,0.41
+2019,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2020,Gaza Strip,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,
+2000,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.51
+2001,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.52
+2002,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.52
+2003,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.52
+2004,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.52
+2005,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.52
+2006,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.52
+2007,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.57
+2008,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.57
+2009,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.57
+2010,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.63
+2011,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.68
+2012,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,3.99
+2015,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.68
+2016,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.68
+2017,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.68
+2018,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,4.06
+2019,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.68
+2020,Palestine,Forest area as a proportion of total land area (%) by AREA and TIME PERIOD,1.68

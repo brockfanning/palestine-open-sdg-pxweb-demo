@@ -1,25 +1,49 @@
-Year,SEX,Value
-2013,Male,
-2014,Male,1.69
-2015,Male,
-2016,Male,
-2017,Male,
-2018,Male,
-2019,Male,
-2020,Male,
-2013,Female,
-2014,Female,0.92
-2015,Female,
-2016,Female,
-2017,Female,
-2018,Female,
-2019,Female,
-2020,Female,
-2013,,0.8
-2014,,1.31
-2015,,0.69
-2016,,0.71
-2017,,0.85
-2018,,0.95
-2019,,1.11
-2020,,0.8
+Year,SEX,Series,Value
+2013,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,
+2014,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,21.0
+2015,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,14.0
+2016,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,12.0
+2017,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,14.0
+2018,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,15.0
+2019,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,25.0
+2020,Male,Number of deaths attributed to suicide by SEX and TIME PERIOD,18.0
+2013,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,
+2014,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,11.0
+2015,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,4.0
+2016,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,6.0
+2017,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,8.0
+2018,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,10.0
+2019,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,5.0
+2020,Female,Number of deaths attributed to suicide by SEX and TIME PERIOD,4.0
+2013,,Number of deaths attributed to suicide by SEX and TIME PERIOD,19.0
+2014,,Number of deaths attributed to suicide by SEX and TIME PERIOD,32.0
+2015,,Number of deaths attributed to suicide by SEX and TIME PERIOD,18.0
+2016,,Number of deaths attributed to suicide by SEX and TIME PERIOD,18.0
+2017,,Number of deaths attributed to suicide by SEX and TIME PERIOD,22.0
+2018,,Number of deaths attributed to suicide by SEX and TIME PERIOD,25.0
+2019,,Number of deaths attributed to suicide by SEX and TIME PERIOD,30.0
+2020,,Number of deaths attributed to suicide by SEX and TIME PERIOD,22.0
+2013,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2014,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",1.69
+2015,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2016,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2017,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2018,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2019,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2020,Male,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2013,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2014,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",0.92
+2015,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2016,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2017,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2018,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2019,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2020,Female,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",
+2013,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",0.8
+2014,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",1.31
+2015,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",0.69
+2016,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",0.71
+2017,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",0.85
+2018,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",0.95
+2019,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",1.11
+2020,Both sexes or no breakdown by sex,"Suicide mortality rate (deaths per 100,000 population) by SEX and TIME PERIOD",0.8

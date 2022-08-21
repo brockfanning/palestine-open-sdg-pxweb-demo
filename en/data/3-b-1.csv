@@ -1,37 +1,109 @@
-Year,URBANISATION,SEX,AREA,Value
-2019,,Male,West Bank,
-2019,,Male,Gaza Strip,
-2019,,Male,Palestine,93.9
-2019,,Female,West Bank,
-2019,,Female,Gaza Strip,
-2019,,Female,Palestine,93.9
-2019,,,West Bank,91.9
-2019,,,Gaza Strip,96.5
-2019,,,Palestine,93.9
-2019,Urban,Male,West Bank,
-2019,Urban,Male,Gaza Strip,
-2019,Urban,Male,Palestine,
-2019,Urban,Female,West Bank,
-2019,Urban,Female,Gaza Strip,
-2019,Urban,Female,Palestine,
-2019,Urban,,West Bank,
-2019,Urban,,Gaza Strip,
-2019,Urban,,Palestine,94.3
-2019,Rural,Male,West Bank,
-2019,Rural,Male,Gaza Strip,
-2019,Rural,Male,Palestine,
-2019,Rural,Female,West Bank,
-2019,Rural,Female,Gaza Strip,
-2019,Rural,Female,Palestine,
-2019,Rural,,West Bank,
-2019,Rural,,Gaza Strip,
-2019,Rural,,Palestine,92.5
-2019,Camp,Male,West Bank,
-2019,Camp,Male,Gaza Strip,
-2019,Camp,Male,Palestine,
-2019,Camp,Female,West Bank,
-2019,Camp,Female,Gaza Strip,
-2019,Camp,Female,Palestine,
-2019,Camp,,West Bank,
-2019,Camp,,Gaza Strip,
-2019,Camp,,Palestine,92.3
+Year,URBANISATION,SEX,AREA,Series,Value
+2019,,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",94.7
+2019,,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",94.5
+2019,,,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",92.7
+2019,,,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",97.3
+2019,,,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",94.6
+2019,Urban,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",95.4
+2019,Rural,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",91.2
+2019,Camp,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,,West Bank,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,,Palestine,"Percentage of children aged 12-23 months who received the third dose of DTP containing vaccine (DTP3) in a given year by URBANISATION, SEX, AREA and TIME PERIOD",93.6
+2019,Total,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",92.0
+2019,Total,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",91.3
+2019,Total,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",89.2
+2019,Total,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",95.1
+2019,Total,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",91.7
+2019,Urban,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",92.4
+2019,Rural,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",88.6
+2019,Camp,Male,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Male,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Male,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 12-23 months who received the third dose of Pneumococcal (Conjugate) vaccine (PCV3)  in a given year by URBANISATION, SEX, AREA and TIME PERIOD",91.4
+2019,Total,Male,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Male,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Male,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",93.9
+2019,Total,Female,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Female,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Total,Female,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",93.9
+2019,Total,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",91.9
+2019,Total,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",96.5
+2019,Total,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",93.9
+2019,Urban,Male,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Male,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Male,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Female,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Urban,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",94.3
+2019,Rural,Male,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Male,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Male,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Female,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Rural,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",92.5
+2019,Camp,Male,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Male,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Male,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Female,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Both sexes or no breakdown by sex,West Bank,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",
+2019,Camp,Both sexes or no breakdown by sex,Palestine,"Percentage of children aged 24-35 months who received the second measles containing vaccine in a given year by URBANISATION, SEX, AREA and TIME PERIOD",92.3

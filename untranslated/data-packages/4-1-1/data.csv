@@ -1,10 +1,37 @@
-Year,SEX,AREA,Value
-2019,Male,West Bank,52.0
-2019,Male,Gaza Strip,38.8
-2019,Male,Palestine,46.0
-2019,Female,West Bank,55.7
-2019,Female,Gaza Strip,35.1
-2019,Female,Palestine,45.9
-2019,,West Bank,53.9
-2019,,Gaza Strip,36.9
-2019,,Palestine,45.9
+Year,SEX,AREA,Series,Value
+2019,Male,West Bank,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",30.3
+2019,Male,Gaza Strip,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",20.3
+2019,Male,Palestine,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",25.9
+2019,Female,West Bank,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",29.8
+2019,Female,Gaza Strip,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",23.1
+2019,Female,Palestine,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",26.6
+2019,,West Bank,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",30.1
+2019,,Gaza Strip,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",21.8
+2019,,Palestine,"Percentage of children in grades 2\3who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",26.3
+2019,Male,West Bank,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",52.2
+2019,Male,Gaza Strip,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",43.4
+2019,Male,Palestine,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",48.2
+2019,Female,West Bank,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",63.3
+2019,Female,Gaza Strip,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",50.9
+2019,Female,Palestine,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",57.4
+2019,Both sexes or no breakdown by sex,West Bank,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",57.8
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",47.3
+2019,Both sexes or no breakdown by sex,Palestine,"Percentage of children at basic stage* who demonstrated foundational reading skills by SEX, AREA and TIME PERIOD",52.9
+2019,Male,West Bank,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",34.7
+2019,Male,Gaza Strip,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",16.9
+2019,Male,Palestine,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",26.9
+2019,Female,West Bank,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",30.8
+2019,Female,Gaza Strip,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",19.1
+2019,Female,Palestine,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",25.2
+2019,Both sexes or no breakdown by sex,West Bank,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",32.8
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",18.1
+2019,Both sexes or no breakdown by sex,Palestine,"Percentage of children in grades 2\3 who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",26.0
+2019,Male,West Bank,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",52.0
+2019,Male,Gaza Strip,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",38.8
+2019,Male,Palestine,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",46.0
+2019,Female,West Bank,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",55.7
+2019,Female,Gaza Strip,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",35.1
+2019,Female,Palestine,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",45.9
+2019,Both sexes or no breakdown by sex,West Bank,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",53.9
+2019,Both sexes or no breakdown by sex,Gaza Strip,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",36.9
+2019,Both sexes or no breakdown by sex,Palestine,"Percentage of children at basic stage* who demonstrate foundational numeracy skills by SEX, AREA and TIME PERIOD",45.9

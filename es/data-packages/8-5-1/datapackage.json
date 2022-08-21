@@ -58,6 +58,17 @@
             "title": "OCCUPATION"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average hourly earnings of female and male employees, by occupation, age and persons with disabilities (NIS) by SEX, AREA, OCCUPATION and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

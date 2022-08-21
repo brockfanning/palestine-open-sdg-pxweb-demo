@@ -29,6 +29,19 @@
             "title": "AREA"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of GDP (%) (constant prices) by AREA and TIME PERIOD",
+                "Manufacturing value added  per capita (%) by AREA and TIME PERIOD",
+                "Manufacturing value added (current United States dollars) as a proportion of GDP by AREA and TIME PERIOD",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

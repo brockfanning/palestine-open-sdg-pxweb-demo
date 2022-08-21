@@ -1,3 +1,22 @@
-Year,Value
-2019,163869
-2020,220799
+Year,Series,Value
+2017,"Fixed Internet broadband subscriptions, by speed (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",0.01
+2018,"Fixed Internet broadband subscriptions, by speed (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",0.03
+2019,"Fixed Internet broadband subscriptions, by speed (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",0.01
+2020,"Fixed Internet broadband subscriptions, by speed (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",0.0
+2016,"Fixed Internet broadband subscriptions, by speed (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",7.3
+2017,"Fixed Internet broadband subscriptions, by speed (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",2.99
+2018,"Fixed Internet broadband subscriptions, by speed (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",3.54
+2019,"Fixed Internet broadband subscriptions, by speed (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",4.22
+2020,"Fixed Internet broadband subscriptions, by speed (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",3.11
+2017,"Fixed Internet broadband subscriptions, by speed (Equal to or above 10 Mbit/s) by TIME PERIOD",4.45
+2018,"Fixed Internet broadband subscriptions, by speed (Equal to or above 10 Mbit/s) by TIME PERIOD",3.77
+2019,"Fixed Internet broadband subscriptions, by speed (Equal to or above 10 Mbit/s) by TIME PERIOD",3.45
+2020,"Fixed Internet broadband subscriptions, by speed (Equal to or above 10 Mbit/s) by TIME PERIOD",4.54
+2019,"Fixed Internet broadband subscriptions, by speed (anys) by TIME PERIOD",7.69
+2020,"Fixed Internet broadband subscriptions, by speed (anys) by TIME PERIOD",7.65
+2019,"Number of fixed Internet broadband subscriptions, by speed (number) (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",524.0
+2020,"Number of fixed Internet broadband subscriptions, by speed (number) (256 kbit/s to less than 2 Mbit/s) by TIME PERIOD",54.0
+2019,"Number of fixed Internet broadband subscriptions, by speed (number) (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",200488.0
+2020,"Number of fixed Internet broadband subscriptions, by speed (number) (2 Mbit/s to less than 10 Mbit/s) by TIME PERIOD",151317.0
+2019,"Number of fixed Internet broadband subscriptions, by speed (number) (Equal to or above 10 Mbit/s) by TIME PERIOD",163869.0
+2020,"Number of fixed Internet broadband subscriptions, by speed (number) (Equal to or above 10 Mbit/s) by TIME PERIOD",220799.0

@@ -1,4 +1,7 @@
-Year,AREA,Value
-2010,West Bank,16.8
-2010,Gaza Strip,29.3
-2010,Palestine,21.6
+Year,AREA,Series,Value
+2010,West Bank,Prevalence of anemia in pregnant women aged 15 to 49 years by AREA and TIME PERIOD,15.4
+2010,Gaza Strip,Prevalence of anemia in pregnant women aged 15 to 49 years by AREA and TIME PERIOD,39.1
+2010,Palestine,Prevalence of anemia in pregnant women aged 15 to 49 years by AREA and TIME PERIOD,26.7
+2010,West Bank,Prevalence of anemia in non-nonpregnant women aged 15 to 49 years by AREA and TIME PERIOD,16.8
+2010,Gaza Strip,Prevalence of anemia in non-nonpregnant women aged 15 to 49 years by AREA and TIME PERIOD,29.3
+2010,Palestine,Prevalence of anemia in non-nonpregnant women aged 15 to 49 years by AREA and TIME PERIOD,21.6

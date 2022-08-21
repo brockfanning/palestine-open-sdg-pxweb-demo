@@ -1,31 +1,31 @@
-Year,SEX,AREA,Value
-2004,Female,West Bank,65
-2006,Female,West Bank,55
-2010,Female,West Bank,59
-2014,Female,West Bank,35
-2019,Female,West Bank,39
-2004,Female,Gaza Strip,76
-2006,Female,Gaza Strip,67
-2010,Female,Gaza Strip,65
-2014,Female,Gaza Strip,66
-2019,Female,Gaza Strip,48
-2004,Female,Palestine,69
-2006,Female,Palestine,59
-2010,Female,Palestine,67
-2014,Female,Palestine,48
-2019,Female,Palestine,43
-2004,,West Bank,65
-2006,,West Bank,55
-2010,,West Bank,59
-2014,,West Bank,35
-2019,,West Bank,39
-2004,,Gaza Strip,76
-2006,,Gaza Strip,67
-2010,,Gaza Strip,65
-2014,,Gaza Strip,66
-2019,,Gaza Strip,48
-2004,,Palestine,69
-2006,,Palestine,59
-2010,,Palestine,67
-2014,,Palestine,48
-2019,,Palestine,43
+Year,SEX,AREA,Series,Value
+2004,Female,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",65
+2006,Female,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",55
+2010,Female,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",59
+2014,Female,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",35
+2019,Female,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",39
+2004,Female,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",76
+2006,Female,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",67
+2010,Female,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",65
+2014,Female,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",66
+2019,Female,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",48
+2004,Female,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",69
+2006,Female,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",59
+2010,Female,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",67
+2014,Female,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",48
+2019,Female,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",43
+2004,,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",65
+2006,,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",55
+2010,,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",59
+2014,,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",35
+2019,,West Bank,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",39
+2004,,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",76
+2006,,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",67
+2010,,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",65
+2014,,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",66
+2019,,Gaza Strip,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",48
+2004,,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",69
+2006,,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",59
+2010,,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",67
+2014,,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",48
+2019,,Palestine,"Adolescent birth rate (per 1,000 women aged 15-19 years) by SEX, AREA and TIME PERIOD",43
